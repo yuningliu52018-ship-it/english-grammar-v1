@@ -1,0 +1,1355 @@
+{
+  "version": 1,
+  "year": 108,
+  "source": {
+    "file": "英語科_108年會考試題_閱讀_教用.pdf",
+    "sha256": "440f5c82a48193740fe6250b67d8632364e6b1164f959983c6ef6f75bca5eb7a",
+    "pages": 6
+  },
+  "rawCount": 41,
+  "approvedCount": 41,
+  "reviewCount": 0,
+  "groups": [
+    {
+      "id": "CAP-108-G16-17",
+      "firstQuestion": 16,
+      "lastQuestion": 17,
+      "questionIds": [
+        "CAP-108-16",
+        "CAP-108-17"
+      ],
+      "passageImages": [
+        "assets/108/group-16-17-1.png"
+      ],
+      "status": "approved"
+    },
+    {
+      "id": "CAP-108-G18-19",
+      "firstQuestion": 18,
+      "lastQuestion": 19,
+      "questionIds": [
+        "CAP-108-18",
+        "CAP-108-19"
+      ],
+      "passageImages": [
+        "assets/108/group-18-19-1.png"
+      ],
+      "status": "approved"
+    },
+    {
+      "id": "CAP-108-G20-22",
+      "firstQuestion": 20,
+      "lastQuestion": 22,
+      "questionIds": [
+        "CAP-108-20",
+        "CAP-108-21",
+        "CAP-108-22"
+      ],
+      "passageImages": [
+        "assets/108/group-20-22-1.png"
+      ],
+      "status": "approved"
+    },
+    {
+      "id": "CAP-108-G23-25",
+      "firstQuestion": 23,
+      "lastQuestion": 25,
+      "questionIds": [
+        "CAP-108-23",
+        "CAP-108-24",
+        "CAP-108-25"
+      ],
+      "passageImages": [
+        "assets/108/group-23-25-1.png"
+      ],
+      "status": "approved"
+    },
+    {
+      "id": "CAP-108-G26-28",
+      "firstQuestion": 26,
+      "lastQuestion": 28,
+      "questionIds": [
+        "CAP-108-26",
+        "CAP-108-27",
+        "CAP-108-28"
+      ],
+      "passageImages": [
+        "assets/108/group-26-28-1.png"
+      ],
+      "status": "approved"
+    },
+    {
+      "id": "CAP-108-G29-32",
+      "firstQuestion": 29,
+      "lastQuestion": 32,
+      "questionIds": [
+        "CAP-108-29",
+        "CAP-108-30",
+        "CAP-108-31",
+        "CAP-108-32"
+      ],
+      "passageImages": [
+        "assets/108/group-29-32-1.png"
+      ],
+      "status": "approved"
+    },
+    {
+      "id": "CAP-108-G33-35",
+      "firstQuestion": 33,
+      "lastQuestion": 35,
+      "questionIds": [
+        "CAP-108-33",
+        "CAP-108-34",
+        "CAP-108-35"
+      ],
+      "passageImages": [
+        "assets/108/group-33-35-1.png"
+      ],
+      "status": "approved"
+    },
+    {
+      "id": "CAP-108-G36-37",
+      "firstQuestion": 36,
+      "lastQuestion": 37,
+      "questionIds": [
+        "CAP-108-36",
+        "CAP-108-37"
+      ],
+      "passageImages": [
+        "assets/108/group-36-37-1.png"
+      ],
+      "status": "approved"
+    },
+    {
+      "id": "CAP-108-G38-41",
+      "firstQuestion": 38,
+      "lastQuestion": 41,
+      "questionIds": [
+        "CAP-108-38",
+        "CAP-108-39",
+        "CAP-108-40",
+        "CAP-108-41"
+      ],
+      "passageImages": [
+        "assets/108/group-38-41-1.png"
+      ],
+      "status": "approved"
+    }
+  ],
+  "questions": [
+    {
+      "id": "CAP-108-01",
+      "year": 108,
+      "questionNumber": 1,
+      "groupId": null,
+      "question": "Look at the picture. The mother duck is ______ the baby ducks across the street.",
+      "choices": {
+        "A": "carrying",
+        "B": "leading",
+        "C": "pushing",
+        "D": "watching"
+      },
+      "answer": "B",
+      "quickExplanation": "根據圖片，母鴨正在帶領著小鴨過馬路，故選(B)。",
+      "explanation": "根據圖片，母鴨正在帶領著小鴨過馬路，故選(B)。",
+      "images": [
+        "assets/108/q01-1.png"
+      ],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "teacher-explanation-and-original-options",
+        "pdfPage": 1,
+        "evidence": "根據圖片，母鴨正在帶領著小鴨過馬路，故選(B)。"
+      }
+    },
+    {
+      "id": "CAP-108-02",
+      "year": 108,
+      "questionNumber": 2,
+      "groupId": null,
+      "question": "Ms. Liu usually gives us a lot of homework, ______ she didn’t give us any today.",
+      "choices": {
+        "A": "but",
+        "B": "if",
+        "C": "or",
+        "D": "so"
+      },
+      "answer": "A",
+      "quickExplanation": "前後句語意轉折，所以選「但是」。",
+      "explanation": "前後句語意轉折，所以選「但是」。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "teacher-explanation-and-original-options",
+        "pdfPage": 1,
+        "evidence": "前後句語意轉折，所以選「但是」。"
+      }
+    },
+    {
+      "id": "CAP-108-03",
+      "year": 108,
+      "questionNumber": 3,
+      "groupId": null,
+      "question": "Playing games on the cellphone ______ popular with high school students.",
+      "choices": {
+        "A": "is",
+        "B": "are",
+        "C": "being",
+        "D": "to be"
+      },
+      "answer": "A",
+      "quickExplanation": "此題要選擇主要動詞，而主詞是「Playing games on the cellphone」這一件事情，所以動詞選單數的 is，(C)、(D)選項都不能當作動詞使用。",
+      "explanation": "此題要選擇主要動詞，而主詞是「Playing games on the cellphone」這一件事情，所以動詞選單數的 is，(C)、(D)選項都不能當作動詞使用。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "teacher-explanation-and-original-options",
+        "pdfPage": 1,
+        "evidence": "此題要選擇主要動詞，而主詞是「Playing games on the cellphone」這一件事情，所以動詞選單數的 is，(C)、(D)選項都不能當作動詞使用。"
+      }
+    },
+    {
+      "id": "CAP-108-04",
+      "year": 108,
+      "questionNumber": 4,
+      "groupId": null,
+      "question": "There ______ more than twenty clubs in our school. Which one would you like to join?",
+      "choices": {
+        "A": "has",
+        "B": "have",
+        "C": "is",
+        "D": "are"
+      },
+      "answer": "D",
+      "quickExplanation": "此句型是「我們學校有」，所以要用 There is/are 句型，(A)、(B)選項必須以人當主詞。",
+      "explanation": "此句型是「我們學校有」，所以要用 There is/are 句型，(A)、(B)選項必須以人當主詞。主詞「超過二十個社團」是複數，所以要用 are。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "teacher-explanation-and-original-options",
+        "pdfPage": 1,
+        "evidence": "此句型是「我們學校有」，所以要用 There is/are 句型，(A)、(B)選項必須以人當主詞。主詞「超過二十個社團」是複數，所以要用 are。"
+      }
+    },
+    {
+      "id": "CAP-108-05",
+      "year": 108,
+      "questionNumber": 5,
+      "groupId": null,
+      "question": "Diane had a bad cold last week. She is still too ______ to go mountain climbing with you.",
+      "choices": {
+        "A": "busy",
+        "B": "short",
+        "C": "weak",
+        "D": "young"
+      },
+      "answer": "C",
+      "quickExplanation": "因為上禮拜重感冒，現在身體還沒完全康復，所以是虛弱的。",
+      "explanation": "因為上禮拜重感冒，現在身體還沒完全康復，所以是虛弱的。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "teacher-explanation-and-original-options",
+        "pdfPage": 1,
+        "evidence": "因為上禮拜重感冒，現在身體還沒完全康復，所以是虛弱的。"
+      }
+    },
+    {
+      "id": "CAP-108-06",
+      "year": 108,
+      "questionNumber": 6,
+      "groupId": null,
+      "question": "The book under Mary’s desk is ______ , but I don’t know why it is there.",
+      "choices": {
+        "A": "us",
+        "B": "me",
+        "C": "my",
+        "D": "mine"
+      },
+      "answer": "D",
+      "quickExplanation": "這裡的 mine = my book，由語意知道桌子底下的書是我的書，所以用 mine 代替 mybook，不能選(C)選項的 my 是因為選項沒有 book。",
+      "explanation": "這裡的 mine = my book，由語意知道桌子底下的書是我的書，所以用 mine 代替 mybook，不能選(C)選項的 my 是因為選項沒有 book。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "teacher-explanation-and-original-options",
+        "pdfPage": 1,
+        "evidence": "這裡的 mine = my book，由語意知道桌子底下的書是我的書，所以用 mine 代替 mybook，不能選(C)選項的 my 是因為選項沒有 book。"
+      }
+    },
+    {
+      "id": "CAP-108-07",
+      "year": 108,
+      "questionNumber": 7,
+      "groupId": null,
+      "question": "Last night a garbage truck hit a tree and turned over. Now the street is ______ with lots of garbage.",
+      "choices": {
+        "A": "dark",
+        "B": "dirty",
+        "C": "heavy",
+        "D": "poor"
+      },
+      "answer": "B",
+      "quickExplanation": "因為是垃圾車翻覆，街上到處是垃圾，所以很髒亂。",
+      "explanation": "因為是垃圾車翻覆，街上到處是垃圾，所以很髒亂。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "teacher-explanation-and-original-options",
+        "pdfPage": 1,
+        "evidence": "因為是垃圾車翻覆，街上到處是垃圾，所以很髒亂。"
+      }
+    },
+    {
+      "id": "CAP-108-08",
+      "year": 108,
+      "questionNumber": 8,
+      "groupId": null,
+      "question": "It almost killed Kevin to take care of his baby sister for one afternoon. He wondered how his mom could do ______ every day.",
+      "choices": {
+        "A": "her",
+        "B": "it",
+        "C": "one",
+        "D": "them"
+      },
+      "answer": "B",
+      "quickExplanation": "凱文困惑他媽媽怎麼有辦法每天都做照顧他妹妹「這一件事情」，這一件事情用 it代替。",
+      "explanation": "凱文困惑他媽媽怎麼有辦法每天都做照顧他妹妹「這一件事情」，這一件事情用 it代替。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "teacher-explanation-and-original-options",
+        "pdfPage": 1,
+        "evidence": "凱文困惑他媽媽怎麼有辦法每天都做照顧他妹妹「這一件事情」，這一件事情用 it代替。"
+      }
+    },
+    {
+      "id": "CAP-108-09",
+      "year": 108,
+      "questionNumber": 9,
+      "groupId": null,
+      "question": "Joyce tells her brother everything. She never ______ anything from him.",
+      "choices": {
+        "A": "covers",
+        "B": "believes",
+        "C": "hides",
+        "D": "takes"
+      },
+      "answer": "C",
+      "quickExplanation": "前面一句說喬依絲所有事情都會跟她哥哥說，代表她不會隱瞞事情。",
+      "explanation": "前面一句說喬依絲所有事情都會跟她哥哥說，代表她不會隱瞞事情。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "teacher-explanation-and-original-options",
+        "pdfPage": 1,
+        "evidence": "前面一句說喬依絲所有事情都會跟她哥哥說，代表她不會隱瞞事情。"
+      }
+    },
+    {
+      "id": "CAP-108-10",
+      "year": 108,
+      "questionNumber": 10,
+      "groupId": null,
+      "question": "Ben always uses his birthday as a(n) ______ to ask Dad to buy him something expensive.",
+      "choices": {
+        "A": "action",
+        "B": "excuse",
+        "C": "prize",
+        "D": "rule"
+      },
+      "answer": "B",
+      "quickExplanation": "根據題意，只有(B)符合題幹文意，故正確答案為選項(B)，其他選項代入後均不合文意。",
+      "explanation": "根據題意，只有(B)符合題幹文意，故正確答案為選項(B)，其他選項代入後均不合文意。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "teacher-explanation-and-original-options",
+        "pdfPage": 1,
+        "evidence": "根據題意，只有(B)符合題幹文意，故正確答案為選項(B)，其他選項代入後均不合文意。"
+      }
+    },
+    {
+      "id": "CAP-108-11",
+      "year": 108,
+      "questionNumber": 11,
+      "groupId": null,
+      "question": "______ that last piece of pie? If not, can I have it? I didn’t eat much this morning.",
+      "choices": {
+        "A": "Had you eaten",
+        "B": "Were you eating",
+        "C": "Do you eat",
+        "D": "Are you going to eat"
+      },
+      "answer": "D",
+      "quickExplanation": "根據文意，I didn’t eat much this morning.表示「過去」沒有吃太多東西，所以說話者詢問對方「將會吃」那最後一塊派嗎？如果對方不吃，可以給他吃嗎？故正確答案為未來式的選項(D)。",
+      "explanation": "根據文意，I didn’t eat much this morning.表示「過去」沒有吃太多東西，所以說話者詢問對方「將會吃」那最後一塊派嗎？如果對方不吃，可以給他吃嗎？故正確答案為未來式的選項(D)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "teacher-explanation-and-original-options",
+        "pdfPage": 1,
+        "evidence": "根據文意，I didn’t eat much this morning.表示「過去」沒有吃太多東西，所以說話者詢問對方「將會吃」那最後一塊派嗎？如果對方不吃，可以給他吃嗎？故正確答案為未來式的選項(D)。"
+      }
+    },
+    {
+      "id": "CAP-108-12",
+      "year": 108,
+      "questionNumber": 12,
+      "groupId": null,
+      "question": "Everyone in the class enjoys playing chess ______ Bill; he thinks the game is boring.",
+      "choices": {
+        "A": "except",
+        "B": "for",
+        "C": "like",
+        "D": "of"
+      },
+      "answer": "A",
+      "quickExplanation": "由 he (=Bill) thinks the game is boring.可知「除了」他，班上人人都喜歡玩西洋棋，故正確答案為選項(A)。",
+      "explanation": "由 he (=Bill) thinks the game is boring.可知「除了」他，班上人人都喜歡玩西洋棋，故正確答案為選項(A)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "teacher-explanation-and-original-options",
+        "pdfPage": 1,
+        "evidence": "由 he (=Bill) thinks the game is boring.可知「除了」他，班上人人都喜歡玩西洋棋，故正確答案為選項(A)。"
+      }
+    },
+    {
+      "id": "CAP-108-13",
+      "year": 108,
+      "questionNumber": 13,
+      "groupId": null,
+      "question": "In my school days, I ______ to English radio programs every day. That was how I learned English at that time.",
+      "choices": {
+        "A": "listen",
+        "B": "have listened",
+        "C": "used to listen",
+        "D": "was listening"
+      },
+      "answer": "C",
+      "quickExplanation": "由 In my school days 與 That was how I learned English at that time.可知時態是過去式，表示過去「習慣聽」英文廣播節目，故正確答案為選項(C)。",
+      "explanation": "由 In my school days 與 That was how I learned English at that time.可知時態是過去式，表示過去「習慣聽」英文廣播節目，故正確答案為選項(C)。選項(D)代表那時候「正在聽」，但題目的時間是 In my school days 並不是過去明確的幾點幾分，所以不能用過去進行式。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "teacher-explanation-and-original-options",
+        "pdfPage": 1,
+        "evidence": "由 In my school days 與 That was how I learned English at that time.可知時態是過去式，表示過去「習慣聽」英文廣播節目，故正確答案為選項(C)。選項(D)代表那時候「正在聽」，但題目的時間是 In my school days 並不是過去明確的幾點幾分，所以不能用過去進行式。"
+      }
+    },
+    {
+      "id": "CAP-108-14",
+      "year": 108,
+      "questionNumber": 14,
+      "groupId": null,
+      "question": "Tom’s voice ______ when he talks about his neighbors. He speaks faster, his face becomes redder and you can almost see fire in his eyes.",
+      "choices": {
+        "A": "appears",
+        "B": "drops",
+        "C": "grows",
+        "D": "rises"
+      },
+      "answer": "D",
+      "quickExplanation": "根據文意，Tom 談及鄰居時，話說得很快、臉脹紅，而且眼睛冒火，可推知 Tom很生氣，音量應該會「提高」，故正確答案為選項(D)。",
+      "explanation": "根據文意，Tom 談及鄰居時，話說得很快、臉脹紅，而且眼睛冒火，可推知 Tom很生氣，音量應該會「提高」，故正確答案為選項(D)。其他選項代入後均不合文意。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "teacher-explanation-and-original-options",
+        "pdfPage": 1,
+        "evidence": "根據文意，Tom 談及鄰居時，話說得很快、臉脹紅，而且眼睛冒火，可推知 Tom很生氣，音量應該會「提高」，故正確答案為選項(D)。其他選項代入後均不合文意。"
+      }
+    },
+    {
+      "id": "CAP-108-15",
+      "year": 108,
+      "questionNumber": 15,
+      "groupId": null,
+      "question": "______ other waiters in the restaurant have worked here longer than Clark; only Lois and Lana started working here before him.",
+      "choices": {
+        "A": "All",
+        "B": "Most",
+        "C": "Some",
+        "D": "Few"
+      },
+      "answer": "D",
+      "quickExplanation": "由 Only Lois and Lana started working here before him (= Clark).此句中 only 與 before兩個關鍵字可推知只有「少數」服務生在這間餐廳工作的時間比 Clark 長，故正確答案為選項(D)。",
+      "explanation": "由 Only Lois and Lana started working here before him (= Clark).此句中 only 與 before兩個關鍵字可推知只有「少數」服務生在這間餐廳工作的時間比 Clark 長，故正確答案為選項(D)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "teacher-explanation-and-original-options",
+        "pdfPage": 1,
+        "evidence": "由 Only Lois and Lana started working here before him (= Clark).此句中 only 與 before兩個關鍵字可推知只有「少數」服務生在這間餐廳工作的時間比 Clark 長，故正確答案為選項(D)。"
+      }
+    },
+    {
+      "id": "CAP-108-16",
+      "year": 108,
+      "questionNumber": 16,
+      "groupId": "CAP-108-G16-17",
+      "question": "What are “Daddy and me” doing in the poem?",
+      "choices": {
+        "A": "Eating.",
+        "B": "Singing.",
+        "C": "Dancing.",
+        "D": "Cooking."
+      },
+      "answer": "D",
+      "quickExplanation": "從第一句 making goulash 可以得知，文中提到兩人一起烹煮食物，答案為選項(D)。",
+      "explanation": "從第一句 making goulash 可以得知，文中提到兩人一起烹煮食物，答案為選項(D)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "teacher-explanation-and-original-options",
+        "pdfPage": 1,
+        "evidence": "從第一句 making goulash 可以得知，文中提到兩人一起烹煮食物，答案為選項(D)。"
+      }
+    },
+    {
+      "id": "CAP-108-17",
+      "year": 108,
+      "questionNumber": 17,
+      "groupId": "CAP-108-G16-17",
+      "question": "What can we most likely know about the speaker?",
+      "choices": {
+        "A": "He seldom understands his father.",
+        "B": "He enjoys his time with his father.",
+        "C": "He often makes goulash for his father.",
+        "D": "He wants to be as famous as his father."
+      },
+      "answer": "B",
+      "quickExplanation": "從最後一段中，可以看到雖然他們過程中不太說話，但一切盡在不言中，代表說話者非常享受與爸爸一起烹煮食物的過程，故答案選(B)。",
+      "explanation": "從最後一段中，可以看到雖然他們過程中不太說話，但一切盡在不言中，代表說話者非常享受與爸爸一起烹煮食物的過程，故答案選(B)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "teacher-explanation-and-original-options",
+        "pdfPage": 2,
+        "evidence": "從最後一段中，可以看到雖然他們過程中不太說話，但一切盡在不言中，代表說話者非常享受與爸爸一起烹煮食物的過程，故答案選(B)。"
+      }
+    },
+    {
+      "id": "CAP-108-18",
+      "year": 108,
+      "questionNumber": 18,
+      "groupId": "CAP-108-G18-19",
+      "question": "Which is true about City Sight Bus tickets?",
+      "choices": {
+        "A": "It costs less to buy tickets on the Internet.",
+        "B": "People must pay the full ticket price for a pet.",
+        "C": "Tickets are more expensive in the high season.",
+        "D": "People save 10% if they buy two tickets for the same line."
+      },
+      "answer": "A",
+      "quickExplanation": "從 Save 10% if you buy tickets on the Internet 可得知(A)為正解。",
+      "explanation": "從 Save 10% if you buy tickets on the Internet 可得知(A)為正解。從 Save 10% if you buy tickets for both lines. 得知需同時購買兩種路線的車票才可以享九折優惠，故不能選(D)",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "teacher-explanation-and-original-options",
+        "pdfPage": 2,
+        "evidence": "從 Save 10% if you buy tickets on the Internet 可得知(A)為正解。從 Save 10% if you buy tickets for both lines. 得知需同時購買兩種路線的車票才可以享九折優惠，故不能選(D)"
+      }
+    },
+    {
+      "id": "CAP-108-19",
+      "year": 108,
+      "questionNumber": 19,
+      "groupId": "CAP-108-G18-19",
+      "question": "Which is true about the bus lines?",
+      "choices": {
+        "A": "Line B takes more time.",
+        "B": "Both lines cross Farmers’ Bridge.",
+        "C": "Both lines leave from Central Station.",
+        "D": "There are more gardens to see on Line A."
+      },
+      "answer": "C",
+      "quickExplanation": "根據圖片及注意事項的第一點，正解為(C)。",
+      "explanation": "根據圖片及注意事項的第一點，正解為(C)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "teacher-explanation-and-original-options",
+        "pdfPage": 2,
+        "evidence": "根據圖片及注意事項的第一點，正解為(C)。"
+      }
+    },
+    {
+      "id": "CAP-108-20",
+      "year": 108,
+      "questionNumber": 20,
+      "groupId": "CAP-108-G20-22",
+      "question": "Why were there seventeen calls asking for Mike?",
+      "choices": {
+        "A": "His team was angry at him.",
+        "B": "He is a popular soccer player.",
+        "C": "He did not show up for the game on Friday.",
+        "D": "His name did not appear on the list of players."
+      },
+      "answer": "A",
+      "quickExplanation": "看到最後兩句可以得知，Mike 說 I’m a dead man. 接著 Sarah 說其他十七個球員也說他死定了，故(A)為正解。",
+      "explanation": "看到最後兩句可以得知，Mike 說 I’m a dead man. 接著 Sarah 說其他十七個球員也說他死定了，故(A)為正解。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "teacher-explanation-and-original-options",
+        "pdfPage": 2,
+        "evidence": "看到最後兩句可以得知，Mike 說 I’m a dead man. 接著 Sarah 說其他十七個球員也說他死定了，故(A)為正解。"
+      }
+    },
+    {
+      "id": "CAP-108-21",
+      "year": 108,
+      "questionNumber": 21,
+      "groupId": "CAP-108-G20-22",
+      "question": "What does It mean in the dialogue?",
+      "choices": {
+        "A": "The shop",
+        "B": "The fan club.",
+        "C": "The soccer game.",
+        "D": "The soccer season."
+      },
+      "answer": "A",
+      "quickExplanation": "從句子可以得知，週末沒有營業的只可能是店家，故選(A)。",
+      "explanation": "從句子可以得知，週末沒有營業的只可能是店家，故選(A)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "teacher-explanation-and-original-options",
+        "pdfPage": 2,
+        "evidence": "從句子可以得知，週末沒有營業的只可能是店家，故選(A)。"
+      }
+    },
+    {
+      "id": "CAP-108-22",
+      "year": 108,
+      "questionNumber": 22,
+      "groupId": "CAP-108-G20-22",
+      "question": "What can we learn about Mike?",
+      "choices": {
+        "A": "He is nice to people from his fan club.",
+        "B": "He plays soccer with Johnny and Ricky.",
+        "C": "He found a way to fix the trouble he made.",
+        "D": "He decided not to go to the game on Sunday."
+      },
+      "answer": "B",
+      "quickExplanation": "從“if you want to know, they are Johnny, Ricky”得知，他們都打電話來找 Mike，代表他們一起踢球，故答案為(B)。",
+      "explanation": "從“if you want to know, they are Johnny, Ricky”得知，他們都打電話來找 Mike，代表他們一起踢球，故答案為(B)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "teacher-explanation-and-original-options",
+        "pdfPage": 2,
+        "evidence": "從“if you want to know, they are Johnny, Ricky”得知，他們都打電話來找 Mike，代表他們一起踢球，故答案為(B)。"
+      }
+    },
+    {
+      "id": "CAP-108-23",
+      "year": 108,
+      "questionNumber": 23,
+      "groupId": "CAP-108-G23-25",
+      "question": "Which is the best title for this reading?",
+      "choices": {
+        "A": "Australia: The Best Place for Birds.",
+        "B": "Mother Bird Fights Weather Changes.",
+        "C": "Larger Mother Birds Have Larger Eggs.",
+        "D": "Family Love: Brothers & Sisters Work Together."
+      },
+      "answer": "B",
+      "quickExplanation": "文中提到了母鳥因應不同氣候會產下不同大小的卵，以協助幼鳥在氣候的變遷下存活，所以(B)是正解。",
+      "explanation": "文中提到了母鳥因應不同氣候會產下不同大小的卵，以協助幼鳥在氣候的變遷下存活，所以(B)是正解。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "teacher-explanation-and-original-options",
+        "pdfPage": 3,
+        "evidence": "文中提到了母鳥因應不同氣候會產下不同大小的卵，以協助幼鳥在氣候的變遷下存活，所以(B)是正解。"
+      }
+    },
+    {
+      "id": "CAP-108-24",
+      "year": 108,
+      "questionNumber": 24,
+      "groupId": "CAP-108-G23-25",
+      "question": "What does this trick mean in the reading?",
+      "choices": {
+        "A": "Having eggs of different sizes.",
+        "B": "Growing stronger inside the egg.",
+        "C": "Saving food for weaker baby birds.",
+        "D": "Helping baby birds break out of the eggs."
+      },
+      "answer": "A",
+      "quickExplanation": "第一段先提及母鳥因應不同天氣會產下不同的卵，而後第 2 二段中提到了 not allmother birds are able to do this trick，其中母鳥是關鍵字，所以(A)是正解。",
+      "explanation": "第一段先提及母鳥因應不同天氣會產下不同的卵，而後第 2 二段中提到了 not allmother birds are able to do this trick，其中母鳥是關鍵字，所以(A)是正解。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "teacher-explanation-and-original-options",
+        "pdfPage": 3,
+        "evidence": "第一段先提及母鳥因應不同天氣會產下不同的卵，而後第 2 二段中提到了 not allmother birds are able to do this trick，其中母鳥是關鍵字，所以(A)是正解。"
+      }
+    },
+    {
+      "id": "CAP-108-25",
+      "year": 108,
+      "questionNumber": 25,
+      "groupId": "CAP-108-G23-25",
+      "question": "What can we learn about superb fairy-wrens from the reading?",
+      "choices": {
+        "A": "Male birds can usually live for ten years.",
+        "B": "Baby birds grow well in hot, dry weather.",
+        "C": "Young male birds share the job of feeding the baby birds.",
+        "D": "Mother birds make smaller eggs when there is less food outside."
+      },
+      "answer": "C",
+      "quickExplanation": "第二段有提及公幼鳥分擔了撫育幼鳥的工作，所以(C)是正解。",
+      "explanation": "第二段有提及公幼鳥分擔了撫育幼鳥的工作，所以(C)是正解。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "teacher-explanation-and-original-options",
+        "pdfPage": 3,
+        "evidence": "第二段有提及公幼鳥分擔了撫育幼鳥的工作，所以(C)是正解。"
+      }
+    },
+    {
+      "id": "CAP-108-26",
+      "year": 108,
+      "questionNumber": 26,
+      "groupId": "CAP-108-G26-28",
+      "question": "What idea is talked about in both pieces of news?",
+      "choices": {
+        "A": "More young people need to join in making art.",
+        "B": "People’s ways of enjoying art change with time.",
+        "C": "Bringing important art works to Taiwan from abroad.",
+        "D": "Giving new life to old arts that were almost forgotten."
+      },
+      "answer": "D",
+      "quickExplanation": "根據新聞一的第四行開始，及新聞二的第一行開始，皆是闡述因為人們的努力創新及改革，使得老藝術得到重新認識及欣賞，所以此題答案為(D)。",
+      "explanation": "根據新聞一的第四行開始，及新聞二的第一行開始，皆是闡述因為人們的努力創新及改革，使得老藝術得到重新認識及欣賞，所以此題答案為(D)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "teacher-explanation-and-original-options",
+        "pdfPage": 3,
+        "evidence": "根據新聞一的第四行開始，及新聞二的第一行開始，皆是闡述因為人們的努力創新及改革，使得老藝術得到重新認識及欣賞，所以此題答案為(D)。"
+      }
+    },
+    {
+      "id": "CAP-108-27",
+      "year": 108,
+      "questionNumber": 27,
+      "groupId": "CAP-108-G26-28",
+      "question": "What does it mean when something is a smash hit?",
+      "choices": {
+        "A": "It is old.",
+        "B": "It is successful.",
+        "C": "It is foreign.",
+        "D": "It is useful."
+      },
+      "answer": "B",
+      "quickExplanation": "根據第二則新聞的第五行到第八行，「人們對相聲重燃興趣」、「賴聲川打開相聲市場大門」及「愛好者遍布各年齡層」來看，表示賴聲川讓相聲這種老藝術成功地流行起來，故答案選(B)",
+      "explanation": "根據第二則新聞的第五行到第八行，「人們對相聲重燃興趣」、「賴聲川打開相聲市場大門」及「愛好者遍布各年齡層」來看，表示賴聲川讓相聲這種老藝術成功地流行起來，故答案選(B)",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "teacher-explanation-and-original-options",
+        "pdfPage": 3,
+        "evidence": "根據第二則新聞的第五行到第八行，「人們對相聲重燃興趣」、「賴聲川打開相聲市場大門」及「愛好者遍布各年齡層」來看，表示賴聲川讓相聲這種老藝術成功地流行起來，故答案選(B)"
+      }
+    },
+    {
+      "id": "CAP-108-28",
+      "year": 108,
+      "questionNumber": 28,
+      "groupId": "CAP-108-G26-28",
+      "question": "What do we know from the news?",
+      "choices": {
+        "A": "Lai has taught xiangsheng in many schools.",
+        "B": "Lai often puts his own life stories into his art works.",
+        "C": "The owner of Hsin Hsin Paper Offering Store is a Frenchman.",
+        "D": "People do not burn papier-mâché for dead people as often as before."
+      },
+      "answer": "D",
+      "quickExplanation": "(A)、(B)選項在新聞二中皆沒有提到。",
+      "explanation": "(A)、(B)選項在新聞二中皆沒有提到。(C)選項在第一則新聞中我們可以了解店主為台灣人。選項(D)根據第一則新聞的第三句及第四句中可得知，故此選項為正解。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "teacher-explanation-and-original-options",
+        "pdfPage": 3,
+        "evidence": "(A)、(B)選項在新聞二中皆沒有提到。(C)選項在第一則新聞中我們可以了解店主為台灣人。選項(D)根據第一則新聞的第三句及第四句中可得知，故此選項為正解。"
+      }
+    },
+    {
+      "id": "CAP-108-29",
+      "year": 108,
+      "questionNumber": 29,
+      "groupId": "CAP-108-G29-32",
+      "question": "Which idea is talked about in the news?",
+      "choices": {
+        "A": "How often we should drink coffee.",
+        "B": "What happens when we have too much coffee.",
+        "C": "How to help the body make the cortisol we need.",
+        "D": "What happens when we have coffee at the wrong time."
+      },
+      "answer": "D",
+      "quickExplanation": "根據文章內容，第一段第三行提及，喝咖啡最糟的時間點就是起床後(It says the worsttime for coffee is soon after we get up.)。",
+      "explanation": "根據文章內容，第一段第三行提及，喝咖啡最糟的時間點就是起床後(It says the worsttime for coffee is soon after we get up.)。並在同段倒數第四行說明產生的兩個問題(Sothere are two problems when we drink coffee during this time)，因此答案為(D)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "teacher-explanation-and-original-options",
+        "pdfPage": 4,
+        "evidence": "根據文章內容，第一段第三行提及，喝咖啡最糟的時間點就是起床後(It says the worsttime for coffee is soon after we get up.)。並在同段倒數第四行說明產生的兩個問題(Sothere are two problems when we drink coffee during this time)，因此答案為(D)。"
+      }
+    },
+    {
+      "id": "CAP-108-30",
+      "year": 108,
+      "questionNumber": 30,
+      "groupId": "CAP-108-G29-32",
+      "question": "What does it mean when someone thinks otherwise about something?",
+      "choices": {
+        "A": "They are serious about it.",
+        "B": "They have no idea about it.",
+        "C": "They think differently about it.",
+        "D": "They do not think it is a problem."
+      },
+      "answer": "C",
+      "quickExplanation": "根據文章內容，otherwise 前方提及，許多人起床後會來杯咖啡，但 otherwise 後方的報告卻說起床後喝咖啡是最糟的時間點，可推知 otherwise 是表示與前述看法不同的意見，故正確答案為選項(C)。",
+      "explanation": "根據文章內容，otherwise 前方提及，許多人起床後會來杯咖啡，但 otherwise 後方的報告卻說起床後喝咖啡是最糟的時間點，可推知 otherwise 是表示與前述看法不同的意見，故正確答案為選項(C)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "teacher-explanation-and-original-options",
+        "pdfPage": 4,
+        "evidence": "根據文章內容，otherwise 前方提及，許多人起床後會來杯咖啡，但 otherwise 後方的報告卻說起床後喝咖啡是最糟的時間點，可推知 otherwise 是表示與前述看法不同的意見，故正確答案為選項(C)。"
+      }
+    },
+    {
+      "id": "CAP-108-31",
+      "year": 108,
+      "questionNumber": 31,
+      "groupId": "CAP-108-G29-32",
+      "question": "The picture below shows how the cortisol levels rise and fall during the day. From the news, which is a good time for coffee?",
+      "choices": {
+        "A": "A.",
+        "B": "B.",
+        "C": "C.",
+        "D": "D."
+      },
+      "answer": "D",
+      "quickExplanation": "根據文章，飲用咖啡最好的時段在早上八點到九點「之後」、正午到下午一點「之後」，或是下午五點半至六點半「之後」，選項(A)、(B)為皮質醇濃度正在上升之時，選項(C)為濃度最高、皆不是好的時間點，故(D)兩點半為正確答案。",
+      "explanation": "根據文章，飲用咖啡最好的時段在早上八點到九點「之後」、正午到下午一點「之後」，或是下午五點半至六點半「之後」，選項(A)、(B)為皮質醇濃度正在上升之時，選項(C)為濃度最高、皆不是好的時間點，故(D)兩點半為正確答案。",
+      "images": [
+        "assets/108/q31-1.png"
+      ],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "teacher-explanation-and-original-options",
+        "pdfPage": 4,
+        "evidence": "根據文章，飲用咖啡最好的時段在早上八點到九點「之後」、正午到下午一點「之後」，或是下午五點半至六點半「之後」，選項(A)、(B)為皮質醇濃度正在上升之時，選項(C)為濃度最高、皆不是好的時間點，故(D)兩點半為正確答案。"
+      }
+    },
+    {
+      "id": "CAP-108-32",
+      "year": 108,
+      "questionNumber": 32,
+      "groupId": "CAP-108-G29-32",
+      "question": "Four people read the news and wrote what they thought about it. What did they think about the news?",
+      "choices": {
+        "A": "They wanted to try what it said.",
+        "B": "They were sad about what it said.",
+        "C": "They did not agree with what it said.",
+        "D": "They were not surprised at what it said."
+      },
+      "answer": "C",
+      "quickExplanation": "Mike 表示自己想喝咖啡時就是喝咖啡最好的時間點，Sarah 說自己喝完咖啡才會清醒是「真正起床」，Charlie 說當自己沒電時才喝咖啡是最糟的時間點，Lisa 不同意要別人告知她喝咖啡的時間點，綜上所述，四人均不同意報導所言，故(C)為正確答案。",
+      "explanation": "Mike 表示自己想喝咖啡時就是喝咖啡最好的時間點，Sarah 說自己喝完咖啡才會清醒是「真正起床」，Charlie 說當自己沒電時才喝咖啡是最糟的時間點，Lisa 不同意要別人告知她喝咖啡的時間點，綜上所述，四人均不同意報導所言，故(C)為正確答案。",
+      "images": [
+        "assets/108/q32-1.png"
+      ],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "teacher-explanation-and-original-options",
+        "pdfPage": 4,
+        "evidence": "Mike 表示自己想喝咖啡時就是喝咖啡最好的時間點，Sarah 說自己喝完咖啡才會清醒是「真正起床」，Charlie 說當自己沒電時才喝咖啡是最糟的時間點，Lisa 不同意要別人告知她喝咖啡的時間點，綜上所述，四人均不同意報導所言，故(C)為正確答案。"
+      }
+    },
+    {
+      "id": "CAP-108-33",
+      "year": 108,
+      "questionNumber": 33,
+      "groupId": "CAP-108-G33-35",
+      "question": "What does the report NOT suggest?",
+      "choices": {
+        "A": "Having more free buses for shoppers.",
+        "B": "Changing the opening hours on weekdays.",
+        "C": "Making plans to help weekday morning business.",
+        "D": "Changing the time of the special sale on weekends."
+      },
+      "answer": "C",
+      "quickExplanation": "選項 A 位於第一段倒數三行，選項 B 位於第二段倒數兩行，選項 D 位於第一段二～四行，故答案為 (C)。",
+      "explanation": "選項 A 位於第一段倒數三行，選項 B 位於第二段倒數兩行，選項 D 位於第一段二～四行，故答案為 (C)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "teacher-explanation-and-original-options",
+        "pdfPage": 4,
+        "evidence": "選項 A 位於第一段倒數三行，選項 B 位於第二段倒數兩行，選項 D 位於第一段二～四行，故答案為 (C)。"
+      }
+    },
+    {
+      "id": "CAP-108-34",
+      "year": 108,
+      "questionNumber": 34,
+      "groupId": "CAP-108-G33-35",
+      "question": "What does the report say about the shopping center?",
+      "choices": {
+        "A": "Its business on weekdays is not as good as last season.",
+        "B": "It has a special sale one hour before closing every day.",
+        "C": "Most of the shoppers take the free buses to the shopping center.",
+        "D": "A large part of its shoppers on weekday evenings are working parents."
+      },
+      "answer": "D",
+      "quickExplanation": "於第二段第四行有提到週間晚上的消費族群，故答案為 (D)。",
+      "explanation": "於第二段第四行有提到週間晚上的消費族群，故答案為 (D)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "teacher-explanation-and-original-options",
+        "pdfPage": 5,
+        "evidence": "於第二段第四行有提到週間晚上的消費族群，故答案為 (D)。"
+      }
+    },
+    {
+      "id": "CAP-108-35",
+      "year": 108,
+      "questionNumber": 35,
+      "groupId": "CAP-108-G33-35",
+      "question": "Which picture is most likely used in the report?",
+      "choices": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+      },
+      "answer": "B",
+      "quickExplanation": "從第一段知道生意最好的時段是週末下午，從第二段知道生意次好的是週末晚上，再來是平日晚上，最後是週末早上。",
+      "explanation": "從第一段知道生意最好的時段是週末下午，從第二段知道生意次好的是週末晚上，再來是平日晚上，最後是週末早上。",
+      "images": [],
+      "optionImages": {
+        "A": "assets/108/q35-A.png",
+        "B": "assets/108/q35-B.png",
+        "C": "assets/108/q35-C.png",
+        "D": "assets/108/q35-D.png"
+      },
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "teacher-explanation-and-original-options",
+        "pdfPage": 5,
+        "evidence": "從第一段知道生意最好的時段是週末下午，從第二段知道生意次好的是週末晚上，再來是平日晚上，最後是週末早上。"
+      }
+    },
+    {
+      "id": "CAP-108-36",
+      "year": 108,
+      "questionNumber": 36,
+      "groupId": "CAP-108-G36-37",
+      "question": "",
+      "choices": {
+        "A": "change the way you are",
+        "B": "give up being an actress",
+        "C": "travel with a theater group",
+        "D": "run away from your friends"
+      },
+      "answer": "A",
+      "quickExplanation": "根據空格後，文章的第一句及第二句，Maggie 想要變得像女演員們有大眼睛及纖細美腿，表示她想要改變她現在的模樣，故選擇答案(A)。",
+      "explanation": "根據空格後，文章的第一句及第二句，Maggie 想要變得像女演員們有大眼睛及纖細美腿，表示她想要改變她現在的模樣，故選擇答案(A)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "teacher-explanation-and-original-options",
+        "pdfPage": 5,
+        "evidence": "根據空格後，文章的第一句及第二句，Maggie 想要變得像女演員們有大眼睛及纖細美腿，表示她想要改變她現在的模樣，故選擇答案(A)。"
+      }
+    },
+    {
+      "id": "CAP-108-37",
+      "year": 108,
+      "questionNumber": 37,
+      "groupId": "CAP-108-G36-37",
+      "question": "",
+      "choices": {
+        "A": "you’re too shy to talk with people",
+        "B": "you just don’t want to be like others",
+        "C": "you don’t think you’re good enough",
+        "D": "you don’t know what you’ve missed"
+      },
+      "answer": "C",
+      "quickExplanation": "根據第二段第二句及第三句，我們得知 Linda 覺得 Maggie 並不愛自己，因此此題答案選(C)。",
+      "explanation": "根據第二段第二句及第三句，我們得知 Linda 覺得 Maggie 並不愛自己，因此此題答案選(C)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "teacher-explanation-and-original-options",
+        "pdfPage": 5,
+        "evidence": "根據第二段第二句及第三句，我們得知 Linda 覺得 Maggie 並不愛自己，因此此題答案選(C)。"
+      }
+    },
+    {
+      "id": "CAP-108-38",
+      "year": 108,
+      "questionNumber": 38,
+      "groupId": "CAP-108-G38-41",
+      "question": "",
+      "choices": {
+        "A": "has become",
+        "B": "became",
+        "C": "had become",
+        "D": "would become"
+      },
+      "answer": "D",
+      "quickExplanation": "No one “thought” “one day” 在當時沒人想過(過去式)，有一天(未來)，故(D)是正解。",
+      "explanation": "No one “thought” “one day” 在當時沒人想過(過去式)，有一天(未來)，故(D)是正解。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "teacher-explanation-and-original-options",
+        "pdfPage": 6,
+        "evidence": "No one “thought” “one day” 在當時沒人想過(過去式)，有一天(未來)，故(D)是正解。"
+      }
+    },
+    {
+      "id": "CAP-108-39",
+      "year": 108,
+      "questionNumber": 39,
+      "groupId": "CAP-108-G38-41",
+      "question": "",
+      "choices": {
+        "A": "has fallen",
+        "B": "is falling",
+        "C": "had fallen",
+        "D": "would fall"
+      },
+      "answer": "C",
+      "quickExplanation": "“and he decided to marry her after he became the king.” 由 decided 判斷愛德華愛上美國女子的事實先發生，此處應選擇過去完成式，故(C)是正解。",
+      "explanation": "“and he decided to marry her after he became the king.” 由 decided 判斷愛德華愛上美國女子的事實先發生，此處應選擇過去完成式，故(C)是正解。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "teacher-explanation-and-original-options",
+        "pdfPage": 6,
+        "evidence": "“and he decided to marry her after he became the king.” 由 decided 判斷愛德華愛上美國女子的事實先發生，此處應選擇過去完成式，故(C)是正解。"
+      }
+    },
+    {
+      "id": "CAP-108-40",
+      "year": 108,
+      "questionNumber": 40,
+      "groupId": "CAP-108-G38-41",
+      "question": "",
+      "choices": {
+        "A": "This changed Elizabeth’s life",
+        "B": "It was not easy to give up the throne",
+        "C": "It was good news to Elizabeth and her family",
+        "D": "This part of history made the UK a strong country"
+      },
+      "answer": "A",
+      "quickExplanation": "第 1 段先提及王位原應由國王愛德華八世繼承，但因國王愛德華八世的婚姻問題使他放棄王位，第 2 段提到此變故使伊莉莎白二世的父親繼位，也因此伊莉莎白的王位繼承權由此上升至第一位，(She needed to say goodbye to her good old life andprepare to be a queen)，足見這改變了伊莉莎白的一生，故(A)是正解。",
+      "explanation": "第 1 段先提及王位原應由國王愛德華八世繼承，但因國王愛德華八世的婚姻問題使他放棄王位，第 2 段提到此變故使伊莉莎白二世的父親繼位，也因此伊莉莎白的王位繼承權由此上升至第一位，(She needed to say goodbye to her good old life andprepare to be a queen)，足見這改變了伊莉莎白的一生，故(A)是正解。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "teacher-explanation-and-original-options",
+        "pdfPage": 6,
+        "evidence": "第 1 段先提及王位原應由國王愛德華八世繼承，但因國王愛德華八世的婚姻問題使他放棄王位，第 2 段提到此變故使伊莉莎白二世的父親繼位，也因此伊莉莎白的王位繼承權由此上升至第一位，(She needed to say goodbye to her good old life andprepare to be a queen)，足見這改變了伊莉莎白的一生，故(A)是正解。"
+      }
+    },
+    {
+      "id": "CAP-108-41",
+      "year": 108,
+      "questionNumber": 41,
+      "groupId": "CAP-108-G38-41",
+      "question": "",
+      "choices": {
+        "A": "has worked hard for the UK",
+        "B": "has been popular with the people of the UK",
+        "C": "has been the queen of the UK for a long time",
+        "D": "has brought the people of the UK much closer"
+      },
+      "answer": "A",
+      "quickExplanation": "從第 3 段細數伊莉莎白二世的政績判斷，故(A)是正解。",
+      "explanation": "從第 3 段細數伊莉莎白二世的政績判斷，故(A)是正解。從後面的 She has held meetingswith important people in the UK, and has visited many foreign countries.得知她為英國的奉獻，所以答案選(A)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "teacher-explanation-and-original-options",
+        "pdfPage": 6,
+        "evidence": "從第 3 段細數伊莉莎白二世的政績判斷，故(A)是正解。從後面的 She has held meetingswith important people in the UK, and has visited many foreign countries.得知她為英國的奉獻，所以答案選(A)。"
+      }
+    }
+  ],
+  "assetProvenance": [
+    {
+      "path": "assets/108/group-16-17-1.png",
+      "pdfPage": 1,
+      "bbox": [
+        381.85,
+        561.3,
+        509.70000000000005,
+        925.35
+      ],
+      "sha256": "7085a7def020842fee1d3b983f38f2e71f58bd8042057e5d61b0027ba9ebaf3a"
+    },
+    {
+      "path": "assets/108/group-18-19-1.png",
+      "pdfPage": 2,
+      "bbox": [
+        33.95,
+        167.9000000000001,
+        343.2,
+        536.05
+      ],
+      "sha256": "7449e0f3e5d87d415f98ae8d16cd64bb23b149ed2bbb49e732dc3f2da505fd7b"
+    },
+    {
+      "path": "assets/108/group-20-22-1.png",
+      "pdfPage": 2,
+      "bbox": [
+        376.7,
+        174.70000000000005,
+        694.7,
+        369.5
+      ],
+      "sha256": "fbc4b4bd305e1e9810928c5d605cabf4d73143fbb95d4f775e54eee57fbe0e7d"
+    },
+    {
+      "path": "assets/108/group-23-25-1.png",
+      "pdfPage": 3,
+      "bbox": [
+        33.95,
+        43.200000000000045,
+        351.95,
+        293.4
+      ],
+      "sha256": "89b4969b479ea2afbedeebe8deb6ceba25ecea8dcd4d5a00604187750ecd5970"
+    },
+    {
+      "path": "assets/108/group-26-28-1.png",
+      "pdfPage": 3,
+      "bbox": [
+        376.3,
+        46.55000000000007,
+        694.3,
+        333.70000000000005
+      ],
+      "sha256": "6bd5f7c9afc71519e893d958b395a0bd067d8d7421231d5c164bb8ea7efb4cf0"
+    },
+    {
+      "path": "assets/108/group-29-32-1.png",
+      "pdfPage": 4,
+      "bbox": [
+        33.95,
+        43.19999999999993,
+        351.95,
+        347.29999999999995
+      ],
+      "sha256": "db96cf49c243c2fdec2c73585d640ea753bef4d2da191b0bd4345540145b8894"
+    },
+    {
+      "path": "assets/108/group-33-35-1.png",
+      "pdfPage": 4,
+      "bbox": [
+        376.3,
+        544.1,
+        694.55,
+        771.6
+      ],
+      "sha256": "27f905afcfe3956d9168f7cfb5b62cbcd06919139f2943683a7e7e24cf055702"
+    },
+    {
+      "path": "assets/108/group-36-37-1.png",
+      "pdfPage": 5,
+      "bbox": [
+        376.3,
+        44.049999999999955,
+        694.55,
+        302.75
+      ],
+      "sha256": "da8de552cf1d1e4a0c4b1a56fcb1c2b093e49ab38cd1eb2ddc05d3b7772ad546"
+    },
+    {
+      "path": "assets/108/group-38-41-1.png",
+      "pdfPage": 6,
+      "bbox": [
+        33.95,
+        44.049999999999955,
+        351.95,
+        338.15
+      ],
+      "sha256": "d1c2f1fa595143e475967c448c3b4ef93e794956f3f7d6289158ec7b53ae6fd0"
+    },
+    {
+      "path": "assets/108/q01-1.png",
+      "pdfPage": 1,
+      "bbox": [
+        242.85,
+        139.85000000000002,
+        337.05,
+        208.5
+      ],
+      "sha256": "473aed02142dab3a5b333a23c8da5b4706d12c84627684cc4f78d923ba513831"
+    },
+    {
+      "path": "assets/108/q31-1.png",
+      "pdfPage": 4,
+      "bbox": [
+        119.75,
+        797.85,
+        362.65,
+        914.25
+      ],
+      "sha256": "8a86db5d337c6e8e040f42d2a7944adbadefb39cae2a9b3cc19e8b6b996f6dc5"
+    },
+    {
+      "path": "assets/108/q32-1.png",
+      "pdfPage": 4,
+      "bbox": [
+        404.75,
+        76.54999999999995,
+        710.4,
+        266.65
+      ],
+      "sha256": "cc29307cd4e8fb3c33d37dd40a9cf03d6be868d3351fd016b6afb5eb4b8cc6cd"
+    },
+    {
+      "path": "assets/108/q35-A.png",
+      "pdfPage": 5,
+      "bbox": [
+        75.25,
+        256.20000000000005,
+        262.9,
+        351.35
+      ],
+      "sha256": "4ececf1c85c574881ebec556c3742280928093c61a37b4f0b2354a1fe5e32358"
+    },
+    {
+      "path": "assets/108/q35-B.png",
+      "pdfPage": 5,
+      "bbox": [
+        75.25,
+        362.4000000000001,
+        262.3,
+        457.45000000000005
+      ],
+      "sha256": "5f1823af64d86cc33eab483e9e25b6cc07bcecc9e55018db9a8ff07bc442eba4"
+    },
+    {
+      "path": "assets/108/q35-C.png",
+      "pdfPage": 5,
+      "bbox": [
+        75.25,
+        468.35,
+        262.3,
+        563.4
+      ],
+      "sha256": "413356c737fa115030f53f888cc0355bcde227f88d7b48f78cd9626ceedf2047"
+    },
+    {
+      "path": "assets/108/q35-D.png",
+      "pdfPage": 5,
+      "bbox": [
+        75.7,
+        574.9,
+        262.55,
+        669.95
+      ],
+      "sha256": "ebb1af5d0be125e95dc893903a7b5b8e67bb758213edcfe58fdfc2663a89dd3e"
+    }
+  ]
+}

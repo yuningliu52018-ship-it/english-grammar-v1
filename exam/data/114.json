@@ -1,0 +1,1330 @@
+{
+  "version": 1,
+  "year": 114,
+  "source": {
+    "file": "英語科_114年會考試題-閱讀-教用.pdf",
+    "sha256": "b9963d1a75dc0a9d293e5980adbf6ce060d417817fe689ac70158c0a5c21db67",
+    "pages": 11
+  },
+  "rawCount": 43,
+  "approvedCount": 43,
+  "reviewCount": 0,
+  "groups": [
+    {
+      "id": "CAP-114-G20-21",
+      "firstQuestion": 20,
+      "lastQuestion": 21,
+      "questionIds": [
+        "CAP-114-20",
+        "CAP-114-21"
+      ],
+      "passageImages": [
+        "assets/114/group-20-21-1.png"
+      ],
+      "status": "approved"
+    },
+    {
+      "id": "CAP-114-G22-23",
+      "firstQuestion": 22,
+      "lastQuestion": 23,
+      "questionIds": [
+        "CAP-114-22",
+        "CAP-114-23"
+      ],
+      "passageImages": [
+        "assets/114/group-22-23-1.png"
+      ],
+      "status": "approved"
+    },
+    {
+      "id": "CAP-114-G24-25",
+      "firstQuestion": 24,
+      "lastQuestion": 25,
+      "questionIds": [
+        "CAP-114-24",
+        "CAP-114-25"
+      ],
+      "passageImages": [
+        "assets/114/group-24-25-1.png"
+      ],
+      "status": "approved"
+    },
+    {
+      "id": "CAP-114-G26-28",
+      "firstQuestion": 26,
+      "lastQuestion": 28,
+      "questionIds": [
+        "CAP-114-26",
+        "CAP-114-27",
+        "CAP-114-28"
+      ],
+      "passageImages": [
+        "assets/114/group-26-28-1.png"
+      ],
+      "status": "approved"
+    },
+    {
+      "id": "CAP-114-G29-31",
+      "firstQuestion": 29,
+      "lastQuestion": 31,
+      "questionIds": [
+        "CAP-114-29",
+        "CAP-114-30",
+        "CAP-114-31"
+      ],
+      "passageImages": [
+        "assets/114/group-29-31-1.png",
+        "assets/114/group-29-31-2.png",
+        "assets/114/group-29-31-3.png"
+      ],
+      "status": "approved"
+    },
+    {
+      "id": "CAP-114-G32-34",
+      "firstQuestion": 32,
+      "lastQuestion": 34,
+      "questionIds": [
+        "CAP-114-32",
+        "CAP-114-33",
+        "CAP-114-34"
+      ],
+      "passageImages": [
+        "assets/114/group-32-34-1.png"
+      ],
+      "status": "approved"
+    },
+    {
+      "id": "CAP-114-G35-37",
+      "firstQuestion": 35,
+      "lastQuestion": 37,
+      "questionIds": [
+        "CAP-114-35",
+        "CAP-114-36",
+        "CAP-114-37"
+      ],
+      "passageImages": [
+        "assets/114/group-35-37-1.png"
+      ],
+      "status": "approved"
+    },
+    {
+      "id": "CAP-114-G38-43",
+      "firstQuestion": 38,
+      "lastQuestion": 43,
+      "questionIds": [
+        "CAP-114-38",
+        "CAP-114-39",
+        "CAP-114-40",
+        "CAP-114-41",
+        "CAP-114-42",
+        "CAP-114-43"
+      ],
+      "passageImages": [
+        "assets/114/group-38-43-1.png"
+      ],
+      "status": "approved"
+    }
+  ],
+  "questions": [
+    {
+      "id": "CAP-114-01",
+      "year": 114,
+      "questionNumber": 1,
+      "groupId": null,
+      "question": "Look at the picture. A ______ is flying over the houses.",
+      "choices": {
+        "A": "bird",
+        "B": "butterfly",
+        "C": "kite",
+        "D": "plane"
+      },
+      "answer": "D",
+      "quickExplanation": "根據圖片呈現的內容，故答案為(D)飛機。",
+      "explanation": "根據圖片呈現的內容，故答案為(D)飛機。",
+      "images": [
+        "assets/114/q01-1.png"
+      ],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "printed-key-and-teacher-explanation",
+        "pdfPage": 1,
+        "evidence": "根據圖片呈現的內容，故答案為(D)飛機。"
+      }
+    },
+    {
+      "id": "CAP-114-02",
+      "year": 114,
+      "questionNumber": 2,
+      "groupId": null,
+      "question": "When I was a teenager, I was very ______ . But now, it’s easier for me to talk to people.",
+      "choices": {
+        "A": "happy",
+        "B": "lazy",
+        "C": "popular",
+        "D": "shy"
+      },
+      "answer": "D",
+      "quickExplanation": "後面句子提到，現在容易和人交談，由此推斷以前害羞，故答案為 (D) 害羞。",
+      "explanation": "後面句子提到，現在容易和人交談，由此推斷以前害羞，故答案為 (D) 害羞。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "printed-key-and-teacher-explanation",
+        "pdfPage": 1,
+        "evidence": "後面句子提到，現在容易和人交談，由此推斷以前害羞，故答案為 (D) 害羞。"
+      }
+    },
+    {
+      "id": "CAP-114-03",
+      "year": 114,
+      "questionNumber": 3,
+      "groupId": null,
+      "question": "Lena doesn’t want to go ______ with John because she is afraid of water.",
+      "choices": {
+        "A": "dancing",
+        "B": "hiking",
+        "C": "sailing",
+        "D": "shopping"
+      },
+      "answer": "C",
+      "quickExplanation": "句子提到怕水，代表 Lena 應該不喜歡跟水有關的活動，只有 (C) 帆船運動需要在水上進行。",
+      "explanation": "句子提到怕水，代表 Lena 應該不喜歡跟水有關的活動，只有 (C) 帆船運動需要在水上進行。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "printed-key-and-teacher-explanation",
+        "pdfPage": 1,
+        "evidence": "句子提到怕水，代表 Lena 應該不喜歡跟水有關的活動，只有 (C) 帆船運動需要在水上進行。"
+      }
+    },
+    {
+      "id": "CAP-114-04",
+      "year": 114,
+      "questionNumber": 4,
+      "groupId": null,
+      "question": "Cindy enjoys ______ her dad read stories to her before bed.",
+      "choices": {
+        "A": "to listen to",
+        "B": "listening to",
+        "C": "listen to",
+        "D": "listens to"
+      },
+      "answer": "B",
+      "quickExplanation": "動詞 enjoy 後面要接動名詞（V-ing），故答案為 (B) listening to。",
+      "explanation": "動詞 enjoy 後面要接動名詞（V-ing），故答案為 (B) listening to。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "printed-key-and-teacher-explanation",
+        "pdfPage": 1,
+        "evidence": "動詞 enjoy 後面要接動名詞（V-ing），故答案為 (B) listening to。"
+      }
+    },
+    {
+      "id": "CAP-114-05",
+      "year": 114,
+      "questionNumber": 5,
+      "groupId": null,
+      "question": "Dad is busy cooking in the kitchen. Dinner will be ______ in ten minutes.",
+      "choices": {
+        "A": "free",
+        "B": "full",
+        "C": "medium",
+        "D": "ready"
+      },
+      "answer": "D",
+      "quickExplanation": "前面句子提到，爸爸正忙著煮飯，推斷飯菜很快能準備好，故答案為 (D) ready。",
+      "explanation": "前面句子提到，爸爸正忙著煮飯，推斷飯菜很快能準備好，故答案為 (D) ready。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "printed-key-and-teacher-explanation",
+        "pdfPage": 1,
+        "evidence": "前面句子提到，爸爸正忙著煮飯，推斷飯菜很快能準備好，故答案為 (D) ready。"
+      }
+    },
+    {
+      "id": "CAP-114-06",
+      "year": 114,
+      "questionNumber": 6,
+      "groupId": null,
+      "question": "There are so many new ______ in the office. It’ll take me some time to remember who is who.",
+      "choices": {
+        "A": "faces",
+        "B": "ideas",
+        "C": "rules",
+        "D": "tools"
+      },
+      "answer": "A",
+      "quickExplanation": "後面句子提到，需要時間記憶，可以推斷辦公室有好多新來的人，且句末關鍵字 who 對應選項中 faces，故答案為 (A) 面孔。",
+      "explanation": "後面句子提到，需要時間記憶，可以推斷辦公室有好多新來的人，且句末關鍵字 who 對應選項中 faces，故答案為 (A) 面孔。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "printed-key-and-teacher-explanation",
+        "pdfPage": 1,
+        "evidence": "後面句子提到，需要時間記憶，可以推斷辦公室有好多新來的人，且句末關鍵字 who 對應選項中 faces，故答案為 (A) 面孔。"
+      }
+    },
+    {
+      "id": "CAP-114-07",
+      "year": 114,
+      "questionNumber": 7,
+      "groupId": null,
+      "question": "I feel like a ______ . I was looking for my keys for hours but they have been in my pocket the whole time.",
+      "choices": {
+        "A": "fool",
+        "B": "ghost",
+        "C": "king",
+        "D": "stranger"
+      },
+      "answer": "A",
+      "quickExplanation": "後面句子提到，找了鑰匙好久，結果發現一直在口袋裡，可以推斷說話者認為自己像個傻瓜，故答案為 (A) 傻瓜。",
+      "explanation": "後面句子提到，找了鑰匙好久，結果發現一直在口袋裡，可以推斷說話者認為自己像個傻瓜，故答案為 (A) 傻瓜。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "printed-key-and-teacher-explanation",
+        "pdfPage": 1,
+        "evidence": "後面句子提到，找了鑰匙好久，結果發現一直在口袋裡，可以推斷說話者認為自己像個傻瓜，故答案為 (A) 傻瓜。"
+      }
+    },
+    {
+      "id": "CAP-114-08",
+      "year": 114,
+      "questionNumber": 8,
+      "groupId": null,
+      "question": "Mr. and Mrs. Wu have three daughters. Two are in high school, and ______ is in elementary school.",
+      "choices": {
+        "A": "each",
+        "B": "the other",
+        "C": "the one",
+        "D": "the next"
+      },
+      "answer": "B",
+      "quickExplanation": "已知總共三個女兒，兩個已提及，剩下的那一個就用 the other。",
+      "explanation": "已知總共三個女兒，兩個已提及，剩下的那一個就用 the other。The other 有限定意味，故答案為(B)剩下的那一個。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "printed-key-and-teacher-explanation",
+        "pdfPage": 1,
+        "evidence": "已知總共三個女兒，兩個已提及，剩下的那一個就用 the other。The other 有限定意味，故答案為(B)剩下的那一個。"
+      }
+    },
+    {
+      "id": "CAP-114-09",
+      "year": 114,
+      "questionNumber": 9,
+      "groupId": null,
+      "question": "It is hard for trees to ______ along this beach because of the strong winds from the sea.",
+      "choices": {
+        "A": "blow",
+        "B": "build",
+        "C": "follow",
+        "D": "grow"
+      },
+      "answer": "D",
+      "quickExplanation": "句子提到海風和樹，推斷後面句子討論樹的生長情況。",
+      "explanation": "句子提到海風和樹，推斷後面句子討論樹的生長情況。強風讓樹難以生長，故答案為(D)生長。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "printed-key-and-teacher-explanation",
+        "pdfPage": 2,
+        "evidence": "句子提到海風和樹，推斷後面句子討論樹的生長情況。強風讓樹難以生長，故答案為(D)生長。"
+      }
+    },
+    {
+      "id": "CAP-114-10",
+      "year": 114,
+      "questionNumber": 10,
+      "groupId": null,
+      "question": "Christmas ______ and I want to visit my aunt abroad. Do you have any plans yet?",
+      "choices": {
+        "A": "came",
+        "B": "comes",
+        "C": "is coming",
+        "D": "was coming"
+      },
+      "answer": "C",
+      "quickExplanation": "come 為來去動詞，可用現在進行式表示未來，故答案為 (C) 來到；現在進行式（表示未來）。",
+      "explanation": "come 為來去動詞，可用現在進行式表示未來，故答案為 (C) 來到；現在進行式（表示未來）。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "printed-key-and-teacher-explanation",
+        "pdfPage": 2,
+        "evidence": "come 為來去動詞，可用現在進行式表示未來，故答案為 (C) 來到；現在進行式（表示未來）。"
+      }
+    },
+    {
+      "id": "CAP-114-11",
+      "year": 114,
+      "questionNumber": 11,
+      "groupId": null,
+      "question": "Jo won’t be happy if you’re late for his party tonight, so ______ sure that you arrive on time.",
+      "choices": {
+        "A": "make",
+        "B": "makes",
+        "C": "to make",
+        "D": "is making"
+      },
+      "answer": "A",
+      "quickExplanation": "此句句型是 make sure that...（確保......），為祈使句，當給出指令、建議或提醒時，會省略主詞，使用原形動詞開頭，故答案為 (A) 確保；原型動詞。",
+      "explanation": "此句句型是 make sure that...（確保......），為祈使句，當給出指令、建議或提醒時，會省略主詞，使用原形動詞開頭，故答案為 (A) 確保；原型動詞。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "printed-key-and-teacher-explanation",
+        "pdfPage": 2,
+        "evidence": "此句句型是 make sure that...（確保......），為祈使句，當給出指令、建議或提醒時，會省略主詞，使用原形動詞開頭，故答案為 (A) 確保；原型動詞。"
+      }
+    },
+    {
+      "id": "CAP-114-12",
+      "year": 114,
+      "questionNumber": 12,
+      "groupId": null,
+      "question": "You may have a long drive because of the terrible ______ . There are usually a lot of cars and buses during this time.",
+      "choices": {
+        "A": "experience",
+        "B": "machine",
+        "C": "service",
+        "D": "traffic"
+      },
+      "answer": "D",
+      "quickExplanation": "前後句子提到，開車開很久以及很多車和巴士，推斷交通壅塞，故答案為 (D) 交通。",
+      "explanation": "前後句子提到，開車開很久以及很多車和巴士，推斷交通壅塞，故答案為 (D) 交通。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "printed-key-and-teacher-explanation",
+        "pdfPage": 2,
+        "evidence": "前後句子提到，開車開很久以及很多車和巴士，推斷交通壅塞，故答案為 (D) 交通。"
+      }
+    },
+    {
+      "id": "CAP-114-13",
+      "year": 114,
+      "questionNumber": 13,
+      "groupId": null,
+      "question": "In the future, there will ______ be greater basketball players than Stephen Curry, but now we believe he is the best!",
+      "choices": {
+        "A": "again",
+        "B": "already",
+        "C": "never",
+        "D": "perhaps"
+      },
+      "answer": "D",
+      "quickExplanation": "此句語氣推測未來有可能發生的事，表示不確定的可能性，搭配副詞，故答案為 (D) 或許。",
+      "explanation": "此句語氣推測未來有可能發生的事，表示不確定的可能性，搭配副詞，故答案為 (D) 或許。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "printed-key-and-teacher-explanation",
+        "pdfPage": 2,
+        "evidence": "此句語氣推測未來有可能發生的事，表示不確定的可能性，搭配副詞，故答案為 (D) 或許。"
+      }
+    },
+    {
+      "id": "CAP-114-14",
+      "year": 114,
+      "questionNumber": 14,
+      "groupId": null,
+      "question": "I guess the rainwater has come in from the kitchen. See? ______ of the windows are closed except the one in the kitchen.",
+      "choices": {
+        "A": "All",
+        "B": "Both",
+        "C": "Most",
+        "D": "Some"
+      },
+      "answer": "A",
+      "quickExplanation": "後面句子提到，除了廚房那一扇開著，推斷其他全部都有關上，故答案為 (A) 全部。",
+      "explanation": "後面句子提到，除了廚房那一扇開著，推斷其他全部都有關上，故答案為 (A) 全部。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "printed-key-and-teacher-explanation",
+        "pdfPage": 2,
+        "evidence": "後面句子提到，除了廚房那一扇開著，推斷其他全部都有關上，故答案為 (A) 全部。"
+      }
+    },
+    {
+      "id": "CAP-114-15",
+      "year": 114,
+      "questionNumber": 15,
+      "groupId": null,
+      "question": "______ machines have been used to pick fruits for a long time, they were not used on strawberry farms until several years ago.",
+      "choices": {
+        "A": "Although",
+        "B": "Because",
+        "C": "Before",
+        "D": "If"
+      },
+      "answer": "A",
+      "quickExplanation": "前後句子提到，機器早就用來採水果了，但是在草莓農場卻沒有用，使用表示對比關係的連接詞，故答案為 (A) 雖然。",
+      "explanation": "前後句子提到，機器早就用來採水果了，但是在草莓農場卻沒有用，使用表示對比關係的連接詞，故答案為 (A) 雖然。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "printed-key-and-teacher-explanation",
+        "pdfPage": 2,
+        "evidence": "前後句子提到，機器早就用來採水果了，但是在草莓農場卻沒有用，使用表示對比關係的連接詞，故答案為 (A) 雖然。"
+      }
+    },
+    {
+      "id": "CAP-114-16",
+      "year": 114,
+      "questionNumber": 16,
+      "groupId": null,
+      "question": "There are online videos that teach you exercises you can do at home. They’ll ______ you a trip to the gym, and some money too.",
+      "choices": {
+        "A": "cost",
+        "B": "give",
+        "C": "keep",
+        "D": "save"
+      },
+      "answer": "D",
+      "quickExplanation": "前面句子提到線上居家運動影片，推斷節省去健身房的路程和支出。",
+      "explanation": "前面句子提到線上居家運動影片，推斷節省去健身房的路程和支出。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "printed-key-and-teacher-explanation",
+        "pdfPage": 2,
+        "evidence": "前面句子提到線上居家運動影片，推斷節省去健身房的路程和支出。"
+      }
+    },
+    {
+      "id": "CAP-114-17",
+      "year": 114,
+      "questionNumber": 17,
+      "groupId": null,
+      "question": "Jane’s parents are always happy to see their grandchildren, but mine ______ less so when I visit them with my kids.",
+      "choices": {
+        "A": "is",
+        "B": "are",
+        "C": "do",
+        "D": "does"
+      },
+      "answer": "B",
+      "quickExplanation": "後面句子處 mine 代指 my parents，是複數，而前半句話搭配的動詞為 be 動詞，故後半句動詞應搭配 be 動詞的複數形式，故答案為 (B) 複數動詞。",
+      "explanation": "後面句子處 mine 代指 my parents，是複數，而前半句話搭配的動詞為 be 動詞，故後半句動詞應搭配 be 動詞的複數形式，故答案為 (B) 複數動詞。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "printed-key-and-teacher-explanation",
+        "pdfPage": 3,
+        "evidence": "後面句子處 mine 代指 my parents，是複數，而前半句話搭配的動詞為 be 動詞，故後半句動詞應搭配 be 動詞的複數形式，故答案為 (B) 複數動詞。"
+      }
+    },
+    {
+      "id": "CAP-114-18",
+      "year": 114,
+      "questionNumber": 18,
+      "groupId": null,
+      "question": "Before she ______ about it, you should tell Daphne you broke her favorite cup.",
+      "choices": {
+        "A": "asks",
+        "B": "asked",
+        "C": "was asking",
+        "D": "will ask"
+      },
+      "answer": "A",
+      "quickExplanation": "句子在談及未來的計畫或行動，搭配時間連接詞，如 before / after / when / as soon as / until時，副詞子句裡的動詞使用現在式，故答案為(A) 詢問；現在簡單。",
+      "explanation": "句子在談及未來的計畫或行動，搭配時間連接詞，如 before / after / when / as soon as / until時，副詞子句裡的動詞使用現在式，故答案為(A) 詢問；現在簡單。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "printed-key-and-teacher-explanation",
+        "pdfPage": 3,
+        "evidence": "句子在談及未來的計畫或行動，搭配時間連接詞，如 before / after / when / as soon as / until時，副詞子句裡的動詞使用現在式，故答案為(A) 詢問；現在簡單。"
+      }
+    },
+    {
+      "id": "CAP-114-19",
+      "year": 114,
+      "questionNumber": 19,
+      "groupId": null,
+      "question": "It was very windy this morning. Some of the shirts on the balcony were blown away ______ in the pond.",
+      "choices": {
+        "A": "fell",
+        "B": "and fell",
+        "C": "fallen",
+        "D": "and fallen"
+      },
+      "answer": "B",
+      "quickExplanation": "此處使用 and 連接兩個並列動詞，時態一致，前面 were 過去式，後方應使用 fell（fall 的過去式），表示一個完整動作，而 fallen 是過去分詞，不能單獨當主要動詞，要和助動詞搭配使用，如 has fallen。",
+      "explanation": "此處使用 and 連接兩個並列動詞，時態一致，前面 were 過去式，後方應使用 fell（fall 的過去式），表示一個完整動作，而 fallen 是過去分詞，不能單獨當主要動詞，要和助動詞搭配使用，如 has fallen。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "printed-key-and-teacher-explanation",
+        "pdfPage": 3,
+        "evidence": "此處使用 and 連接兩個並列動詞，時態一致，前面 were 過去式，後方應使用 fell（fall 的過去式），表示一個完整動作，而 fallen 是過去分詞，不能單獨當主要動詞，要和助動詞搭配使用，如 has fallen。"
+      }
+    },
+    {
+      "id": "CAP-114-20",
+      "year": 114,
+      "questionNumber": 20,
+      "groupId": "CAP-114-G20-21",
+      "question": "What happened to Rex?",
+      "choices": {
+        "A": "He got lost.",
+        "B": "He got hurt.",
+        "C": "He bit people.",
+        "D": "He ate too much."
+      },
+      "answer": "B",
+      "quickExplanation": "文章中的第四行提到 Rex 在醫院，而且被車撞了，可以推論 Rex 受傷了。",
+      "explanation": "文章中的第四行提到 Rex 在醫院，而且被車撞了，可以推論 Rex 受傷了。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "printed-key-and-teacher-explanation",
+        "pdfPage": 3,
+        "evidence": "文章中的第四行提到 Rex 在醫院，而且被車撞了，可以推論 Rex 受傷了。"
+      }
+    },
+    {
+      "id": "CAP-114-21",
+      "year": 114,
+      "questionNumber": 21,
+      "groupId": "CAP-114-G20-21",
+      "question": "How did the writer help Rex?",
+      "choices": {
+        "A": "By calling the police.",
+        "B": "By making him exercise.",
+        "C": "By taking him to see a doctor.",
+        "D": "By looking for a new home for him."
+      },
+      "answer": "B",
+      "quickExplanation": "由文章的第六行可以得知，作者他們決定在每天傍晚帶 Rex 去散步；其後又提到採用這樣子的方式後，Rex 變得更健康、更強壯。",
+      "explanation": "由文章的第六行可以得知，作者他們決定在每天傍晚帶 Rex 去散步；其後又提到採用這樣子的方式後，Rex 變得更健康、更強壯。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "printed-key-and-teacher-explanation",
+        "pdfPage": 3,
+        "evidence": "由文章的第六行可以得知，作者他們決定在每天傍晚帶 Rex 去散步；其後又提到採用這樣子的方式後，Rex 變得更健康、更強壯。"
+      }
+    },
+    {
+      "id": "CAP-114-22",
+      "year": 114,
+      "questionNumber": 22,
+      "groupId": "CAP-114-G22-23",
+      "question": "What do we know about Mark from the dialogue?",
+      "choices": {
+        "A": "He made Linda unhappy.",
+        "B": "He is looking for a new job.",
+        "C": "He did not like Linda’s cake.",
+        "D": "He is getting married to Jenny."
+      },
+      "answer": "A",
+      "quickExplanation": "在文章的第四行，Linda 要 Mark 別又來了；文章的第五至六行提及，Mark 在 Jenny 宣布重要婚訊時，搶著說自己要換工作一事，而她們不想聽。",
+      "explanation": "在文章的第四行，Linda 要 Mark 別又來了；文章的第五至六行提及，Mark 在 Jenny 宣布重要婚訊時，搶著說自己要換工作一事，而她們不想聽。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "printed-key-and-teacher-explanation",
+        "pdfPage": 4,
+        "evidence": "在文章的第四行，Linda 要 Mark 別又來了；文章的第五至六行提及，Mark 在 Jenny 宣布重要婚訊時，搶著說自己要換工作一事，而她們不想聽。"
+      }
+    },
+    {
+      "id": "CAP-114-23",
+      "year": 114,
+      "questionNumber": 23,
+      "groupId": "CAP-114-G22-23",
+      "question": "Which is most likely an example of stealing someone’s thunder?",
+      "choices": {
+        "A": "Dennis never changes his mind except when his wife tells him to.",
+        "B": "Melisa tells Tom she’ll go to the party but tells her mom she’ll stay home.",
+        "C": "Jeff tells everyone he’ll move abroad when Ivy is still telling them about her baby.",
+        "D": "Alisa says she doesn’t care what we have for lunch but also doesn’t like the restaurant we chose."
+      },
+      "answer": "C",
+      "quickExplanation": "選項(C)的情境符合當某人在討論自己的某個狀況時，另一個人卻自顧自地說起自己的事情，這就是所謂的搶人鋒頭。",
+      "explanation": "選項(C)的情境符合當某人在討論自己的某個狀況時，另一個人卻自顧自地說起自己的事情，這就是所謂的搶人鋒頭。",
+      "images": [],
+      "optionImages": {},
+      "glossary": "likely 可能",
+      "status": "approved",
+      "answerVerification": {
+        "method": "printed-key-and-teacher-explanation",
+        "pdfPage": 4,
+        "evidence": "選項(C)的情境符合當某人在討論自己的某個狀況時，另一個人卻自顧自地說起自己的事情，這就是所謂的搶人鋒頭。"
+      }
+    },
+    {
+      "id": "CAP-114-24",
+      "year": 114,
+      "questionNumber": 24,
+      "groupId": "CAP-114-G24-25",
+      "question": "What can you do with a White Lake City Card?",
+      "choices": {
+        "A": "Save 20% on children’s train tickets.",
+        "B": "Visit any public museum in the city for free.",
+        "C": "Take a train to places out of the three zones.",
+        "D": "Move around the city by metro as much as you want."
+      },
+      "answer": "D",
+      "quickExplanation": "選項 (A) 不可選，由文章的第三行，可以得知12 歲以下的兒童隨同大人時免費，但並未提及兒童票能打八折。",
+      "explanation": "選項 (A) 不可選，由文章的第三行，可以得知12 歲以下的兒童隨同大人時免費，但並未提及兒童票能打八折。選項(B)不可選，因為文章的第四行只有提及參觀公立博物館時打八折，並未提及能免費參觀。選項 (C) 不可選，因為文章中提及，這張卡只能在三個區域中使用，不能超出這三個區域範。而文中的第二行有提及能用城市卡無限搭乘大眾運輸工具 。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "printed-key-and-teacher-explanation",
+        "pdfPage": 5,
+        "evidence": "選項 (A) 不可選，由文章的第三行，可以得知12 歲以下的兒童隨同大人時免費，但並未提及兒童票能打八折。選項(B)不可選，因為文章的第四行只有提及參觀公立博物館時打八折，並未提及能免費參觀。選項 (C) 不可選，因為文章中提及，這張卡只能在三個區域中使用，不能超出這三個區域範。而文中的第二行有提及能用城市卡無限搭乘大眾運輸工具 。"
+      }
+    },
+    {
+      "id": "CAP-114-25",
+      "year": 114,
+      "questionNumber": 25,
+      "groupId": "CAP-114-G24-25",
+      "question": "Stacy is going to White Lake City and is staying at a hotel near the White Lake Main Station. She wants to visit the Museum of White Lake City History on Friday and see White Lake on Saturday. If she plans to buy (a) White Lake City Card(s), which of the four choices will be best for her and cost her the least?",
+      "choices": {
+        "A": "A 3-day Card for Zone 1.",
+        "B": "A Weekend Card for Zones 1-3.",
+        "C": "A 1-day Card for Zone 1 and a Weekend Card for Zones 1-2.",
+        "D": "A 1-day Card for Zones 1-2 and a Weekend Card for Zones 1-2."
+      },
+      "answer": "C",
+      "quickExplanation": "選項 (A)不可選，因為 Stacy 會到區域 2 去，加上三日卡只能在週間使用，Stacy 週六就無法使用三日卡。",
+      "explanation": "選項 (A)不可選，因為 Stacy 會到區域 2 去，加上三日卡只能在週間使用，Stacy 週六就無法使用三日卡。選項 (B) 不可選，因為若只購買週末卡，Stacy 週五就無法使用。選項 (C)為正解，因為週五在區域 1 活動一日，週六在區域 2活動一日，兩張卡費為 20+ 50 共為 70 元。選項 (D)不可選，因為兩張卡費為 40 +50 共為 90元，不是最省錢的方式。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "printed-key-and-teacher-explanation",
+        "pdfPage": 5,
+        "evidence": "選項 (A)不可選，因為 Stacy 會到區域 2 去，加上三日卡只能在週間使用，Stacy 週六就無法使用三日卡。選項 (B) 不可選，因為若只購買週末卡，Stacy 週五就無法使用。選項 (C)為正解，因為週五在區域 1 活動一日，週六在區域 2活動一日，兩張卡費為 20+ 50 共為 70 元。選項 (D)不可選，因為兩張卡費為 40 +50 共為 90元，不是最省錢的方式。"
+      }
+    },
+    {
+      "id": "CAP-114-26",
+      "year": 114,
+      "questionNumber": 26,
+      "groupId": "CAP-114-G26-28",
+      "question": "What is Rolling Acres?",
+      "choices": {
+        "A": "A zoo.",
+        "B": "A campground.",
+        "C": "A vacation farm.",
+        "D": "A family restaurant."
+      },
+      "answer": "C",
+      "quickExplanation": "文章的第六至八行有提到，有果樹、菜園，還有許多不同種類動物的出現，它已經成為家庭度假的熱門地點。",
+      "explanation": "文章的第六至八行有提到，有果樹、菜園，還有許多不同種類動物的出現，它已經成為家庭度假的熱門地點。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "printed-key-and-teacher-explanation",
+        "pdfPage": 5,
+        "evidence": "文章的第六至八行有提到，有果樹、菜園，還有許多不同種類動物的出現，它已經成為家庭度假的熱門地點。"
+      }
+    },
+    {
+      "id": "CAP-114-27",
+      "year": 114,
+      "questionNumber": 27,
+      "groupId": "CAP-114-G26-28",
+      "question": "What do we learn from the first paragraph?",
+      "choices": {
+        "A": "What Libby does at Rolling Acres.",
+        "B": "What visitors think of Rolling Acres.",
+        "C": "Why Libby’s grandparents started Rolling Acres.",
+        "D": "What the Larson family’s plans are for Rolling Acres."
+      },
+      "answer": "A",
+      "quickExplanation": "選項 (A) 為正解，因為文章的第二至三行有提及 Libby 的工作內容 。",
+      "explanation": "選項 (A) 為正解，因為文章的第二至三行有提及 Libby 的工作內容 。選項 (B)、(C) 及 (D)在文中皆無相關敘述。",
+      "images": [],
+      "optionImages": {},
+      "glossary": "paragraph 段落",
+      "status": "approved",
+      "answerVerification": {
+        "method": "printed-key-and-teacher-explanation",
+        "pdfPage": 6,
+        "evidence": "選項 (A) 為正解，因為文章的第二至三行有提及 Libby 的工作內容 。選項 (B)、(C) 及 (D)在文中皆無相關敘述。"
+      }
+    },
+    {
+      "id": "CAP-114-28",
+      "year": 114,
+      "questionNumber": 28,
+      "groupId": "CAP-114-G26-28",
+      "question": "What does making sacrifices mean?",
+      "choices": {
+        "A": "Learning to make money and use it wisely.",
+        "B": "Getting to know different sides of your family.",
+        "C": "Making excuses for failing to do something difficult.",
+        "D": "Giving up something important to do something else."
+      },
+      "answer": "D",
+      "quickExplanation": "文末的倒數第四行有提到 Libby 有想做卻無法做的事情，她放棄了自己的喜好來成就家庭，這即是犧牲的表現 。",
+      "explanation": "文末的倒數第四行有提到 Libby 有想做卻無法做的事情，她放棄了自己的喜好來成就家庭，這即是犧牲的表現 。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "printed-key-and-teacher-explanation",
+        "pdfPage": 6,
+        "evidence": "文末的倒數第四行有提到 Libby 有想做卻無法做的事情，她放棄了自己的喜好來成就家庭，這即是犧牲的表現 。"
+      }
+    },
+    {
+      "id": "CAP-114-29",
+      "year": 114,
+      "questionNumber": 29,
+      "groupId": "CAP-114-G29-31",
+      "question": "What do the comics tell us?",
+      "choices": {
+        "A": "Enjoy life while we can.",
+        "B": "Follow the old ways of life.",
+        "C": "Save our planet before it’s too late.",
+        "D": "Treat others the way we want to be treated."
+      },
+      "answer": "C",
+      "quickExplanation": "漫畫描繪復活節島的居民從擁有豐富的樹木到樹木消失殆盡，最終導致資源匱乏，警示人們過度消耗自然資源的後果。",
+      "explanation": "漫畫描繪復活節島的居民從擁有豐富的樹木到樹木消失殆盡，最終導致資源匱乏，警示人們過度消耗自然資源的後果。最後一格以「別讓地球，變成另一個復活節島」，呼籲人們珍惜地球。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "printed-key-and-teacher-explanation",
+        "pdfPage": 7,
+        "evidence": "漫畫描繪復活節島的居民從擁有豐富的樹木到樹木消失殆盡，最終導致資源匱乏，警示人們過度消耗自然資源的後果。最後一格以「別讓地球，變成另一個復活節島」，呼籲人們珍惜地球。"
+      }
+    },
+    {
+      "id": "CAP-114-30",
+      "year": 114,
+      "questionNumber": 30,
+      "groupId": "CAP-114-G29-31",
+      "question": "What can we learn about the people in the comics?",
+      "choices": {
+        "A": "They made fire before starting a fight.",
+        "B": "They fought for land and plants all the time.",
+        "C": "They prayed to the statues beside a large fire.",
+        "D": "They used statues to show how strong they were."
+      },
+      "answer": "D",
+      "quickExplanation": "從漫畫中可以了解復活節島居民的行為和特點。",
+      "explanation": "從漫畫中可以了解復活節島居民的行為和特點。他們利用樹木建造房屋、生火，製造和搬運巨大的雕像，以及在資源匱乏時為了水和食物而戰鬥，並利用雕像展示力量。選項Ａ，錯誤，漫畫中沒有說明在戰鬥前生火。選項Ｂ，錯誤，戰鬥發生在資源匱乏時，並不是「一直」。選項Ｃ，錯誤，漫畫中沒有說明在他們在大火旁向雕像祈禱。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "printed-key-and-teacher-explanation",
+        "pdfPage": 7,
+        "evidence": "從漫畫中可以了解復活節島居民的行為和特點。他們利用樹木建造房屋、生火，製造和搬運巨大的雕像，以及在資源匱乏時為了水和食物而戰鬥，並利用雕像展示力量。選項Ａ，錯誤，漫畫中沒有說明在戰鬥前生火。選項Ｂ，錯誤，戰鬥發生在資源匱乏時，並不是「一直」。選項Ｃ，錯誤，漫畫中沒有說明在他們在大火旁向雕像祈禱。"
+      }
+    },
+    {
+      "id": "CAP-114-31",
+      "year": 114,
+      "questionNumber": 31,
+      "groupId": "CAP-114-G29-31",
+      "question": "What does did it in Picture 7 mean?",
+      "choices": {
+        "A": "Fall to the ground.",
+        "B": "Cut down the last trees.",
+        "C": "Move the statues to fighting grounds.",
+        "D": "Understand how important trees were."
+      },
+      "answer": "B",
+      "quickExplanation": "第七格說明「那些砍下最後樹木的人肯定知道樹對他們有多重要——但他們還是這麼做了（did it）」這裡的 “it” 指的是他們明知樹木重要卻仍然砍伐了最後樹木的這個行為。",
+      "explanation": "第七格說明「那些砍下最後樹木的人肯定知道樹對他們有多重要——但他們還是這麼做了（did it）」這裡的 “it” 指的是他們明知樹木重要卻仍然砍伐了最後樹木的這個行為。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "printed-key-and-teacher-explanation",
+        "pdfPage": 7,
+        "evidence": "第七格說明「那些砍下最後樹木的人肯定知道樹對他們有多重要——但他們還是這麼做了（did it）」這裡的 “it” 指的是他們明知樹木重要卻仍然砍伐了最後樹木的這個行為。"
+      }
+    },
+    {
+      "id": "CAP-114-32",
+      "year": 114,
+      "questionNumber": 32,
+      "groupId": "CAP-114-G32-34",
+      "question": "What did Ariely try to find out in the origami study?",
+      "choices": {
+        "A": "If he could stop the IKEA effect.",
+        "B": "Why people love making origami.",
+        "C": "Why IKEA furniture is so famous.",
+        "D": "If anyone shared his IKEA experience."
+      },
+      "answer": "D",
+      "quickExplanation": "第一段的倒數第二行說明，Ariely 在組裝完後，對自己完成的櫃子產生特別的喜愛，甚至超過其他的家具。",
+      "explanation": "第一段的倒數第二行說明，Ariely 在組裝完後，對自己完成的櫃子產生特別的喜愛，甚至超過其他的家具。第二段第一行則說明，他想知道是否也有其他人有類似的感受，因此設計了摺紙研究，並邀請兩組人「製作者」和「購買者」加入。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "printed-key-and-teacher-explanation",
+        "pdfPage": 8,
+        "evidence": "第一段的倒數第二行說明，Ariely 在組裝完後，對自己完成的櫃子產生特別的喜愛，甚至超過其他的家具。第二段第一行則說明，他想知道是否也有其他人有類似的感受，因此設計了摺紙研究，並邀請兩組人「製作者」和「購買者」加入。"
+      }
+    },
+    {
+      "id": "CAP-114-33",
+      "year": 114,
+      "questionNumber": 33,
+      "groupId": "CAP-114-G32-34",
+      "question": "Which is true about the origami study?",
+      "choices": {
+        "A": "Buyers would spend less on builders’ origami than builders would.",
+        "B": "Builders and buyers needed to decide a price on the origami they made.",
+        "C": "Builders knew others would not pay as much for the origami as they would.",
+        "D": "Buyers would spend more on builders’ origami after knowing how they were made."
+      },
+      "answer": "A",
+      "quickExplanation": "他的研究中，「製作者」（Builders）是親手摺紙的人，並在他們完成作品後，詢問他們會花多少錢買作品，而「購買者」（Buyers）是購買這些摺紙的人，Ariely 會把摺紙作品給他們看，並詢問他們願意支付多少錢購買。",
+      "explanation": "他的研究中，「製作者」（Builders）是親手摺紙的人，並在他們完成作品後，詢問他們會花多少錢買作品，而「購買者」（Buyers）是購買這些摺紙的人，Ariely 會把摺紙作品給他們看，並詢問他們願意支付多少錢購買。而最後的研究結果顯示，「購買者」願意為「製作者」的摺紙支付的價格（只有 5 分錢）遠低於「製作者」自己認為的價值（25 分錢）。選項Ｂ：錯誤，並非由製作者和購買者共同決定價格。實驗的重點在於比較兩者各自的估價。選項Ｃ：錯誤，文中第二段倒數第二行，製作者原本認為其他人也會願意支付和他們自己認為的相同金額，選項Ｄ：錯誤，文章並未說明，無法判斷。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "printed-key-and-teacher-explanation",
+        "pdfPage": 8,
+        "evidence": "他的研究中，「製作者」（Builders）是親手摺紙的人，並在他們完成作品後，詢問他們會花多少錢買作品，而「購買者」（Buyers）是購買這些摺紙的人，Ariely 會把摺紙作品給他們看，並詢問他們願意支付多少錢購買。而最後的研究結果顯示，「購買者」願意為「製作者」的摺紙支付的價格（只有 5 分錢）遠低於「製作者」自己認為的價值（25 分錢）。選項Ｂ：錯誤，並非由製作者和購買者共同決定價格。實驗的重點在於比較兩者各自的估價。選項Ｃ：錯誤，文中第二段倒數第二行，製作者原本認為其他人也會願意支付和他們自己認為的相同金額，選項Ｄ：錯誤，文章並未說明，無法判斷。"
+      }
+    },
+    {
+      "id": "CAP-114-34",
+      "year": 114,
+      "questionNumber": 34,
+      "groupId": "CAP-114-G32-34",
+      "question": "Jerry just can’t get his daughter Mia to eat more vegetables at dinner. Every time he tries to do so, there is always a lot of shouting and crying. If Jerry wants to have Mia eat more vegetables by using the IKEA effect, what should he do?",
+      "choices": {
+        "A": "Tell Mia that he cooks the vegetables just for her.",
+        "B": "Ask Mia to help him cook vegetables for her meal.",
+        "C": "Give Mia her favorite candy after she eats vegetables.",
+        "D": "Ask Mia what vegetables she likes and cook them for her."
+      },
+      "answer": "B",
+      "quickExplanation": "「IKEA 效應」表示：人們對自己親手製作的物品會產生更高的喜愛感。",
+      "explanation": "「IKEA 效應」表示：人們對自己親手製作的物品會產生更高的喜愛感。因此，如果 Jerry 想讓 Mia 更喜歡吃蔬菜，他應該讓 Mia 參與準備蔬菜的過程，讓她產生「自己製作」的感覺。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "printed-key-and-teacher-explanation",
+        "pdfPage": 8,
+        "evidence": "「IKEA 效應」表示：人們對自己親手製作的物品會產生更高的喜愛感。因此，如果 Jerry 想讓 Mia 更喜歡吃蔬菜，他應該讓 Mia 參與準備蔬菜的過程，讓她產生「自己製作」的感覺。"
+      }
+    },
+    {
+      "id": "CAP-114-35",
+      "year": 114,
+      "questionNumber": 35,
+      "groupId": "CAP-114-G35-37",
+      "question": "What is the reading mainly about?",
+      "choices": {
+        "A": "The tips on using a picture to tell a story.",
+        "B": "The change that electricity brought to people’s lives.",
+        "C": "The history behind the picture of a UK electricity worker.",
+        "D": "The story of a famous UK electricity worker from the 1970s."
+      },
+      "answer": "C",
+      "quickExplanation": "文章先描述 1972 年英國電力工人要求加薪並罷工的事件，接著第二段講述，隔年他們再次要求加薪並採取更強硬的行動，英國進入能源短缺時期，人們的生活發生巨大的改變。",
+      "explanation": "文章先描述 1972 年英國電力工人要求加薪並罷工的事件，接著第二段講述，隔年他們再次要求加薪並採取更強硬的行動，英國進入能源短缺時期，人們的生活發生巨大的改變。最後，則以圖片敘述當時人們對電力工人的看法。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "printed-key-and-teacher-explanation",
+        "pdfPage": 9,
+        "evidence": "文章先描述 1972 年英國電力工人要求加薪並罷工的事件，接著第二段講述，隔年他們再次要求加薪並採取更強硬的行動，英國進入能源短缺時期，人們的生活發生巨大的改變。最後，則以圖片敘述當時人們對電力工人的看法。"
+      }
+    },
+    {
+      "id": "CAP-114-36",
+      "year": 114,
+      "questionNumber": 36,
+      "groupId": "CAP-114-G35-37",
+      "question": "In the UK in the 1970s, what did people most likely think of the UK electricity workers?",
+      "choices": {
+        "A": "They were not brave enough to fix their problems.",
+        "B": "They worked like robots and never learned to change.",
+        "C": "They were asking too much and did not know when to stop.",
+        "D": "They did not care whether their job might hurt people’s health."
+      },
+      "answer": "C",
+      "quickExplanation": "文章的最後，提到「這張圖片顯示了當時許多人在那段「黑暗」時期對電力工人的看法。",
+      "explanation": "文章的最後，提到「這張圖片顯示了當時許多人在那段「黑暗」時期對電力工人的看法。」，而圖片中工人手向外 always out、嘴巴打開 openall the time，暗示一直索討，空心 nothing here，暗示他們不在乎其他人，只在乎自己，這些說明都表達當時人們對電力工人的不滿。",
+      "images": [],
+      "optionImages": {},
+      "glossary": "likely 可能",
+      "status": "approved",
+      "answerVerification": {
+        "method": "printed-key-and-teacher-explanation",
+        "pdfPage": 9,
+        "evidence": "文章的最後，提到「這張圖片顯示了當時許多人在那段「黑暗」時期對電力工人的看法。」，而圖片中工人手向外 always out、嘴巴打開 openall the time，暗示一直索討，空心 nothing here，暗示他們不在乎其他人，只在乎自己，這些說明都表達當時人們對電力工人的不滿。"
+      }
+    },
+    {
+      "id": "CAP-114-37",
+      "year": 114,
+      "questionNumber": 37,
+      "groupId": "CAP-114-G35-37",
+      "question": "Why does the writer put the “ ” mark around the word dark in the last sentence?",
+      "choices": {
+        "A": "To say that the “dark” time was actually not dark.",
+        "B": "To tell people that the word was said by the government.",
+        "C": "To mean both the days without lights and the difficult lives people lived.",
+        "D": "To show that the government and the electricity workers both lost their fights."
+      },
+      "answer": "C",
+      "quickExplanation": "文章第三段的第一至第四行，描述因為電力工人的行動導致停電和能源短缺，使人們的生活陷入困境與巨大改變，如同處於「黑暗」之中。",
+      "explanation": "文章第三段的第一至第四行，描述因為電力工人的行動導致停電和能源短缺，使人們的生活陷入困境與巨大改變，如同處於「黑暗」之中。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "printed-key-and-teacher-explanation",
+        "pdfPage": 10,
+        "evidence": "文章第三段的第一至第四行，描述因為電力工人的行動導致停電和能源短缺，使人們的生活陷入困境與巨大改變，如同處於「黑暗」之中。"
+      }
+    },
+    {
+      "id": "CAP-114-38",
+      "year": 114,
+      "questionNumber": 38,
+      "groupId": "CAP-114-G38-43",
+      "question": "",
+      "choices": {
+        "A": "starts",
+        "B": "started",
+        "C": "has started",
+        "D": "will start"
+      },
+      "answer": "B",
+      "quickExplanation": "「He started doing this in his first year...」 強調這個動作在過去某個明確的時間點（他的國中一年級）開始。",
+      "explanation": "「He started doing this in his first year...」 強調這個動作在過去某個明確的時間點（他的國中一年級）開始。「He has started doing this...」 雖然亦可表示送禮的習慣持續到現在，但本句的文意是起源過去某個時段，故需用過去式。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "printed-key-and-teacher-explanation",
+        "pdfPage": 10,
+        "evidence": "「He started doing this in his first year...」 強調這個動作在過去某個明確的時間點（他的國中一年級）開始。「He has started doing this...」 雖然亦可表示送禮的習慣持續到現在，但本句的文意是起源過去某個時段，故需用過去式。"
+      }
+    },
+    {
+      "id": "CAP-114-39",
+      "year": 114,
+      "questionNumber": 39,
+      "groupId": "CAP-114-G38-43",
+      "question": "",
+      "choices": {
+        "A": "he got quite scared of two things",
+        "B": "he still couldn’t understand two things",
+        "C": "he couldn’t stop thinking about two things",
+        "D": "he did two things that would change his life"
+      },
+      "answer": "C",
+      "quickExplanation": "在看完生產影片後，Cameron 認為「女人要生孩子真的太勇敢了！感謝上天我永遠不需要經歷那種事！」，符合語意為選項 C，表示他看完影片後，一直在思考母親的勇敢和生產的過程，才會接續空格後面的「心得」。",
+      "explanation": "在看完生產影片後，Cameron 認為「女人要生孩子真的太勇敢了！感謝上天我永遠不需要經歷那種事！」，符合語意為選項 C，表示他看完影片後，一直在思考母親的勇敢和生產的過程，才會接續空格後面的「心得」。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "printed-key-and-teacher-explanation",
+        "pdfPage": 10,
+        "evidence": "在看完生產影片後，Cameron 認為「女人要生孩子真的太勇敢了！感謝上天我永遠不需要經歷那種事！」，符合語意為選項 C，表示他看完影片後，一直在思考母親的勇敢和生產的過程，才會接續空格後面的「心得」。"
+      }
+    },
+    {
+      "id": "CAP-114-40",
+      "year": 114,
+      "questionNumber": 40,
+      "groupId": "CAP-114-G38-43",
+      "question": "",
+      "choices": {
+        "A": "should be spent helping his mom",
+        "B": "should be a time of welcoming a new start",
+        "C": "should not be about him, but about his mom",
+        "D": "should not be celebrated for just one day, but for nine months"
+      },
+      "answer": "C",
+      "quickExplanation": "接續上一段的內容，空格後方提到他的母親在懷孕期間非常辛苦，而他只是吃和睡覺，符合語意為選項 C，表示他認為他的生日不應該是自己當主角，而是他的母親。",
+      "explanation": "接續上一段的內容，空格後方提到他的母親在懷孕期間非常辛苦，而他只是吃和睡覺，符合語意為選項 C，表示他認為他的生日不應該是自己當主角，而是他的母親。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "printed-key-and-teacher-explanation",
+        "pdfPage": 10,
+        "evidence": "接續上一段的內容，空格後方提到他的母親在懷孕期間非常辛苦，而他只是吃和睡覺，符合語意為選項 C，表示他認為他的生日不應該是自己當主角，而是他的母親。"
+      }
+    },
+    {
+      "id": "CAP-114-41",
+      "year": 114,
+      "questionNumber": 41,
+      "groupId": "CAP-114-G38-43",
+      "question": "",
+      "choices": {
+        "A": "first",
+        "B": "last",
+        "C": "only",
+        "D": "other"
+      },
+      "answer": "A",
+      "quickExplanation": "空格後方句子在介紹 Cameron 準備的「生日禮物」，而本段倒數第二行表示，往後的每一年生日都有準備禮物給母親，故空格表示「第一個」最符合語意。",
+      "explanation": "空格後方句子在介紹 Cameron 準備的「生日禮物」，而本段倒數第二行表示，往後的每一年生日都有準備禮物給母親，故空格表示「第一個」最符合語意。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "printed-key-and-teacher-explanation",
+        "pdfPage": 11,
+        "evidence": "空格後方句子在介紹 Cameron 準備的「生日禮物」，而本段倒數第二行表示，往後的每一年生日都有準備禮物給母親，故空格表示「第一個」最符合語意。"
+      }
+    },
+    {
+      "id": "CAP-114-42",
+      "year": 114,
+      "questionNumber": 42,
+      "groupId": "CAP-114-G38-43",
+      "question": "",
+      "choices": {
+        "A": "made his head hurt",
+        "B": "made his heart sing",
+        "C": "made him change his mind",
+        "D": "made him give up baking"
+      },
+      "answer": "B",
+      "quickExplanation": "聽到母親說他的餅乾是她收過最好的東西，讓Cameron 充滿喜悅和滿足，使他「心花怒放」，故選項Ｂ最符合語意。",
+      "explanation": "聽到母親說他的餅乾是她收過最好的東西，讓Cameron 充滿喜悅和滿足，使他「心花怒放」，故選項Ｂ最符合語意。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "printed-key-and-teacher-explanation",
+        "pdfPage": 11,
+        "evidence": "聽到母親說他的餅乾是她收過最好的東西，讓Cameron 充滿喜悅和滿足，使他「心花怒放」，故選項Ｂ最符合語意。"
+      }
+    },
+    {
+      "id": "CAP-114-43",
+      "year": 114,
+      "questionNumber": 43,
+      "groupId": "CAP-114-G38-43",
+      "question": "",
+      "choices": {
+        "A": "is going to give",
+        "B": "gives",
+        "C": "has given",
+        "D": "gave"
+      },
+      "answer": "A",
+      "quickExplanation": "「今年，Cameron...」開頭，並且「決定做一件送給媽媽…」，因此以「未來式」主詞 +Be 動詞 + going to 句型，來表達他即將送出這個禮物。",
+      "explanation": "「今年，Cameron...」開頭，並且「決定做一件送給媽媽…」，因此以「未來式」主詞 +Be 動詞 + going to 句型，來表達他即將送出這個禮物。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "printed-key-and-teacher-explanation",
+        "pdfPage": 11,
+        "evidence": "「今年，Cameron...」開頭，並且「決定做一件送給媽媽…」，因此以「未來式」主詞 +Be 動詞 + going to 句型，來表達他即將送出這個禮物。"
+      }
+    }
+  ],
+  "assetProvenance": [
+    {
+      "path": "assets/114/group-20-21-1.png",
+      "pdfPage": 3,
+      "bbox": [
+        376.3,
+        65.89999999999998,
+        713.4000000000001,
+        249.0
+      ],
+      "sha256": "aed3a2c0be3a6e1240ec1ef495cb6e21754b335a04f17c327bc1d6361862e96e"
+    },
+    {
+      "path": "assets/114/group-22-23-1.png",
+      "pdfPage": 4,
+      "bbox": [
+        33.95,
+        48.950000000000045,
+        351.95,
+        366.1
+      ],
+      "sha256": "058fcb9f86c09b9715bfc8678c4a22e7e565dee7e16fa92778198421bf7e3ed2"
+    },
+    {
+      "path": "assets/114/group-24-25-1.png",
+      "pdfPage": 4,
+      "bbox": [
+        376.3,
+        449.9,
+        694.3,
+        750.5
+      ],
+      "sha256": "0c0f51a98b824718b63306e0152fe749c3ae192ea46162f76e24af54b8fbc978"
+    },
+    {
+      "path": "assets/114/group-26-28-1.png",
+      "pdfPage": 5,
+      "bbox": [
+        376.3,
+        135.85000000000002,
+        694.3,
+        349.20000000000005
+      ],
+      "sha256": "4aaf847b87026243dcc13823b940d2c9d3f81495f75dfe5e4775f2786f91deb4"
+    },
+    {
+      "path": "assets/114/group-29-31-1.png",
+      "pdfPage": 6,
+      "bbox": [
+        33.95,
+        637.7,
+        351.95,
+        872.05
+      ],
+      "sha256": "97b1a0cf5fd98eba2af9e2498c39ef65e00720a3c9146466eaba0e47b9fb7ab6"
+    },
+    {
+      "path": "assets/114/group-29-31-2.png",
+      "pdfPage": 6,
+      "bbox": [
+        376.3,
+        33.950000000000045,
+        694.3,
+        270.35
+      ],
+      "sha256": "f2c9f3c6309f1fb257ebad3df06bc1b94702354b264fc61d523e9a07fc1b3cb0"
+    },
+    {
+      "path": "assets/114/group-29-31-3.png",
+      "pdfPage": 6,
+      "bbox": [
+        376.3,
+        270.5,
+        694.3,
+        512.75
+      ],
+      "sha256": "dd4b280f08b46f07d2182d6df573e7f28a04adde668023fb03c9b45074ccd5b3"
+    },
+    {
+      "path": "assets/114/group-32-34-1.png",
+      "pdfPage": 7,
+      "bbox": [
+        376.3,
+        370.1,
+        694.45,
+        688.1
+      ],
+      "sha256": "496fdb6f74ca6e8c15beffc9be2c1adcbf48cef65bf758117696f68dc4376efd"
+    },
+    {
+      "path": "assets/114/group-35-37-1.png",
+      "pdfPage": 9,
+      "bbox": [
+        34.45,
+        50.89999999999998,
+        361.45,
+        454.54999999999995
+      ],
+      "sha256": "87ddb1f72090d3e2bbd313de69146aee0e319888a31e7287cceeba00a6de00ab"
+    },
+    {
+      "path": "assets/114/group-38-43-1.png",
+      "pdfPage": 10,
+      "bbox": [
+        34.45,
+        408.6,
+        361.7,
+        643.8
+      ],
+      "sha256": "84ad9c3464da25028c7289703798acb2e29a3e1b70040bb4b249ba8dc5e118fa"
+    },
+    {
+      "path": "assets/114/q01-1.png",
+      "pdfPage": 1,
+      "bbox": [
+        232.95,
+        152.5,
+        352.0,
+        240.14999999999998
+      ],
+      "sha256": "e4b69c09d28c35f19cfa97a4934f5d7b60926c1db12f9f0fec8b4682ffd1fcf0"
+    }
+  ]
+}

@@ -1,0 +1,1546 @@
+{
+  "version": 1,
+  "year": 112,
+  "source": {
+    "file": "112會考英語科【閱讀】試題解析PPT.pptx",
+    "sha256": "037ede0ef3e2299d52a4d75cb702957ca9522502a69836dc27d6a0d59aef8c21",
+    "slides": 52
+  },
+  "rawCount": 43,
+  "approvedCount": 42,
+  "reviewCount": 1,
+  "groups": [
+    {
+      "id": "CAP-112-G24-25",
+      "firstQuestion": 24,
+      "lastQuestion": 25,
+      "questionIds": [
+        "CAP-112-24",
+        "CAP-112-25"
+      ],
+      "passageImages": [
+        "assets/112/group-24-25.png"
+      ],
+      "status": "approved",
+      "visualRequired": true,
+      "sourceSlides": [
+        25,
+        26
+      ]
+    },
+    {
+      "id": "CAP-112-G26-27",
+      "firstQuestion": 26,
+      "lastQuestion": 27,
+      "questionIds": [
+        "CAP-112-26",
+        "CAP-112-27"
+      ],
+      "passageImages": [
+        "assets/112/group-26-27.png"
+      ],
+      "status": "approved",
+      "visualRequired": true,
+      "sourceSlides": [
+        28,
+        29
+      ]
+    },
+    {
+      "id": "CAP-112-G28-29",
+      "firstQuestion": 28,
+      "lastQuestion": 29,
+      "questionIds": [
+        "CAP-112-28",
+        "CAP-112-29"
+      ],
+      "passageImages": [
+        "assets/112/group-28-29.png"
+      ],
+      "status": "approved",
+      "visualRequired": true,
+      "sourceSlides": [
+        31,
+        32
+      ]
+    },
+    {
+      "id": "CAP-112-G30-32",
+      "firstQuestion": 30,
+      "lastQuestion": 32,
+      "questionIds": [
+        "CAP-112-30",
+        "CAP-112-31",
+        "CAP-112-32"
+      ],
+      "passageImages": [
+        "assets/112/group-30-32.png"
+      ],
+      "status": "approved",
+      "visualRequired": false,
+      "sourceSlides": [
+        34,
+        35,
+        36
+      ]
+    },
+    {
+      "id": "CAP-112-G33-35",
+      "firstQuestion": 33,
+      "lastQuestion": 35,
+      "questionIds": [
+        "CAP-112-33",
+        "CAP-112-34",
+        "CAP-112-35"
+      ],
+      "passageImages": [
+        "assets/112/group-33-35.png"
+      ],
+      "status": "approved",
+      "visualRequired": false,
+      "sourceSlides": [
+        38,
+        39,
+        40
+      ]
+    },
+    {
+      "id": "CAP-112-G36-38",
+      "firstQuestion": 36,
+      "lastQuestion": 38,
+      "questionIds": [
+        "CAP-112-36",
+        "CAP-112-37",
+        "CAP-112-38"
+      ],
+      "passageImages": [
+        "assets/112/group-36-38.png"
+      ],
+      "status": "approved",
+      "visualRequired": false,
+      "sourceSlides": [
+        42,
+        43,
+        44
+      ]
+    },
+    {
+      "id": "CAP-112-G39-41",
+      "firstQuestion": 39,
+      "lastQuestion": 41,
+      "questionIds": [
+        "CAP-112-39",
+        "CAP-112-40",
+        "CAP-112-41"
+      ],
+      "passageImages": [
+        "assets/112/group-39-41.png"
+      ],
+      "status": "approved",
+      "visualRequired": false,
+      "sourceSlides": [
+        46,
+        47,
+        48
+      ]
+    },
+    {
+      "id": "CAP-112-G42-43",
+      "firstQuestion": 42,
+      "lastQuestion": 43,
+      "questionIds": [
+        "CAP-112-42",
+        "CAP-112-43"
+      ],
+      "passageImages": [
+        "assets/112/group-42-43.png"
+      ],
+      "status": "approved",
+      "visualRequired": false,
+      "sourceSlides": [
+        50,
+        51
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "CAP-112-01",
+      "year": 112,
+      "questionNumber": 1,
+      "groupId": null,
+      "question": "Look at the picture. The man is holding a ______ of grapes in his hands.",
+      "choices": {
+        "A": "bag",
+        "B": "basket",
+        "C": "bowl",
+        "D": "box"
+      },
+      "answer": "B",
+      "quickExplanation": "由圖片可知，男人手上正拿著一「籃」葡萄，故選 (B)。",
+      "explanation": "由圖片可知，男人手上正拿著一「籃」葡萄，故選 (B)。",
+      "images": [
+        "assets/112/q01.png"
+      ],
+      "optionImages": {},
+      "glossary": null,
+      "status": "review",
+      "answerVerification": {
+        "method": "provided teacher PPTX answer and explanation; native text and source visual cross-check",
+        "slide": 2,
+        "questionShapeId": 8,
+        "explanationShapeId": 7,
+        "evidence": "由圖片可知，男人手上正拿著一「籃」葡萄，故選 (B)。",
+        "answerOverlay": [
+          "(B) basket"
+        ]
+      },
+      "reviewReason": "source-universal-credit: teacher deck says this question receives credit for every answer; held out rather than altering existing single-answer scoring.",
+      "sourceScoringNote": "與 108 年心測中心所公布的 111 年會考參考題本相同，已公告本題一律給分。"
+    },
+    {
+      "id": "CAP-112-02",
+      "year": 112,
+      "questionNumber": 2,
+      "groupId": null,
+      "question": "Dennis enjoys ______ in public. He is proud of his beautiful voice.",
+      "choices": {
+        "A": "dancing",
+        "B": "drawing",
+        "C": "shopping",
+        "D": "singing"
+      },
+      "answer": "D",
+      "quickExplanation": "由後句「對他優美的嗓音感到自豪」，可推知 Dennis 享受在公開場合「唱歌」，故選 (D)。",
+      "explanation": "由後句「對他優美的嗓音感到自豪」，可推知 Dennis 享受在公開場合「唱歌」，故選 (D)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "provided teacher PPTX answer and explanation; native text and source visual cross-check",
+        "slide": 3,
+        "questionShapeId": 8,
+        "explanationShapeId": 7,
+        "evidence": "由後句「對他優美的嗓音感到自豪」，可推知 Dennis 享受在公開場合「唱歌」，故選 (D)。",
+        "answerOverlay": [
+          "(D) singing"
+        ]
+      }
+    },
+    {
+      "id": "CAP-112-03",
+      "year": 112,
+      "questionNumber": 3,
+      "groupId": null,
+      "question": "Mrs. Johnson can’t hear very well. If you need to talk to her, you must ______ .",
+      "choices": {
+        "A": "explain",
+        "B": "hurry",
+        "C": "listen",
+        "D": "shout"
+      },
+      "answer": "D",
+      "quickExplanation": "由前句「聽不清楚」，可推知若和 Johnson 太太講話必須「大聲說」，故選 (D)。",
+      "explanation": "由前句「聽不清楚」，可推知若和 Johnson 太太講話必須「大聲說」，故選 (D)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "provided teacher PPTX answer and explanation; native text and source visual cross-check",
+        "slide": 4,
+        "questionShapeId": 8,
+        "explanationShapeId": 7,
+        "evidence": "由前句「聽不清楚」，可推知若和 Johnson 太太講話必須「大聲說」，故選 (D)。",
+        "answerOverlay": [
+          "(D) shout"
+        ]
+      }
+    },
+    {
+      "id": "CAP-112-04",
+      "year": 112,
+      "questionNumber": 4,
+      "groupId": null,
+      "question": "People got very excited when they watched Ms. Smith ______ at the party.",
+      "choices": {
+        "A": "danced",
+        "B": "dancing",
+        "C": "has danced",
+        "D": "to dance"
+      },
+      "answer": "B",
+      "quickExplanation": "watch 為感官動詞，後方若搭配動詞須用原形或 V-ing 的形式，故選 (B)。",
+      "explanation": "watch 為感官動詞，後方若搭配動詞須用原形或 V-ing 的形式，故選 (B)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "provided teacher PPTX answer and explanation; native text and source visual cross-check",
+        "slide": 5,
+        "questionShapeId": 8,
+        "explanationShapeId": 6,
+        "evidence": "watch 為感官動詞，後方若搭配動詞須用原形或 V-ing 的形式，故選 (B)。",
+        "answerOverlay": [
+          "(B) dancing"
+        ]
+      }
+    },
+    {
+      "id": "CAP-112-05",
+      "year": 112,
+      "questionNumber": 5,
+      "groupId": null,
+      "question": "I tried on these shoes in several different ______ , and I thought the white pair looked best on me.",
+      "choices": {
+        "A": "colors",
+        "B": "prices",
+        "C": "shapes",
+        "D": "sizes"
+      },
+      "answer": "A",
+      "quickExplanation": "由後半句 white pair（白色那雙），可推知是試了幾種不同的「顏色」，故選 (A)。",
+      "explanation": "由後半句 white pair（白色那雙），可推知是試了幾種不同的「顏色」，故選 (A)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "provided teacher PPTX answer and explanation; native text and source visual cross-check",
+        "slide": 6,
+        "questionShapeId": 8,
+        "explanationShapeId": 7,
+        "evidence": "由後半句 white pair（白色那雙），可推知是試了幾種不同的「顏色」，故選 (A)。",
+        "answerOverlay": [
+          "(A) colors"
+        ]
+      }
+    },
+    {
+      "id": "CAP-112-06",
+      "year": 112,
+      "questionNumber": 6,
+      "groupId": null,
+      "question": "Rex did not feel the earthquake this morning. He ______ in the park at the time.",
+      "choices": {
+        "A": "jogged",
+        "B": "was jogging",
+        "C": "has jogged",
+        "D": "would jog"
+      },
+      "answer": "B",
+      "quickExplanation": "表過去特定時間（地震發生時）正在做的事，須用過去進行式，故選 (B)。",
+      "explanation": "表過去特定時間（地震發生時）正在做的事，須用過去進行式，故選 (B)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "provided teacher PPTX answer and explanation; native text and source visual cross-check",
+        "slide": 7,
+        "questionShapeId": 8,
+        "explanationShapeId": 6,
+        "evidence": "表過去特定時間（地震發生時）正在做的事，須用過去進行式，故選 (B)。",
+        "answerOverlay": [
+          "(B) was jogging"
+        ]
+      }
+    },
+    {
+      "id": "CAP-112-07",
+      "year": 112,
+      "questionNumber": 7,
+      "groupId": null,
+      "question": "Mr. Lee has worked in the same store for ten years; he’s never thought about ______ his job.",
+      "choices": {
+        "A": "changing",
+        "B": "finding",
+        "C": "remembering",
+        "D": "starting"
+      },
+      "answer": "A",
+      "quickExplanation": "由「已在同一間店工作十年」，可推知李先生從沒想過要「換」工作，故選 (A)。",
+      "explanation": "由「已在同一間店工作十年」，可推知李先生從沒想過要「換」工作，故選 (A)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "provided teacher PPTX answer and explanation; native text and source visual cross-check",
+        "slide": 8,
+        "questionShapeId": 8,
+        "explanationShapeId": 7,
+        "evidence": "由「已在同一間店工作十年」，可推知李先生從沒想過要「換」工作，故選 (A)。",
+        "answerOverlay": [
+          "(A) changing"
+        ]
+      }
+    },
+    {
+      "id": "CAP-112-08",
+      "year": 112,
+      "questionNumber": 8,
+      "groupId": null,
+      "question": "I didn’t take the bus today because it was ______ . All the seats were taken and a lot of students were standing.",
+      "choices": {
+        "A": "dirty",
+        "B": "fast",
+        "C": "full",
+        "D": "wrong"
+      },
+      "answer": "C",
+      "quickExplanation": "由後句「所有位子都被坐走，且很多學生站著」，可推知沒搭公車是因為公車「客滿」，故選 (C)。",
+      "explanation": "由後句「所有位子都被坐走，且很多學生站著」，可推知沒搭公車是因為公車「客滿」，故選 (C)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "provided teacher PPTX answer and explanation; native text and source visual cross-check",
+        "slide": 9,
+        "questionShapeId": 8,
+        "explanationShapeId": 7,
+        "evidence": "由後句「所有位子都被坐走，且很多學生站著」，可推知沒搭公車是因為公車「客滿」，故選 (C)。",
+        "answerOverlay": [
+          "(C) full"
+        ]
+      }
+    },
+    {
+      "id": "CAP-112-09",
+      "year": 112,
+      "questionNumber": 9,
+      "groupId": null,
+      "question": "Don’t go away when you’re cooking, ______ the food might burn.",
+      "choices": {
+        "A": "but",
+        "B": "if",
+        "C": "or",
+        "D": "so"
+      },
+      "answer": "C",
+      "quickExplanation": "烹飪時不要離開，「否則」食物可能會燒焦。",
+      "explanation": "烹飪時不要離開，「否則」食物可能會燒焦。用 or 連接祈使句，表負面後果，故選 (C)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "provided teacher PPTX answer and explanation; native text and source visual cross-check",
+        "slide": 10,
+        "questionShapeId": 8,
+        "explanationShapeId": 7,
+        "evidence": "烹飪時不要離開，「否則」食物可能會燒焦。用 or 連接祈使句，表負面後果，故選 (C)。",
+        "answerOverlay": [
+          "(C) or"
+        ]
+      }
+    },
+    {
+      "id": "CAP-112-10",
+      "year": 112,
+      "questionNumber": 10,
+      "groupId": null,
+      "question": "Jerry wanted to know ______ he was kicked off the soccer team, but no one gave him a good reason.",
+      "choices": {
+        "A": "where",
+        "B": "when",
+        "C": "whether",
+        "D": "why"
+      },
+      "answer": "D",
+      "quickExplanation": "由後句「但沒有人給他一個充分的理由」，可推知 Jerry 想知道自己「為什麼」被踢出球隊，故選 (D)。",
+      "explanation": "由後句「但沒有人給他一個充分的理由」，可推知 Jerry 想知道自己「為什麼」被踢出球隊，故選 (D)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "provided teacher PPTX answer and explanation; native text and source visual cross-check",
+        "slide": 11,
+        "questionShapeId": 8,
+        "explanationShapeId": 7,
+        "evidence": "由後句「但沒有人給他一個充分的理由」，可推知 Jerry 想知道自己「為什麼」被踢出球隊，故選 (D)。",
+        "answerOverlay": [
+          "(D) why"
+        ]
+      }
+    },
+    {
+      "id": "CAP-112-11",
+      "year": 112,
+      "questionNumber": 11,
+      "groupId": null,
+      "question": "Jenny is already forty, doesn’t have a job and often makes trouble for her parents. To them, she is really a(n) ______ .",
+      "choices": {
+        "A": "daughter",
+        "B": "example",
+        "C": "gift",
+        "D": "headache"
+      },
+      "answer": "D",
+      "quickExplanation": "由「已經 40 歲了，無業又常常給父母帶來麻煩」，可推知 Jenny 對她父母來說是「令人頭痛的事」，故選 (D)。",
+      "explanation": "由「已經 40 歲了，無業又常常給父母帶來麻煩」，可推知 Jenny 對她父母來說是「令人頭痛的事」，故選 (D)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "provided teacher PPTX answer and explanation; native text and source visual cross-check",
+        "slide": 12,
+        "questionShapeId": 8,
+        "explanationShapeId": 7,
+        "evidence": "由「已經 40 歲了，無業又常常給父母帶來麻煩」，可推知 Jenny 對她父母來說是「令人頭痛的事」，故選 (D)。",
+        "answerOverlay": [
+          "(D) headache"
+        ]
+      }
+    },
+    {
+      "id": "CAP-112-12",
+      "year": 112,
+      "questionNumber": 12,
+      "groupId": null,
+      "question": "Ed and Jill ______ camping this weekend, so they have to finish their homework by Friday.",
+      "choices": {
+        "A": "went",
+        "B": "were going",
+        "C": "are going",
+        "D": "have gone"
+      },
+      "answer": "C",
+      "quickExplanation": "由 have to 可推知必須在週五前完成作業為現在情況，而本週末要去露營為未來事件，可用現在進行式表未來式，故選 (C)。",
+      "explanation": "由 have to 可推知必須在週五前完成作業為現在情況，而本週末要去露營為未來事件，可用現在進行式表未來式，故選 (C)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "provided teacher PPTX answer and explanation; native text and source visual cross-check",
+        "slide": 13,
+        "questionShapeId": 8,
+        "explanationShapeId": 7,
+        "evidence": "由 have to 可推知必須在週五前完成作業為現在情況，而本週末要去露營為未來事件，可用現在進行式表未來式，故選 (C)。",
+        "answerOverlay": [
+          "(C) are going"
+        ]
+      }
+    },
+    {
+      "id": "CAP-112-13",
+      "year": 112,
+      "questionNumber": 13,
+      "groupId": null,
+      "question": "Doraemon, a blue Japanese robot cat, has hated mice since his ears ______ by a mouse.",
+      "choices": {
+        "A": "bit",
+        "B": "bite",
+        "C": "were bitten",
+        "D": "have bitten"
+      },
+      "answer": "C",
+      "quickExplanation": "since（自從）後接過去簡單式，表自過去某時間點起，且耳朵是「被」咬，因此須用過去式被動語態，故選 (C)。",
+      "explanation": "since（自從）後接過去簡單式，表自過去某時間點起，且耳朵是「被」咬，因此須用過去式被動語態，故選 (C)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "provided teacher PPTX answer and explanation; native text and source visual cross-check",
+        "slide": 14,
+        "questionShapeId": 8,
+        "explanationShapeId": 7,
+        "evidence": "since（自從）後接過去簡單式，表自過去某時間點起，且耳朵是「被」咬，因此須用過去式被動語態，故選 (C)。",
+        "answerOverlay": [
+          "(C) were bitten"
+        ]
+      }
+    },
+    {
+      "id": "CAP-112-14",
+      "year": 112,
+      "questionNumber": 14,
+      "groupId": null,
+      "question": "If we play some interesting games in class, there ______ more fun in learning English.",
+      "choices": {
+        "A": "are",
+        "B": "has",
+        "C": "will be",
+        "D": "will have"
+      },
+      "answer": "C",
+      "quickExplanation": "存在句句型「there＋be 動詞...」表「有……」。",
+      "explanation": "存在句句型「there＋be 動詞...」表「有……」。if 條件句的主要子句用未來式，表「學習英文將會有更多樂趣」，故選 (C)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "provided teacher PPTX answer and explanation; native text and source visual cross-check",
+        "slide": 15,
+        "questionShapeId": 8,
+        "explanationShapeId": 7,
+        "evidence": "存在句句型「there＋be 動詞...」表「有……」。if 條件句的主要子句用未來式，表「學習英文將會有更多樂趣」，故選 (C)。",
+        "answerOverlay": [
+          "(C) will be"
+        ]
+      }
+    },
+    {
+      "id": "CAP-112-15",
+      "year": 112,
+      "questionNumber": 15,
+      "groupId": null,
+      "question": "The ______ of this shop was so bad; I never got any answer after I emailed them my questions.",
+      "choices": {
+        "A": "item",
+        "B": "business",
+        "C": "price",
+        "D": "service"
+      },
+      "answer": "D",
+      "quickExplanation": "由「問問題從來得不到回覆」，可推知該店家的「服務」很差，故選 (D)。",
+      "explanation": "由「問問題從來得不到回覆」，可推知該店家的「服務」很差，故選 (D)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "provided teacher PPTX answer and explanation; native text and source visual cross-check",
+        "slide": 16,
+        "questionShapeId": 8,
+        "explanationShapeId": 6,
+        "evidence": "由「問問題從來得不到回覆」，可推知該店家的「服務」很差，故選 (D)。",
+        "answerOverlay": [
+          "(D) service"
+        ]
+      }
+    },
+    {
+      "id": "CAP-112-16",
+      "year": 112,
+      "questionNumber": 16,
+      "groupId": null,
+      "question": "It’s not easy to see those islands clearly from here on sunny days, and it’s even less ______ to see them on cloudy days.",
+      "choices": {
+        "A": "difficult",
+        "B": "lucky",
+        "C": "possible",
+        "D": "special"
+      },
+      "answer": "C",
+      "quickExplanation": "由前句「晴天時要清楚地看到那些島嶼已經不容易」，可推知陰天時更不「可能」，故選 (C)。",
+      "explanation": "由前句「晴天時要清楚地看到那些島嶼已經不容易」，可推知陰天時更不「可能」，故選 (C)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "provided teacher PPTX answer and explanation; native text and source visual cross-check",
+        "slide": 17,
+        "questionShapeId": 8,
+        "explanationShapeId": 6,
+        "evidence": "由前句「晴天時要清楚地看到那些島嶼已經不容易」，可推知陰天時更不「可能」，故選 (C)。",
+        "answerOverlay": [
+          "(C) possible"
+        ]
+      }
+    },
+    {
+      "id": "CAP-112-17",
+      "year": 112,
+      "questionNumber": 17,
+      "groupId": null,
+      "question": "Do you remember the CD I was looking for for months? I ______ found it in a small shop. Look, here it is!",
+      "choices": {
+        "A": "almost",
+        "B": "even",
+        "C": "finally",
+        "D": "still"
+      },
+      "answer": "C",
+      "quickExplanation": "由前句「已經找了好幾個月的 CD」和後句「看，它在這裡！」，可推知應是「終於」在一間小店找到，故選 (C)。",
+      "explanation": "由前句「已經找了好幾個月的 CD」和後句「看，它在這裡！」，可推知應是「終於」在一間小店找到，故選 (C)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "provided teacher PPTX answer and explanation; native text and source visual cross-check",
+        "slide": 18,
+        "questionShapeId": 8,
+        "explanationShapeId": 7,
+        "evidence": "由前句「已經找了好幾個月的 CD」和後句「看，它在這裡！」，可推知應是「終於」在一間小店找到，故選 (C)。",
+        "answerOverlay": [
+          "(C) finally"
+        ]
+      }
+    },
+    {
+      "id": "CAP-112-18",
+      "year": 112,
+      "questionNumber": 18,
+      "groupId": null,
+      "question": "Business at Jane’s shop has not been good these days. And the new supermarket across the street only makes things ______ .",
+      "choices": {
+        "A": "easier",
+        "B": "worse",
+        "C": "more boring",
+        "D": "more convenient"
+      },
+      "answer": "B",
+      "quickExplanation": "由前句「這些日子生意本來就不好了」，可推知對面新開的超級市場只會讓事情變得「更糟」；worse 為 bad 的比較級，故選 (B)。",
+      "explanation": "由前句「這些日子生意本來就不好了」，可推知對面新開的超級市場只會讓事情變得「更糟」；worse 為 bad 的比較級，故選 (B)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "provided teacher PPTX answer and explanation; native text and source visual cross-check",
+        "slide": 19,
+        "questionShapeId": 8,
+        "explanationShapeId": 7,
+        "evidence": "由前句「這些日子生意本來就不好了」，可推知對面新開的超級市場只會讓事情變得「更糟」；worse 為 bad 的比較級，故選 (B)。",
+        "answerOverlay": [
+          "(B) worse"
+        ]
+      }
+    },
+    {
+      "id": "CAP-112-19",
+      "year": 112,
+      "questionNumber": 19,
+      "groupId": null,
+      "question": "Scott wasn’t sure if the young woman before him was ______ pulled him out of a car on fire.",
+      "choices": {
+        "A": "who",
+        "B": "the one",
+        "C": "the one she",
+        "D": "the one who"
+      },
+      "answer": "D",
+      "quickExplanation": "pulled him out of a car on fire 為關係子句修飾「那個人（the one）」，先行詞為人，關係代名詞應用 who，且 who 在關係子句中作主詞使用，不可省略，故選 (D)。",
+      "explanation": "pulled him out of a car on fire 為關係子句修飾「那個人（the one）」，先行詞為人，關係代名詞應用 who，且 who 在關係子句中作主詞使用，不可省略，故選 (D)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "provided teacher PPTX answer and explanation; native text and source visual cross-check",
+        "slide": 20,
+        "questionShapeId": 8,
+        "explanationShapeId": 7,
+        "evidence": "pulled him out of a car on fire 為關係子句修飾「那個人（the one）」，先行詞為人，關係代名詞應用 who，且 who 在關係子句中作主詞使用，不可省略，故選 (D)。",
+        "answerOverlay": [
+          "(D) the one who"
+        ]
+      }
+    },
+    {
+      "id": "CAP-112-20",
+      "year": 112,
+      "questionNumber": 20,
+      "groupId": null,
+      "question": "I ______ swimming for several years before I went to this high school. I gave it up because of heavy schoolwork.",
+      "choices": {
+        "A": "have practiced",
+        "B": "am practicing",
+        "C": "practiced",
+        "D": "would practice"
+      },
+      "answer": "C",
+      "quickExplanation": "由「在進入該中學前練習游泳好幾年」、「因為沉重的課業放棄了」，整件事情已於過去結束，用過去簡單式即可，故選 (C) 。",
+      "explanation": "由「在進入該中學前練習游泳好幾年」、「因為沉重的課業放棄了」，整件事情已於過去結束，用過去簡單式即可，故選 (C) 。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "provided teacher PPTX answer and explanation; native text and source visual cross-check",
+        "slide": 21,
+        "questionShapeId": 8,
+        "explanationShapeId": 7,
+        "evidence": "由「在進入該中學前練習游泳好幾年」、「因為沉重的課業放棄了」，整件事情已於過去結束，用過去簡單式即可，故選 (C) 。",
+        "answerOverlay": [
+          "(C) practiced"
+        ]
+      }
+    },
+    {
+      "id": "CAP-112-21",
+      "year": 112,
+      "questionNumber": 21,
+      "groupId": null,
+      "question": "Frank Kane is so good in the movie that many people ______ he will win the best actor prize.",
+      "choices": {
+        "A": "expect",
+        "B": "forget",
+        "C": "notice",
+        "D": "plan"
+      },
+      "answer": "A",
+      "quickExplanation": "由「在電影裡面表現得很棒」，可推知「以致於很多人『期望』他會獲頒最佳演員獎」，故選 (A)。",
+      "explanation": "由「在電影裡面表現得很棒」，可推知「以致於很多人『期望』他會獲頒最佳演員獎」，故選 (A)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "provided teacher PPTX answer and explanation; native text and source visual cross-check",
+        "slide": 22,
+        "questionShapeId": 8,
+        "explanationShapeId": 7,
+        "evidence": "由「在電影裡面表現得很棒」，可推知「以致於很多人『期望』他會獲頒最佳演員獎」，故選 (A)。",
+        "answerOverlay": [
+          "(A) expect"
+        ]
+      }
+    },
+    {
+      "id": "CAP-112-22",
+      "year": 112,
+      "questionNumber": 22,
+      "groupId": null,
+      "question": "The new medicine that just came out on the market ______ thousands of lives.",
+      "choices": {
+        "A": "and saved",
+        "B": "has saved",
+        "C": "saving",
+        "D": "to save"
+      },
+      "answer": "B",
+      "quickExplanation": "that just came out on the market 為修飾 The new medicine 的關係子句，本句主詞為 The new medicine，且缺少動詞，故選 (B)。",
+      "explanation": "that just came out on the market 為修飾 The new medicine 的關係子句，本句主詞為 The new medicine，且缺少動詞，故選 (B)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "provided teacher PPTX answer and explanation; native text and source visual cross-check",
+        "slide": 23,
+        "questionShapeId": 8,
+        "explanationShapeId": 7,
+        "evidence": "that just came out on the market 為修飾 The new medicine 的關係子句，本句主詞為 The new medicine，且缺少動詞，故選 (B)。",
+        "answerOverlay": [
+          "(B) has saved"
+        ]
+      }
+    },
+    {
+      "id": "CAP-112-23",
+      "year": 112,
+      "questionNumber": 23,
+      "groupId": null,
+      "question": "Now I often think of those days with Pip, my pet dog. When I read in my room, he ______ quietly beside me.",
+      "choices": {
+        "A": "will come and sit",
+        "B": "comes and sits",
+        "C": "has come and sat",
+        "D": "used to come and sit"
+      },
+      "answer": "D",
+      "quickExplanation": "由前句「常常想起那些日子」，可推知是發生在過去的事，因此用 used to＋V 表「過去經常……」，故選 (D)。",
+      "explanation": "由前句「常常想起那些日子」，可推知是發生在過去的事，因此用 used to＋V 表「過去經常……」，故選 (D)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "provided teacher PPTX answer and explanation; native text and source visual cross-check",
+        "slide": 24,
+        "questionShapeId": 8,
+        "explanationShapeId": 7,
+        "evidence": "由前句「常常想起那些日子」，可推知是發生在過去的事，因此用 used to＋V 表「過去經常……」，故選 (D)。",
+        "answerOverlay": [
+          "(D) used to come and sit"
+        ]
+      }
+    },
+    {
+      "id": "CAP-112-24",
+      "year": 112,
+      "questionNumber": 24,
+      "groupId": "CAP-112-G24-25",
+      "question": "Amy went to Four Seasons’ Kitchen with her mother after she collected 15 stars. They ordered two Garden Sandwiches, an Autumn Wind, and a Winter Snow. After using the stars, how much did they pay for their meals?",
+      "choices": {
+        "A": "$290.",
+        "B": "$230.",
+        "C": "$220.",
+        "D": "$160."
+      },
+      "answer": "B",
+      "quickExplanation": "由「15 顆星星即可免費兌換一杯 60 元的飲品」，可推知秋風免費，兩個花園三明治和一杯冬雪為 80 元*2＋70 元＝230 元，故選 (B)。",
+      "explanation": "由「15 顆星星即可免費兌換一杯 60 元的飲品」，可推知秋風免費，兩個花園三明治和一杯冬雪為 80 元*2＋70 元＝230 元，故選 (B)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "provided teacher PPTX answer and explanation; native text and source visual cross-check",
+        "slide": 25,
+        "questionShapeId": 7,
+        "explanationShapeId": 3,
+        "evidence": "由「15 顆星星即可免費兌換一杯 60 元的飲品」，可推知秋風免費，兩個花園三明治和一杯冬雪為 80 元*2＋70 元＝230 元，故選 (B)。",
+        "answerOverlay": [
+          "(B) $230."
+        ]
+      }
+    },
+    {
+      "id": "CAP-112-25",
+      "year": 112,
+      "questionNumber": 25,
+      "groupId": "CAP-112-G24-25",
+      "question": "Amy wants to bring her friends to Four Seasons’ Kitchen in August. She looks at her calendar to pick a time to go there. Which are the time and date she can choose?",
+      "choices": {
+        "A": "8:30 pm, August 1.",
+        "B": "5:00 pm, August 11.",
+        "C": "3:00 pm, August 13.",
+        "D": "2:00 pm, August 28."
+      },
+      "answer": "B",
+      "quickExplanation": "四季廚房只開到晚上八點，故不選 (A)；四季廚房每個月第二個星期日公休，故不選 (C)；四季廚房週一不營業，故不選 (D)；能帶朋友去的僅剩 (B)。",
+      "explanation": "四季廚房只開到晚上八點，故不選 (A)；四季廚房每個月第二個星期日公休，故不選 (C)；四季廚房週一不營業，故不選 (D)；能帶朋友去的僅剩 (B)。",
+      "images": [
+        "assets/112/q25-calendar.png"
+      ],
+      "optionImages": {},
+      "glossary": "calendar 月曆",
+      "status": "approved",
+      "answerVerification": {
+        "method": "provided teacher PPTX answer and explanation; native text and source visual cross-check",
+        "slide": 26,
+        "questionShapeId": 7,
+        "explanationShapeId": 3,
+        "evidence": "四季廚房只開到晚上八點，故不選 (A)；四季廚房每個月第二個星期日公休，故不選 (C)；四季廚房週一不營業，故不選 (D)；能帶朋友去的僅剩 (B)。",
+        "answerOverlay": [
+          "(B) 5:00 pm, August 11."
+        ]
+      }
+    },
+    {
+      "id": "CAP-112-26",
+      "year": 112,
+      "questionNumber": 26,
+      "groupId": "CAP-112-G26-27",
+      "question": "According to the notes, which is the WRONG way to help a baby bird that is out of its nest?",
+      "choices": {
+        "A": "Feed it before you take it to a hospital.",
+        "B": "Leave it alone if it is not hurt and has feathers.",
+        "C": "Call the animal center if you can’t find its nest.",
+        "D": "Put it back in its nest if it is not hurt and has few feathers."
+      },
+      "answer": "A",
+      "quickExplanation": "由「如果小鳥受傷了」的描述可推知，將受傷的幼鳥送到醫院前應該要為其保暖，且不要餵食任何食物，故選 (A)。",
+      "explanation": "由「如果小鳥受傷了」的描述可推知，將受傷的幼鳥送到醫院前應該要為其保暖，且不要餵食任何食物，故選 (A)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "provided teacher PPTX answer and explanation; native text and source visual cross-check",
+        "slide": 28,
+        "questionShapeId": 7,
+        "explanationShapeId": 3,
+        "evidence": "由「如果小鳥受傷了」的描述可推知，將受傷的幼鳥送到醫院前應該要為其保暖，且不要餵食任何食物，故選 (A)。",
+        "answerOverlay": [
+          "(A) Feed it before you take it to a hospital."
+        ]
+      }
+    },
+    {
+      "id": "CAP-112-27",
+      "year": 112,
+      "questionNumber": 27,
+      "groupId": "CAP-112-G26-27",
+      "question": "According to the notes, what do birds do if their babies have the smell of people on them?",
+      "choices": {
+        "A": "They keep taking care of them.",
+        "B": "They push them out of the nest.",
+        "C": "They clean them until the smell goes away.",
+        "D": "They leave them behind and move to a new nest."
+      },
+      "answer": "A",
+      "quickExplanation": "由箭頭下的 Birds don’t care! 可推知鳥類不在乎人類的氣味，因此即使幼鳥身上帶有人類的氣味，牠們也會繼續照顧牠們，故選 (A)。",
+      "explanation": "由箭頭下的 Birds don’t care! 可推知鳥類不在乎人類的氣味，因此即使幼鳥身上帶有人類的氣味，牠們也會繼續照顧牠們，故選 (A)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "provided teacher PPTX answer and explanation; native text and source visual cross-check",
+        "slide": 29,
+        "questionShapeId": 7,
+        "explanationShapeId": 3,
+        "evidence": "由箭頭下的 Birds don’t care! 可推知鳥類不在乎人類的氣味，因此即使幼鳥身上帶有人類的氣味，牠們也會繼續照顧牠們，故選 (A)。",
+        "answerOverlay": [
+          "(A) They keep taking care of them."
+        ]
+      }
+    },
+    {
+      "id": "CAP-112-28",
+      "year": 112,
+      "questionNumber": 28,
+      "groupId": "CAP-112-G28-29",
+      "question": "According to the reading, which is one of the reasons for food waste?",
+      "choices": {
+        "A": "Stores do not know how to pack food well.",
+        "B": "Farmers do not have enough machines to collect food.",
+        "C": "There is no refrigerator on the truck to keep food fresh.",
+        "D": "Factories do not have enough trucks to carry food to stores."
+      },
+      "answer": "C",
+      "quickExplanation": "階段二提到沒有冰箱可保持食物新鮮，且由「在路上（on the road）」可推知是指運送過程，也就是卡車沒有冰箱，故選 (C) 。",
+      "explanation": "階段二提到沒有冰箱可保持食物新鮮，且由「在路上（on the road）」可推知是指運送過程，也就是卡車沒有冰箱，故選 (C) 。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "provided teacher PPTX answer and explanation; native text and source visual cross-check",
+        "slide": 31,
+        "questionShapeId": 7,
+        "explanationShapeId": 3,
+        "evidence": "階段二提到沒有冰箱可保持食物新鮮，且由「在路上（on the road）」可推知是指運送過程，也就是卡車沒有冰箱，故選 (C) 。",
+        "answerOverlay": [
+          "(C) There is no refrigerator on the truck to keep food fresh."
+        ]
+      }
+    },
+    {
+      "id": "CAP-112-29",
+      "year": 112,
+      "questionNumber": 29,
+      "groupId": "CAP-112-G28-29",
+      "question": "Which is true about food waste at each stage in the three parts of the world?",
+      "choices": {
+        "A": "For each area, the highest percentage of food waste happens at Stage 5.",
+        "B": "Europe has a lower percentage of food waste at Stage 3 than the other two areas.",
+        "C": "North America & Oceania has a higher percentage of food waste at Stage 1 than Europe.",
+        "D": "South & Southeast Asia has a higher percentage of food waste at Stage 4 than the other two areas."
+      },
+      "answer": "D",
+      "quickExplanation": "(A) 只有在北美洲及大洋洲是這樣；(B) 歐洲的 3.9% 是所有地區中階段三最高的，非較低；(C) 歐洲的 11.3% 才是最高的；(D) 南亞及東南亞的 4.6 % 是所有地區裡第四階段最高的，正確。",
+      "explanation": "(A) 只有在北美洲及大洋洲是這樣；(B) 歐洲的 3.9% 是所有地區中階段三最高的，非較低；(C) 歐洲的 11.3% 才是最高的；(D) 南亞及東南亞的 4.6 % 是所有地區裡第四階段最高的，正確。故選 (D)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "provided teacher PPTX answer and explanation; native text and source visual cross-check",
+        "slide": 32,
+        "questionShapeId": 7,
+        "explanationShapeId": 3,
+        "evidence": "(A) 只有在北美洲及大洋洲是這樣；(B) 歐洲的 3.9% 是所有地區中階段三最高的，非較低；(C) 歐洲的 11.3% 才是最高的；(D) 南亞及東南亞的 4.6 % 是所有地區裡第四階段最高的，正確。故選 (D)。",
+        "answerOverlay": [
+          "(D) South & Southeast Asia has a higher percentage of food waste at Stage 4 than the other two areas."
+        ]
+      }
+    },
+    {
+      "id": "CAP-112-30",
+      "year": 112,
+      "questionNumber": 30,
+      "groupId": "CAP-112-G30-32",
+      "question": "What is the trick that the mosquito uses in rain?",
+      "choices": {
+        "A": "It shakes its body fast enough to get water off.",
+        "B": "It drops with the raindrop and then rolls off it.",
+        "C": "It flies behind the raindrop and pushes it away.",
+        "D": "It rides on the raindrop and lands on the ground."
+      },
+      "answer": "B",
+      "quickExplanation": "trick 指的即是蚊子應對雨滴的方法，也就是第三段提到的 falls together with it（與其一起落下）、roll off the raindrop（滾掉雨滴），故選 (B)。",
+      "explanation": "trick 指的即是蚊子應對雨滴的方法，也就是第三段提到的 falls together with it（與其一起落下）、roll off the raindrop（滾掉雨滴），故選 (B)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "provided teacher PPTX answer and explanation; native text and source visual cross-check",
+        "slide": 34,
+        "questionShapeId": 4,
+        "explanationShapeId": 9,
+        "evidence": "trick 指的即是蚊子應對雨滴的方法，也就是第三段提到的 falls together with it（與其一起落下）、roll off the raindrop（滾掉雨滴），故選 (B)。",
+        "answerOverlay": [
+          "(B) It drops with the raindrop and then rolls off it."
+        ]
+      }
+    },
+    {
+      "id": "CAP-112-31",
+      "year": 112,
+      "questionNumber": 31,
+      "groupId": "CAP-112-G30-32",
+      "question": "What keeps a mosquito safe in the rain?",
+      "choices": {
+        "A": "It is very light.",
+        "B": "It has no body hairs.",
+        "C": "It is as big as a raindrop.",
+        "D": "It is strong enough to fight the force of a raindrop."
+      },
+      "answer": "A",
+      "quickExplanation": "由第二段的第一～二句可知，蚊子很輕，而這在雨滴攻擊時救了牠的命，故選 (A)。",
+      "explanation": "由第二段的第一～二句可知，蚊子很輕，而這在雨滴攻擊時救了牠的命，故選 (A)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "provided teacher PPTX answer and explanation; native text and source visual cross-check",
+        "slide": 35,
+        "questionShapeId": 4,
+        "explanationShapeId": 9,
+        "evidence": "由第二段的第一～二句可知，蚊子很輕，而這在雨滴攻擊時救了牠的命，故選 (A)。",
+        "answerOverlay": [
+          "(A) It is very light."
+        ]
+      }
+    },
+    {
+      "id": "CAP-112-32",
+      "year": 112,
+      "questionNumber": 32,
+      "groupId": "CAP-112-G30-32",
+      "question": "When would it be dangerous for a mosquito in the rain?",
+      "choices": {
+        "A": "When it flies too close to the ground.",
+        "B": "When the rain falls too hard and too fast.",
+        "C": "When it is hit by raindrops too many times.",
+        "D": "When it drops for more than 6 cm in the rain."
+      },
+      "answer": "A",
+      "quickExplanation": "最後一段提到，如果蚊子被雨滴擊中時飛得太低，牠就沒有時間飛走，而是會直接撞到地面而死去，可推知飛太靠近地面是很危險的，故選 (A)。",
+      "explanation": "最後一段提到，如果蚊子被雨滴擊中時飛得太低，牠就沒有時間飛走，而是會直接撞到地面而死去，可推知飛太靠近地面是很危險的，故選 (A)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "provided teacher PPTX answer and explanation; native text and source visual cross-check",
+        "slide": 36,
+        "questionShapeId": 4,
+        "explanationShapeId": 9,
+        "evidence": "最後一段提到，如果蚊子被雨滴擊中時飛得太低，牠就沒有時間飛走，而是會直接撞到地面而死去，可推知飛太靠近地面是很危險的，故選 (A)。",
+        "answerOverlay": [
+          "(A) When it flies too close to the ground."
+        ]
+      }
+    },
+    {
+      "id": "CAP-112-33",
+      "year": 112,
+      "questionNumber": 33,
+      "groupId": "CAP-112-G33-35",
+      "question": "What do the three stories in the reading all talk about?",
+      "choices": {
+        "A": "Who Beethoven’s true love was.",
+        "B": "Who played “For Elise” the best.",
+        "C": "How “For Elise” became popular.",
+        "D": "Why Beethoven wrote “For Elise.”"
+      },
+      "answer": "D",
+      "quickExplanation": "文章雖然在猜測愛麗絲是誰，但在三個故事中都說明了作曲的理由：與朋友道別、寫給愛人、寫給愛人用來教學生鋼琴，故選 (D)。",
+      "explanation": "文章雖然在猜測愛麗絲是誰，但在三個故事中都說明了作曲的理由：與朋友道別、寫給愛人、寫給愛人用來教學生鋼琴，故選 (D)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "provided teacher PPTX answer and explanation; native text and source visual cross-check",
+        "slide": 38,
+        "questionShapeId": 4,
+        "explanationShapeId": 9,
+        "evidence": "文章雖然在猜測愛麗絲是誰，但在三個故事中都說明了作曲的理由：與朋友道別、寫給愛人、寫給愛人用來教學生鋼琴，故選 (D)。",
+        "answerOverlay": [
+          "(D) Why Beethoven wrote “For Elise.”"
+        ]
+      }
+    },
+    {
+      "id": "CAP-112-34",
+      "year": 112,
+      "questionNumber": 34,
+      "groupId": "CAP-112-G33-35",
+      "question": "What do we know about “For Elise” from the reading?",
+      "choices": {
+        "A": "It first appeared in the opera Fidelio.",
+        "B": "The true “Elise” was Elise Barensfeld.",
+        "C": "The manuscript was found after Beethoven died.",
+        "D": "The manuscript is now kept by the city of Vienna."
+      },
+      "answer": "C",
+      "quickExplanation": "(A) 就算第一個故事為真，也是後來要道別時才寫給有出演歌劇的 Elisabeth Röckel；(B) 真正的愛麗絲是誰仍未知；(D) 文中未提；僅 (C) 正確。",
+      "explanation": "(A) 就算第一個故事為真，也是後來要道別時才寫給有出演歌劇的 Elisabeth Röckel；(B) 真正的愛麗絲是誰仍未知；(D) 文中未提；僅 (C) 正確。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "provided teacher PPTX answer and explanation; native text and source visual cross-check",
+        "slide": 39,
+        "questionShapeId": 4,
+        "explanationShapeId": 9,
+        "evidence": "(A) 就算第一個故事為真，也是後來要道別時才寫給有出演歌劇的 Elisabeth Röckel；(B) 真正的愛麗絲是誰仍未知；(D) 文中未提；僅 (C) 正確。",
+        "answerOverlay": [
+          "(C) The manuscript was found after Beethoven died."
+        ]
+      }
+    },
+    {
+      "id": "CAP-112-35",
+      "year": 112,
+      "questionNumber": 35,
+      "groupId": "CAP-112-G33-35",
+      "question": "What can we learn about the three women from the stories?",
+      "choices": {
+        "A": "They were called “Elise” by their friends.",
+        "B": "Elisabeth Röckel was a close friend of Beethoven’s.",
+        "C": "Therese Malfatti changed “For Elise” to “For Therese.”",
+        "D": "Elise Barensfeld was Beethoven’s student."
+      },
+      "answer": "B",
+      "quickExplanation": "(A) 第二個故事中的 Therese Malfatti 並未被稱為愛麗絲；(C) 是後來抄寫手稿的人將《給特雷莎》誤植為《給愛麗絲》；(D) Elise Barensfeld 是 Therese Malfatti 的學生；僅 (B) 正確。",
+      "explanation": "(A) 第二個故事中的 Therese Malfatti 並未被稱為愛麗絲；(C) 是後來抄寫手稿的人將《給特雷莎》誤植為《給愛麗絲》；(D) Elise Barensfeld 是 Therese Malfatti 的學生；僅 (B) 正確。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "provided teacher PPTX answer and explanation; native text and source visual cross-check",
+        "slide": 40,
+        "questionShapeId": 4,
+        "explanationShapeId": 9,
+        "evidence": "(A) 第二個故事中的 Therese Malfatti 並未被稱為愛麗絲；(C) 是後來抄寫手稿的人將《給特雷莎》誤植為《給愛麗絲》；(D) Elise Barensfeld 是 Therese Malfatti 的學生；僅 (B) 正確。",
+        "answerOverlay": [
+          "(B) Elisabeth Röckel was a close friend of Beethoven’s."
+        ]
+      }
+    },
+    {
+      "id": "CAP-112-36",
+      "year": 112,
+      "questionNumber": 36,
+      "groupId": "CAP-112-G36-38",
+      "question": "What idea does Jesse Cohen talk about in the reading?",
+      "choices": {
+        "A": "Not all kinds of toys are helpful for children’s learning.",
+        "B": "Parents should give their children the right toys for their age.",
+        "C": "Children should learn about their gender from playing with toys.",
+        "D": "We should not let gender decide which toys children can play with."
+      },
+      "answer": "D",
+      "quickExplanation": "Jesse Cohen 先說明孩子們只是被提供玩具，並跟隨其他同性別的孩子所做的事，但最後一段說明這樣對孩子是不好的，可能會因而錯失機會，故最符合的應該是 (D)。",
+      "explanation": "Jesse Cohen 先說明孩子們只是被提供玩具，並跟隨其他同性別的孩子所做的事，但最後一段說明這樣對孩子是不好的，可能會因而錯失機會，故最符合的應該是 (D)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "provided teacher PPTX answer and explanation; native text and source visual cross-check",
+        "slide": 42,
+        "questionShapeId": 7,
+        "explanationShapeId": 3,
+        "evidence": "Jesse Cohen 先說明孩子們只是被提供玩具，並跟隨其他同性別的孩子所做的事，但最後一段說明這樣對孩子是不好的，可能會因而錯失機會，故最符合的應該是 (D)。",
+        "answerOverlay": [
+          "(D) We should not let gender decide which toys children can play with."
+        ]
+      }
+    },
+    {
+      "id": "CAP-112-37",
+      "year": 112,
+      "questionNumber": 37,
+      "groupId": "CAP-112-G36-38",
+      "question": "In the third paragraph, why does Jesse Cohen think “this rule can be bad for children”?",
+      "choices": {
+        "A": "Children may not want to share their toys with others.",
+        "B": "Children may have the wrong idea about following rules.",
+        "C": "Children may not be able to learn from playing with toys.",
+        "D": "Children may miss the chance to find out what they really like."
+      },
+      "answer": "D",
+      "quickExplanation": "由該段第四～五句可知，藉由玩不同的玩具，孩子們可以發現他們對什麼感興趣，或他們擅長什麼。",
+      "explanation": "由該段第四～五句可知，藉由玩不同的玩具，孩子們可以發現他們對什麼感興趣，或他們擅長什麼。如果他們只玩一種類型的玩具，他們可能失去這個重要的機會，故選 (D)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": "paragraph 段落",
+      "status": "approved",
+      "answerVerification": {
+        "method": "provided teacher PPTX answer and explanation; native text and source visual cross-check",
+        "slide": 43,
+        "questionShapeId": 7,
+        "explanationShapeId": 3,
+        "evidence": "由該段第四～五句可知，藉由玩不同的玩具，孩子們可以發現他們對什麼感興趣，或他們擅長什麼。如果他們只玩一種類型的玩具，他們可能失去這個重要的機會，故選 (D)。",
+        "answerOverlay": [
+          "(D) Children may miss the chance to find out what they really like."
+        ]
+      }
+    },
+    {
+      "id": "CAP-112-38",
+      "year": 112,
+      "questionNumber": 38,
+      "groupId": "CAP-112-G36-38",
+      "question": "In the reading, after Jesse Cohen talks about an idea, he often gives an example to make it clear. Below are four of the sentences in the third paragraph. Which is used as an example?",
+      "choices": {
+        "A": "“However, this rule can be bad for children.”",
+        "B": "“Dolls help with their early language use, and building toys are good for learning math and science.”",
+        "C": "“Some doctors worry that children may use the same kind of thinking when they look for jobs in the future.”",
+        "D": "“If they do, they may miss something more important than just getting a chance to play with different toys.”"
+      },
+      "answer": "B",
+      "quickExplanation": "(B)「玩偶有助於他們早期的語言使用，而建構性的玩具對學習數學和科學有益」，為前句 Different toys teach children different things. 的「舉例」，故選 (B)。",
+      "explanation": "(B)「玩偶有助於他們早期的語言使用，而建構性的玩具對學習數學和科學有益」，為前句 Different toys teach children different things. 的「舉例」，故選 (B)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "provided teacher PPTX answer and explanation; native text and source visual cross-check",
+        "slide": 44,
+        "questionShapeId": 7,
+        "explanationShapeId": 3,
+        "evidence": "(B)「玩偶有助於他們早期的語言使用，而建構性的玩具對學習數學和科學有益」，為前句 Different toys teach children different things. 的「舉例」，故選 (B)。",
+        "answerOverlay": [
+          "(B) “Dolls help with their early language use, and building toys are good for learning math and science.”"
+        ]
+      }
+    },
+    {
+      "id": "CAP-112-39",
+      "year": 112,
+      "questionNumber": 39,
+      "groupId": "CAP-112-G39-41",
+      "question": "What is the reading mostly about?",
+      "choices": {
+        "A": "Marie Colvin’s war reports.",
+        "B": "Marie Colvin’s working life.",
+        "C": "Marie Colvin’s schooldays at Yale.",
+        "D": "Marie Colvin’s experiences in Homs."
+      },
+      "answer": "B",
+      "quickExplanation": "本文描述了 Marie Colvin 作為 Sunday Times 的記者入行，期間一直致力於報導，直到 2012 年甚至在戰地失去生命，皆為其工作生涯，故選 (B)。",
+      "explanation": "本文描述了 Marie Colvin 作為 Sunday Times 的記者入行，期間一直致力於報導，直到 2012 年甚至在戰地失去生命，皆為其工作生涯，故選 (B)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "provided teacher PPTX answer and explanation; native text and source visual cross-check",
+        "slide": 46,
+        "questionShapeId": 7,
+        "explanationShapeId": 3,
+        "evidence": "本文描述了 Marie Colvin 作為 Sunday Times 的記者入行，期間一直致力於報導，直到 2012 年甚至在戰地失去生命，皆為其工作生涯，故選 (B)。",
+        "answerOverlay": [
+          "(B) Marie Colvin’s working life."
+        ]
+      }
+    },
+    {
+      "id": "CAP-112-40",
+      "year": 112,
+      "questionNumber": 40,
+      "groupId": "CAP-112-G39-41",
+      "question": "What does it mean when someone has empathy?",
+      "choices": {
+        "A": "They are good at taking war photos.",
+        "B": "They like to read other people’s life stories.",
+        "C": "They are able to understand how other people feel.",
+        "D": "They are good at helping people change their own lives."
+      },
+      "answer": "C",
+      "quickExplanation": "根據此段說明可知，對 Marie Colvin 來說，戰地報導應該要讓人強烈感受到那些人的故事，就好像是自己的一樣，可推知 empathy 指的為同理心，故選 (C)。",
+      "explanation": "根據此段說明可知，對 Marie Colvin 來說，戰地報導應該要讓人強烈感受到那些人的故事，就好像是自己的一樣，可推知 empathy 指的為同理心，故選 (C)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "provided teacher PPTX answer and explanation; native text and source visual cross-check",
+        "slide": 47,
+        "questionShapeId": 7,
+        "explanationShapeId": 3,
+        "evidence": "根據此段說明可知，對 Marie Colvin 來說，戰地報導應該要讓人強烈感受到那些人的故事，就好像是自己的一樣，可推知 empathy 指的為同理心，故選 (C)。",
+        "answerOverlay": [
+          "(C) They are able to understand how other people feel."
+        ]
+      }
+    },
+    {
+      "id": "CAP-112-41",
+      "year": 112,
+      "questionNumber": 41,
+      "groupId": "CAP-112-G39-41",
+      "question": "Which is true about Marie Colvin?",
+      "choices": {
+        "A": "The chance to study at Yale made her leave her job in the Middle East.",
+        "B": "The experience in Sri Lanka did not change her way of reporting news.",
+        "C": "She was killed in Homs when she was interviewing soldiers there for her report.",
+        "D": "She was not sure what to do in the future until she worked for the Sunday Times."
+      },
+      "answer": "B",
+      "quickExplanation": "(A) 是大學畢業後才開始當記者；(C) 是在她當時待的家中遭受攻擊；(D) 在耶魯大學就讀時就決定要成為記者了；故選 (B)。",
+      "explanation": "(A) 是大學畢業後才開始當記者；(C) 是在她當時待的家中遭受攻擊；(D) 在耶魯大學就讀時就決定要成為記者了；故選 (B)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "provided teacher PPTX answer and explanation; native text and source visual cross-check",
+        "slide": 48,
+        "questionShapeId": 7,
+        "explanationShapeId": 3,
+        "evidence": "(A) 是大學畢業後才開始當記者；(C) 是在她當時待的家中遭受攻擊；(D) 在耶魯大學就讀時就決定要成為記者了；故選 (B)。",
+        "answerOverlay": [
+          "(B) The experience in Sri Lanka did not change her way of reporting news."
+        ]
+      }
+    },
+    {
+      "id": "CAP-112-42",
+      "year": 112,
+      "questionNumber": 42,
+      "groupId": "CAP-112-G42-43",
+      "question": "",
+      "choices": {
+        "A": "what things are called",
+        "B": "how sports are played",
+        "C": "why different languages are spoken",
+        "D": "what words are often spelled differently"
+      },
+      "answer": "A",
+      "quickExplanation": "從第一段最後的舉例，運動鞋在不同的地方被稱為 tennis shoes、sneakers 和 gym shoes，可知本書是關於在美國不同區域「物品被稱作什麼」，故選 (A)。",
+      "explanation": "從第一段最後的舉例，運動鞋在不同的地方被稱為 tennis shoes、sneakers 和 gym shoes，可知本書是關於在美國不同區域「物品被稱作什麼」，故選 (A)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "provided teacher PPTX answer and explanation; native text and source visual cross-check",
+        "slide": 50,
+        "questionShapeId": 7,
+        "explanationShapeId": 3,
+        "evidence": "從第一段最後的舉例，運動鞋在不同的地方被稱為 tennis shoes、sneakers 和 gym shoes，可知本書是關於在美國不同區域「物品被稱作什麼」，故選 (A)。",
+        "answerOverlay": [
+          "(A) what things are called"
+        ]
+      }
+    },
+    {
+      "id": "CAP-112-43",
+      "year": 112,
+      "questionNumber": 43,
+      "groupId": "CAP-112-G42-43",
+      "question": "",
+      "choices": {
+        "A": "how old they are",
+        "B": "who they speak to",
+        "C": "where they grew up",
+        "D": "whether they are men or women"
+      },
+      "answer": "A",
+      "quickExplanation": "空格後方舉例不同年齡層的人（自己、自己的祖父、自己的女兒）對相同物品有不同名稱，可知在作者的經驗裡，名稱也可以看出「說話者的年齡」，故選 (A)。",
+      "explanation": "空格後方舉例不同年齡層的人（自己、自己的祖父、自己的女兒）對相同物品有不同名稱，可知在作者的經驗裡，名稱也可以看出「說話者的年齡」，故選 (A)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "provided teacher PPTX answer and explanation; native text and source visual cross-check",
+        "slide": 51,
+        "questionShapeId": 7,
+        "explanationShapeId": 3,
+        "evidence": "空格後方舉例不同年齡層的人（自己、自己的祖父、自己的女兒）對相同物品有不同名稱，可知在作者的經驗裡，名稱也可以看出「說話者的年齡」，故選 (A)。",
+        "answerOverlay": [
+          "(A) how old they are"
+        ]
+      }
+    }
+  ],
+  "assetProvenance": [
+    {
+      "path": "assets/112/q01.png",
+      "sourceSlide": 2,
+      "sourceShapeId": 13,
+      "sourceImageSha256": "b74843deb375bf1fc6b860086315e1d2dbf5edcf06fd02f6f1389a37439f5903",
+      "crop": null,
+      "sha256": "c624f463f5f165c6da153662f6d5be13285e5ed08aecaa396419de8f1c31384d"
+    },
+    {
+      "path": "assets/112/q25-calendar.png",
+      "sourceSlide": 26,
+      "sourceShapeId": 6,
+      "sourceImageSha256": "14ebc098b89fb6acf03e0b7b30e7d34e0605bb4622ae99333d35f5b7ea29f8fc",
+      "crop": null,
+      "sha256": "6c221982453816f2424971ab226ea009fa7af30be897a516f4b7597c712cef81"
+    },
+    {
+      "path": "assets/112/group-24-25.png",
+      "sourceSlide": 25,
+      "sourceShapeId": 8,
+      "sourceImageSha256": "8484352a7d893a178d7724b345ac78f23985d25bd13a7b61c3e7e09cc057592e",
+      "crop": null,
+      "sha256": "9e32c803fb12f54b0c6ebc60e225651a624e8285f7637aa92bcb427883ee40fd"
+    },
+    {
+      "path": "assets/112/group-26-27.png",
+      "sourceSlide": 28,
+      "sourceShapeId": 17,
+      "sourceImageSha256": "99557498408c32ae51ff15d78ff91cc1f5bdbbc96068a900fe6ea108c2d48f49",
+      "crop": null,
+      "sha256": "e5d747419e07716904f9df40680aed954c412edbb7366c2cf36dcb53d7869728"
+    },
+    {
+      "path": "assets/112/group-28-29.png",
+      "sourceSlide": 31,
+      "sourceShapeId": 8,
+      "sourceImageSha256": "f8a87ae9f6e54e4ac64523efdc7857d450f01915cf38775dae5031ccb7d3612a",
+      "crop": null,
+      "sha256": "d5c2868e2e1153485ac422b62453b4f2a5336b99ea7fa124975e74d6f68c732e"
+    },
+    {
+      "path": "assets/112/group-30-32.png",
+      "sourceSlide": 34,
+      "sourceShapeId": 3,
+      "sourceImageSha256": "8c2b782bff1229c545e659167dfde47fded88681bd9f361033209bdf991d6805",
+      "crop": null,
+      "sha256": "906a8fc27d73f0acd2c12741da10d27f4b6763fc730f02a8e4f6fafaaeaceb4a"
+    },
+    {
+      "path": "assets/112/group-33-35.png",
+      "sourceSlide": 38,
+      "sourceShapeId": 7,
+      "sourceImageSha256": "0611a91059ce187235b0466a2238f17ebb0e35e34304e711048e79873e763302",
+      "crop": null,
+      "sha256": "16a2729612763c958b8f216105b9a30667c23bf1545ecf86ec72eb80f854357c"
+    },
+    {
+      "path": "assets/112/group-36-38.png",
+      "sourceSlide": 42,
+      "sourceShapeId": 8,
+      "sourceImageSha256": "8661adcf71844ed638b69a8068dd2bb7bb9863d17333dd1ef4728670311d34d1",
+      "crop": null,
+      "sha256": "3adcd864de391f0fdfb2041521b38ae6a98f286c372866eeea10731861a1f1e9"
+    },
+    {
+      "path": "assets/112/group-39-41.png",
+      "sourceSlide": 46,
+      "sourceShapeId": 6,
+      "sourceImageSha256": "602723c68d2a82f36c8bf290908318012bbb3eb72d4dbd0bb053085b639f86b8",
+      "crop": null,
+      "sha256": "c9d73b74c766ecb6d599128e3bc3806640bab9928ef3f20b3bbf8dc25fdc4200"
+    },
+    {
+      "path": "assets/112/group-42-43.png",
+      "sourceSlide": 50,
+      "sourceShapeId": 8,
+      "sourceImageSha256": "f83203399fd594fc7def98619386dfdbdb0d2dccb6e4f80a1b452940f067d375",
+      "crop": null,
+      "sha256": "a125a62d58b625f1bb142135687742c86ebd406a5991947a7a0b4babcdfa5c4c"
+    }
+  ]
+}

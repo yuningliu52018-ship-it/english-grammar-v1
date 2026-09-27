@@ -1,0 +1,1593 @@
+{
+  "version": 1,
+  "year": 113,
+  "source": {
+    "file": "113會考英語科【閱讀】試題解析PPT.pptx",
+    "sha256": "306027c7afdb934bbbd4b2f25d45cd99ab0d95da34c1a92ab7156731fe22599b",
+    "slides": 53
+  },
+  "rawCount": 43,
+  "approvedCount": 42,
+  "reviewCount": 1,
+  "groups": [
+    {
+      "id": "CAP-113-G22-23",
+      "firstQuestion": 22,
+      "lastQuestion": 23,
+      "questionIds": [
+        "CAP-113-22",
+        "CAP-113-23"
+      ],
+      "passageImages": [
+        "assets/113/group-22-23.png"
+      ],
+      "status": "approved",
+      "visualRequired": false,
+      "sourceSlides": [
+        24,
+        25
+      ]
+    },
+    {
+      "id": "CAP-113-G24-25",
+      "firstQuestion": 24,
+      "lastQuestion": 25,
+      "questionIds": [
+        "CAP-113-24",
+        "CAP-113-25"
+      ],
+      "passageImages": [
+        "assets/113/group-24-25.png"
+      ],
+      "status": "approved",
+      "visualRequired": true,
+      "sourceSlides": [
+        27,
+        28
+      ]
+    },
+    {
+      "id": "CAP-113-G26-27",
+      "firstQuestion": 26,
+      "lastQuestion": 27,
+      "questionIds": [
+        "CAP-113-26",
+        "CAP-113-27"
+      ],
+      "passageImages": [
+        "assets/113/group-26-27.png"
+      ],
+      "status": "approved",
+      "visualRequired": true,
+      "sourceSlides": [
+        30,
+        31
+      ]
+    },
+    {
+      "id": "CAP-113-G28-29",
+      "firstQuestion": 28,
+      "lastQuestion": 29,
+      "questionIds": [
+        "CAP-113-28",
+        "CAP-113-29"
+      ],
+      "passageImages": [
+        "assets/113/group-28-29.png"
+      ],
+      "status": "approved",
+      "visualRequired": false,
+      "sourceSlides": [
+        33,
+        34
+      ]
+    },
+    {
+      "id": "CAP-113-G30-32",
+      "firstQuestion": 30,
+      "lastQuestion": 32,
+      "questionIds": [
+        "CAP-113-30",
+        "CAP-113-31",
+        "CAP-113-32"
+      ],
+      "passageImages": [
+        "assets/113/group-30-32.png",
+        "assets/113/group-30-32-shop.png"
+      ],
+      "status": "approved",
+      "visualRequired": false,
+      "sourceSlides": [
+        36,
+        37,
+        38
+      ]
+    },
+    {
+      "id": "CAP-113-G33-35",
+      "firstQuestion": 33,
+      "lastQuestion": 35,
+      "questionIds": [
+        "CAP-113-33",
+        "CAP-113-34",
+        "CAP-113-35"
+      ],
+      "passageImages": [
+        "assets/113/group-33-35.png"
+      ],
+      "status": "approved",
+      "visualRequired": true,
+      "sourceSlides": [
+        40,
+        41,
+        42
+      ]
+    },
+    {
+      "id": "CAP-113-G36-39",
+      "firstQuestion": 36,
+      "lastQuestion": 39,
+      "questionIds": [
+        "CAP-113-36",
+        "CAP-113-37",
+        "CAP-113-38",
+        "CAP-113-39"
+      ],
+      "passageImages": [
+        "assets/113/group-36-39.png"
+      ],
+      "status": "approved",
+      "visualRequired": false,
+      "sourceSlides": [
+        44,
+        45,
+        46,
+        47
+      ]
+    },
+    {
+      "id": "CAP-113-G40-43",
+      "firstQuestion": 40,
+      "lastQuestion": 43,
+      "questionIds": [
+        "CAP-113-40",
+        "CAP-113-41",
+        "CAP-113-42",
+        "CAP-113-43"
+      ],
+      "passageImages": [
+        "assets/113/group-40-43.png",
+        "assets/113/group-40-43-cont.png"
+      ],
+      "status": "approved",
+      "visualRequired": true,
+      "sourceSlides": [
+        50,
+        51,
+        52,
+        53
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "CAP-113-01",
+      "year": 113,
+      "questionNumber": 1,
+      "groupId": null,
+      "question": "Look at the picture. There is ______ under the door.",
+      "choices": {
+        "A": "an envelope",
+        "B": "a plant",
+        "C": "a sign",
+        "D": "an umbrella"
+      },
+      "answer": "A",
+      "quickExplanation": "由圖片可知，在門底下的是「信封」，故選 (A)。",
+      "explanation": "由圖片可知，在門底下的是「信封」，故選 (A)。",
+      "images": [
+        "assets/113/q01.png"
+      ],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "provided teacher PPTX answer and explanation; native text and source visual cross-check",
+        "slide": 2,
+        "questionShapeId": 8,
+        "explanationShapeId": 7,
+        "evidence": "由圖片可知，在門底下的是「信封」，故選 (A)。",
+        "answerOverlay": [
+          "(A) an envelope"
+        ]
+      }
+    },
+    {
+      "id": "CAP-113-02",
+      "year": 113,
+      "questionNumber": 2,
+      "groupId": null,
+      "question": "My ______ hurts so much that I cannot even turn my head.",
+      "choices": {
+        "A": "arm",
+        "B": "knee",
+        "C": "neck",
+        "D": "stomach"
+      },
+      "answer": "C",
+      "quickExplanation": "由後句「無法轉頭」，推知是「脖子」痛，故選 (C)。",
+      "explanation": "由後句「無法轉頭」，推知是「脖子」痛，故選 (C)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "provided teacher PPTX answer and explanation; native text and source visual cross-check",
+        "slide": 3,
+        "questionShapeId": 8,
+        "explanationShapeId": 7,
+        "evidence": "由後句「無法轉頭」，推知是「脖子」痛，故選 (C)。",
+        "answerOverlay": [
+          "(C) neck"
+        ]
+      }
+    },
+    {
+      "id": "CAP-113-03",
+      "year": 113,
+      "questionNumber": 3,
+      "groupId": null,
+      "question": "Our school basketball team won the national game last night. We are so __＿＿ them.",
+      "choices": {
+        "A": "popular with",
+        "B": "proud of",
+        "C": "sorry for",
+        "D": "worried about"
+      },
+      "answer": "B",
+      "quickExplanation": "由前句「贏得全國比賽」，推知會對籃球校隊感到「驕傲」，故選 (B)。",
+      "explanation": "由前句「贏得全國比賽」，推知會對籃球校隊感到「驕傲」，故選 (B)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "provided teacher PPTX answer and explanation; native text and source visual cross-check",
+        "slide": 4,
+        "questionShapeId": 8,
+        "explanationShapeId": 7,
+        "evidence": "由前句「贏得全國比賽」，推知會對籃球校隊感到「驕傲」，故選 (B)。",
+        "answerOverlay": [
+          "(B) proud of"
+        ]
+      }
+    },
+    {
+      "id": "CAP-113-04",
+      "year": 113,
+      "questionNumber": 4,
+      "groupId": null,
+      "question": "Tomorrow is Sam’s last day in the office. Nobody knows why he decided to ______.",
+      "choices": {
+        "A": "hide",
+        "B": "leave",
+        "C": "pack",
+        "D": "walk"
+      },
+      "answer": "B",
+      "quickExplanation": "由前句「在辦公室的最後一天」，推知後句要表達沒人知道為何 Sam 要「離開」，故選 (B)。",
+      "explanation": "由前句「在辦公室的最後一天」，推知後句要表達沒人知道為何 Sam 要「離開」，故選 (B)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "provided teacher PPTX answer and explanation; native text and source visual cross-check",
+        "slide": 5,
+        "questionShapeId": 8,
+        "explanationShapeId": 6,
+        "evidence": "由前句「在辦公室的最後一天」，推知後句要表達沒人知道為何 Sam 要「離開」，故選 (B)。",
+        "answerOverlay": [
+          "(B) leave"
+        ]
+      }
+    },
+    {
+      "id": "CAP-113-05",
+      "year": 113,
+      "questionNumber": 5,
+      "groupId": null,
+      "question": "It’s not a good idea to go mountain climbing in this bad ______. We should wait until the typhoon goes away.",
+      "choices": {
+        "A": "chance",
+        "B": "dream",
+        "C": "habit",
+        "D": "weather"
+      },
+      "answer": "D",
+      "quickExplanation": "由後句「我們應該等到颱風過去」，推知在「天氣」不好的時候去爬山不是個好主意，故選 (D)。",
+      "explanation": "由後句「我們應該等到颱風過去」，推知在「天氣」不好的時候去爬山不是個好主意，故選 (D)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "review",
+      "answerVerification": {
+        "method": "provided teacher PPTX answer and explanation; native text and source visual cross-check",
+        "slide": 6,
+        "questionShapeId": 8,
+        "explanationShapeId": 7,
+        "evidence": "由後句「我們應該等到颱風過去」，推知在「天氣」不好的時候去爬山不是個好主意，故選 (D)。",
+        "answerOverlay": [
+          "(A) colors"
+        ]
+      },
+      "reviewReason": "source-answer-conflict: answer overlay (A) colors conflicts with explanation (D) weather; excluded without correction."
+    },
+    {
+      "id": "CAP-113-06",
+      "year": 113,
+      "questionNumber": 6,
+      "groupId": null,
+      "question": "Chris loves walking with Anna on snowy days, but Anna hates ______ very much.",
+      "choices": {
+        "A": "them",
+        "B": "so",
+        "C": "one",
+        "D": "it"
+      },
+      "answer": "D",
+      "quickExplanation": "本句用代名詞 it 代替前句提到「下雪天去散步」這件事，故選 (D)。",
+      "explanation": "本句用代名詞 it 代替前句提到「下雪天去散步」這件事，故選 (D)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "provided teacher PPTX answer and explanation; native text and source visual cross-check",
+        "slide": 7,
+        "questionShapeId": 8,
+        "explanationShapeId": 6,
+        "evidence": "本句用代名詞 it 代替前句提到「下雪天去散步」這件事，故選 (D)。",
+        "answerOverlay": [
+          "(D) it"
+        ]
+      }
+    },
+    {
+      "id": "CAP-113-07",
+      "year": 113,
+      "questionNumber": 7,
+      "groupId": null,
+      "question": "Lora likes to eat bananas that are already a little brown on the outside, and so ______ I.",
+      "choices": {
+        "A": "am",
+        "B": "do",
+        "C": "have",
+        "D": "will"
+      },
+      "answer": "B",
+      "quickExplanation": "本題考附和句，前句是現在簡單式一般動詞，且後句主詞是 I，因此 附和句助動詞要用 do，故選 (B)。",
+      "explanation": "本題考附和句，前句是現在簡單式一般動詞，且後句主詞是 I，因此 附和句助動詞要用 do，故選 (B)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "provided teacher PPTX answer and explanation; native text and source visual cross-check",
+        "slide": 8,
+        "questionShapeId": 8,
+        "explanationShapeId": 7,
+        "evidence": "本題考附和句，前句是現在簡單式一般動詞，且後句主詞是 I，因此 附和句助動詞要用 do，故選 (B)。",
+        "answerOverlay": [
+          "(B) do"
+        ]
+      }
+    },
+    {
+      "id": "CAP-113-08",
+      "year": 113,
+      "questionNumber": 8,
+      "groupId": null,
+      "question": "Your refrigerator shouldn’t be making loud noises now, but if it ______ does, just give me a call and I’ll come check it again.",
+      "choices": {
+        "A": "already",
+        "B": "even",
+        "C": "finally",
+        "D": "still"
+      },
+      "answer": "D",
+      "quickExplanation": "由前句「冰箱現在不應該會發出很大的聲音了」及後句「再打電話給我，我會再次檢查」，推知是如果「仍然」有聲音，故選 (D)。",
+      "explanation": "由前句「冰箱現在不應該會發出很大的聲音了」及後句「再打電話給我，我會再次檢查」，推知是如果「仍然」有聲音，故選 (D)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "provided teacher PPTX answer and explanation; native text and source visual cross-check",
+        "slide": 9,
+        "questionShapeId": 8,
+        "explanationShapeId": 7,
+        "evidence": "由前句「冰箱現在不應該會發出很大的聲音了」及後句「再打電話給我，我會再次檢查」，推知是如果「仍然」有聲音，故選 (D)。",
+        "answerOverlay": [
+          "(D) still"
+        ]
+      }
+    },
+    {
+      "id": "CAP-113-09",
+      "year": 113,
+      "questionNumber": 9,
+      "groupId": null,
+      "question": "After winning money in the card game, Jay decided to try again. He felt that he might also be ______ a second time.",
+      "choices": {
+        "A": "famous",
+        "B": "interested",
+        "C": "lucky",
+        "D": "ready"
+      },
+      "answer": "C",
+      "quickExplanation": "由前句「贏了錢」，推知再試一次的動機會是他覺得可能再次 「幸運」，故選 (C)。",
+      "explanation": "由前句「贏了錢」，推知再試一次的動機會是他覺得可能再次 「幸運」，故選 (C)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "provided teacher PPTX answer and explanation; native text and source visual cross-check",
+        "slide": 10,
+        "questionShapeId": 8,
+        "explanationShapeId": 7,
+        "evidence": "由前句「贏了錢」，推知再試一次的動機會是他覺得可能再次 「幸運」，故選 (C)。",
+        "answerOverlay": [
+          "(C) lucky"
+        ]
+      }
+    },
+    {
+      "id": "CAP-113-10",
+      "year": 113,
+      "questionNumber": 10,
+      "groupId": null,
+      "question": "The knife doesn’t cut very well. It’s not as ______ as before.",
+      "choices": {
+        "A": "bright",
+        "B": "heavy",
+        "C": "quick",
+        "D": "sharp"
+      },
+      "answer": "D",
+      "quickExplanation": "由前句「刀不太好切」，推知是指刀不再「鋒利」，故選 (D)。",
+      "explanation": "由前句「刀不太好切」，推知是指刀不再「鋒利」，故選 (D)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "provided teacher PPTX answer and explanation; native text and source visual cross-check",
+        "slide": 11,
+        "questionShapeId": 8,
+        "explanationShapeId": 7,
+        "evidence": "由前句「刀不太好切」，推知是指刀不再「鋒利」，故選 (D)。",
+        "answerOverlay": [
+          "(D) sharp"
+        ]
+      }
+    },
+    {
+      "id": "CAP-113-11",
+      "year": 113,
+      "questionNumber": 11,
+      "groupId": null,
+      "question": "John will stay with his sister until he ______ an apartment.",
+      "choices": {
+        "A": "will find",
+        "B": "would find",
+        "C": "finds",
+        "D": "found"
+      },
+      "answer": "C",
+      "quickExplanation": "until 引導的時間副詞子句，用現在簡單式表未來，故選 (C)。",
+      "explanation": "until 引導的時間副詞子句，用現在簡單式表未來，故選 (C)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "provided teacher PPTX answer and explanation; native text and source visual cross-check",
+        "slide": 12,
+        "questionShapeId": 8,
+        "explanationShapeId": 7,
+        "evidence": "until 引導的時間副詞子句，用現在簡單式表未來，故選 (C)。",
+        "answerOverlay": [
+          "(C) finds"
+        ]
+      }
+    },
+    {
+      "id": "CAP-113-12",
+      "year": 113,
+      "questionNumber": 12,
+      "groupId": null,
+      "question": "Students ______ to go on the school trip should ask their parents first.",
+      "choices": {
+        "A": "who want",
+        "B": "want",
+        "C": "who they want",
+        "D": "what they want"
+      },
+      "answer": "A",
+      "quickExplanation": "由句子結構可知需用關係代名詞修飾先行詞students，表示「想參加學校旅遊的學生」，且關係代名詞在句中當主詞，不可省略，故選 (A)。",
+      "explanation": "由句子結構可知需用關係代名詞修飾先行詞students，表示「想參加學校旅遊的學生」，且關係代名詞在句中當主詞，不可省略，故選 (A)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "provided teacher PPTX answer and explanation; native text and source visual cross-check",
+        "slide": 13,
+        "questionShapeId": 8,
+        "explanationShapeId": 7,
+        "evidence": "由句子結構可知需用關係代名詞修飾先行詞students，表示「想參加學校旅遊的學生」，且關係代名詞在句中當主詞，不可省略，故選 (A)。",
+        "answerOverlay": [
+          "(A) who want"
+        ]
+      }
+    },
+    {
+      "id": "CAP-113-13",
+      "year": 113,
+      "questionNumber": 13,
+      "groupId": null,
+      "question": "The temple sits alone in the mountains at a height of 3,000m ______ sea level.",
+      "choices": {
+        "A": "above",
+        "B": "at",
+        "C": "below",
+        "D": "in"
+      },
+      "answer": "A",
+      "quickExplanation": "由高度 3,000 公尺，推知寺廟位於海平面之「上」，故選 (A)。",
+      "explanation": "由高度 3,000 公尺，推知寺廟位於海平面之「上」，故選 (A)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "provided teacher PPTX answer and explanation; native text and source visual cross-check",
+        "slide": 14,
+        "questionShapeId": 8,
+        "explanationShapeId": 7,
+        "evidence": "由高度 3,000 公尺，推知寺廟位於海平面之「上」，故選 (A)。",
+        "answerOverlay": [
+          "(A) above"
+        ]
+      }
+    },
+    {
+      "id": "CAP-113-14",
+      "year": 113,
+      "questionNumber": 14,
+      "groupId": null,
+      "question": "Patty spent several days planning to invite Charlie to dinner, ______ she couldn’t say a word when they met.",
+      "choices": {
+        "A": "but",
+        "B": "if",
+        "C": "or",
+        "D": "so"
+      },
+      "answer": "A",
+      "quickExplanation": "由前後句的對比關係可知，雖然計畫了好幾天，但見面時卻說不出話來，用 but 連接表示轉折，故選 (A)。",
+      "explanation": "由前後句的對比關係可知，雖然計畫了好幾天，但見面時卻說不出話來，用 but 連接表示轉折，故選 (A)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "provided teacher PPTX answer and explanation; native text and source visual cross-check",
+        "slide": 15,
+        "questionShapeId": 8,
+        "explanationShapeId": 7,
+        "evidence": "由前後句的對比關係可知，雖然計畫了好幾天，但見面時卻說不出話來，用 but 連接表示轉折，故選 (A)。",
+        "answerOverlay": [
+          "(A) but"
+        ]
+      }
+    },
+    {
+      "id": "CAP-113-15",
+      "year": 113,
+      "questionNumber": 15,
+      "groupId": null,
+      "question": "I can’t tell you what I think of the movie because I ______ it. I’ll probably watch it this Saturday.",
+      "choices": {
+        "A": "am not seeing",
+        "B": "don’t see",
+        "C": "haven’t seen",
+        "D": "won’t see"
+      },
+      "answer": "C",
+      "quickExplanation": "由後句「可能這週六會看」，可知目前還沒看過，應用現在完成式表示 至今尚未做的事，故選 (C)。",
+      "explanation": "由後句「可能這週六會看」，可知目前還沒看過，應用現在完成式表示 至今尚未做的事，故選 (C)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "provided teacher PPTX answer and explanation; native text and source visual cross-check",
+        "slide": 16,
+        "questionShapeId": 8,
+        "explanationShapeId": 6,
+        "evidence": "由後句「可能這週六會看」，可知目前還沒看過，應用現在完成式表示 至今尚未做的事，故選 (C)。",
+        "answerOverlay": [
+          "(C) haven’t seen"
+        ]
+      }
+    },
+    {
+      "id": "CAP-113-16",
+      "year": 113,
+      "questionNumber": 16,
+      "groupId": null,
+      "question": "The new guy at the help desk answers calls like a ______. There are no ups and downs in his voice and you can’t tell if he is happy or sad.",
+      "choices": {
+        "A": "father",
+        "B": "foreigner",
+        "C": "radio",
+        "D": "robot"
+      },
+      "answer": "D",
+      "quickExplanation": "由「聲音沒有高低起伏、無法判斷是悲傷還是快樂」，推知是他像「機器人」一樣，故選 (D)。",
+      "explanation": "由「聲音沒有高低起伏、無法判斷是悲傷還是快樂」，推知是他像「機器人」一樣，故選 (D)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "provided teacher PPTX answer and explanation; native text and source visual cross-check",
+        "slide": 17,
+        "questionShapeId": 8,
+        "explanationShapeId": 6,
+        "evidence": "由「聲音沒有高低起伏、無法判斷是悲傷還是快樂」，推知是他像「機器人」一樣，故選 (D)。",
+        "answerOverlay": [
+          "(D) robot"
+        ]
+      }
+    },
+    {
+      "id": "CAP-113-17",
+      "year": 113,
+      "questionNumber": 17,
+      "groupId": null,
+      "question": "Jasmine planned to spend her summer in the country, but right after she got there, she started to ______ the noise in the city.",
+      "choices": {
+        "A": "enjoy",
+        "B": "mind",
+        "C": "miss",
+        "D": "notice"
+      },
+      "answer": "C",
+      "quickExplanation": "由「計畫在鄉下度過夏天」，且用連接詞 but 連接，故前後應是衝突語意，因此推知是「懷念」城市的喧囂，故選 (C)。",
+      "explanation": "由「計畫在鄉下度過夏天」，且用連接詞 but 連接，故前後應是衝突語意，因此推知是「懷念」城市的喧囂，故選 (C)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "provided teacher PPTX answer and explanation; native text and source visual cross-check",
+        "slide": 18,
+        "questionShapeId": 8,
+        "explanationShapeId": 7,
+        "evidence": "由「計畫在鄉下度過夏天」，且用連接詞 but 連接，故前後應是衝突語意，因此推知是「懷念」城市的喧囂，故選 (C)。",
+        "answerOverlay": [
+          "(C) miss"
+        ]
+      }
+    },
+    {
+      "id": "CAP-113-18",
+      "year": 113,
+      "questionNumber": 18,
+      "groupId": null,
+      "question": "“Bad traffic” is perhaps the ______ excuse for being late when your boss knows it only takes you five minutes to walk to work.",
+      "choices": {
+        "A": "easiest",
+        "B": "oldest",
+        "C": "smartest",
+        "D": "worst"
+      },
+      "answer": "D",
+      "quickExplanation": "由「老闆知道你只需花五分鐘即可步行到公司」，推知「交通壅塞」是「最差」的藉口，故選 (D)。",
+      "explanation": "由「老闆知道你只需花五分鐘即可步行到公司」，推知「交通壅塞」是「最差」的藉口，故選 (D)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "provided teacher PPTX answer and explanation; native text and source visual cross-check",
+        "slide": 19,
+        "questionShapeId": 8,
+        "explanationShapeId": 7,
+        "evidence": "由「老闆知道你只需花五分鐘即可步行到公司」，推知「交通壅塞」是「最差」的藉口，故選 (D)。",
+        "answerOverlay": [
+          "(D) worst"
+        ]
+      }
+    },
+    {
+      "id": "CAP-113-19",
+      "year": 113,
+      "questionNumber": 19,
+      "groupId": null,
+      "question": "The housework in Mr. and Mrs. Wang’s family ______between them and their kids. Everyone’s got their own job to do.",
+      "choices": {
+        "A": "is shared",
+        "B": "are shared",
+        "C": "shares",
+        "D": "share"
+      },
+      "answer": "A",
+      "quickExplanation": "家事應該被分工，要用被動語態「be 動詞＋p.p.」，而主詞 The housework 為不可數名詞，故選 (A)。",
+      "explanation": "家事應該被分工，要用被動語態「be 動詞＋p.p.」，而主詞 The housework 為不可數名詞，故選 (A)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "provided teacher PPTX answer and explanation; native text and source visual cross-check",
+        "slide": 20,
+        "questionShapeId": 8,
+        "explanationShapeId": 7,
+        "evidence": "家事應該被分工，要用被動語態「be 動詞＋p.p.」，而主詞 The housework 為不可數名詞，故選 (A)。",
+        "answerOverlay": [
+          "(A) is shared"
+        ]
+      }
+    },
+    {
+      "id": "CAP-113-20",
+      "year": 113,
+      "questionNumber": 20,
+      "groupId": null,
+      "question": "I want to find another dentist because ______ pulled out a good tooth last time I went to him.",
+      "choices": {
+        "A": "I",
+        "B": "me",
+        "C": "mine",
+        "D": "myself"
+      },
+      "answer": "C",
+      "quickExplanation": "本句用所有格代名詞「mine」表「my dentist（我的牙醫）」，故選 (C)。",
+      "explanation": "本句用所有格代名詞「mine」表「my dentist（我的牙醫）」，故選 (C)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "provided teacher PPTX answer and explanation; native text and source visual cross-check",
+        "slide": 21,
+        "questionShapeId": 8,
+        "explanationShapeId": 7,
+        "evidence": "本句用所有格代名詞「mine」表「my dentist（我的牙醫）」，故選 (C)。",
+        "answerOverlay": [
+          "(C) mine"
+        ]
+      }
+    },
+    {
+      "id": "CAP-113-21",
+      "year": 113,
+      "questionNumber": 21,
+      "groupId": null,
+      "question": "Mom: Linda, you’ve been playing computer games all evening! Have you finished your report?\nLinda: Well, ______ most of it this afternoon, and I’ll finish it by Friday.",
+      "choices": {
+        "A": "I would do",
+        "B": "I did",
+        "C": "I was doing",
+        "D": "I’ll do"
+      },
+      "answer": "B",
+      "quickExplanation": "由 Linda 回應後半句「我週五前會完成報告」，推知今天下午已經完成大部分，應用過去簡單式，故選(B)。",
+      "explanation": "由 Linda 回應後半句「我週五前會完成報告」，推知今天下午已經完成大部分，應用過去簡單式，故選(B)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "provided teacher PPTX answer and explanation; native text and source visual cross-check",
+        "slide": 22,
+        "questionShapeId": 8,
+        "explanationShapeId": 7,
+        "evidence": "由 Linda 回應後半句「我週五前會完成報告」，推知今天下午已經完成大部分，應用過去簡單式，故選(B)。",
+        "answerOverlay": [
+          "(B) I did"
+        ]
+      }
+    },
+    {
+      "id": "CAP-113-22",
+      "year": 113,
+      "questionNumber": 22,
+      "groupId": "CAP-113-G22-23",
+      "question": "Why did Philip go out?",
+      "choices": {
+        "A": "To meet a woman.",
+        "B": "To look for his father.",
+        "C": "To ask the police for help.",
+        "D": "To buy food for his brother."
+      },
+      "answer": "D",
+      "quickExplanation": "由第一段可知，因為 Jason 餓了且一直在哭，而 Philip 又不會做飯，所以 Philip 決定帶 Jason 出去吃點東西，故選 (D)。",
+      "explanation": "由第一段可知，因為 Jason 餓了且一直在哭，而 Philip 又不會做飯，所以 Philip 決定帶 Jason 出去吃點東西，故選 (D)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "provided teacher PPTX answer and explanation; native text and source visual cross-check",
+        "slide": 24,
+        "questionShapeId": 7,
+        "explanationShapeId": 3,
+        "evidence": "由第一段可知，因為 Jason 餓了且一直在哭，而 Philip 又不會做飯，所以 Philip 決定帶 Jason 出去吃點東西，故選 (D)。",
+        "answerOverlay": [
+          "(D) To buy food for his brother."
+        ]
+      }
+    },
+    {
+      "id": "CAP-113-23",
+      "year": 113,
+      "questionNumber": 23,
+      "groupId": "CAP-113-G22-23",
+      "question": "Why was Philip’s father angry?",
+      "choices": {
+        "A": "He forgot his keys.",
+        "B": "The woman was hiding from him.",
+        "C": "The police didn’t believe what he said.",
+        "D": "Philip and his brother went out at night."
+      },
+      "answer": "C",
+      "quickExplanation": "由第二段可知，Philip 的父親非常生氣是因為警方直到 Philip 出面解釋為止都不相信他所說的話，故選(C)。",
+      "explanation": "由第二段可知，Philip 的父親非常生氣是因為警方直到 Philip 出面解釋為止都不相信他所說的話，故選(C)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "provided teacher PPTX answer and explanation; native text and source visual cross-check",
+        "slide": 25,
+        "questionShapeId": 7,
+        "explanationShapeId": 3,
+        "evidence": "由第二段可知，Philip 的父親非常生氣是因為警方直到 Philip 出面解釋為止都不相信他所說的話，故選(C)。",
+        "answerOverlay": [
+          "(C) The police didn’t believe what he said."
+        ]
+      }
+    },
+    {
+      "id": "CAP-113-24",
+      "year": 113,
+      "questionNumber": 24,
+      "groupId": "CAP-113-G24-25",
+      "question": "Kevin is going to buy some fresh bread at Baker’s Kitchen. He loves white bread, his mom likes farm bread, his father enjoys bagels, and his sister eats only challah. Which is the earliest possible time for him to get all these breads for his family?",
+      "choices": {
+        "A": "11:00 am.",
+        "B": "4:00 pm.",
+        "C": "5:00 pm.",
+        "D": "7:00 pm."
+      },
+      "answer": "C",
+      "quickExplanation": "要同時買到 white bread、farm bread、bagels 和 challah，最早的時間是等所有麵包都出爐後。",
+      "explanation": "要同時買到 white bread、farm bread、bagels 和 challah，最早的時間是等所有麵包都出爐後。white bread 在早上 10:30 出爐，bagels 在早上 11:30 出 爐，challah 在下午 3:30 出爐，而 farm bread 在下午 4:30 出爐。因此最早可以在下午 4:30 之後買到所有 麵包，故選 (C)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "provided teacher PPTX answer and explanation; native text and source visual cross-check",
+        "slide": 27,
+        "questionShapeId": 7,
+        "explanationShapeId": 3,
+        "evidence": "要同時買到 white bread、farm bread、bagels 和 challah，最早的時間是等所有麵包都出爐後。white bread 在早上 10:30 出爐，bagels 在早上 11:30 出 爐，challah 在下午 3:30 出爐，而 farm bread 在下午 4:30 出爐。因此最早可以在下午 4:30 之後買到所有 麵包，故選 (C)。",
+        "answerOverlay": [
+          "(C) 5:00 pm."
+        ]
+      }
+    },
+    {
+      "id": "CAP-113-25",
+      "year": 113,
+      "questionNumber": 25,
+      "groupId": "CAP-113-G24-25",
+      "question": "What do we know about Baker’s Kitchen?",
+      "choices": {
+        "A": "It is open five days a week.",
+        "B": "Its breads are half price one hour before closing.",
+        "C": "Its croissants and pretzels are sold on weekends.",
+        "D": "Its members can save $100 when they shop on Fridays."
+      },
+      "answer": "B",
+      "quickExplanation": "(A) 選項錯誤，每日皆有營業；(C) 選項錯誤，可頌麵包和椒鹽脆餅只有在週五才有販售； (D) 選項錯誤，成為會員需要支付 100 元，但每次購物可以節省10%，而不是每週五節省 100 元。",
+      "explanation": "(A) 選項錯誤，每日皆有營業；(C) 選項錯誤，可頌麵包和椒鹽脆餅只有在週五才有販售； (D) 選項錯誤，成為會員需要支付 100 元，但每次購物可以節省10%，而不是每週五節省 100 元。故選 (B)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "provided teacher PPTX answer and explanation; native text and source visual cross-check",
+        "slide": 28,
+        "questionShapeId": 7,
+        "explanationShapeId": 3,
+        "evidence": "(A) 選項錯誤，每日皆有營業；(C) 選項錯誤，可頌麵包和椒鹽脆餅只有在週五才有販售； (D) 選項錯誤，成為會員需要支付 100 元，但每次購物可以節省10%，而不是每週五節省 100 元。故選 (B)。",
+        "answerOverlay": [
+          "(B) Its breads are half price one hour before closing."
+        ]
+      }
+    },
+    {
+      "id": "CAP-113-26",
+      "year": 113,
+      "questionNumber": 26,
+      "groupId": "CAP-113-G26-27",
+      "question": "What is recommended to people who want to visit the festival?",
+      "choices": {
+        "A": "Using the free festival bus service.",
+        "B": "Visiting the festival on the weekend.",
+        "C": "Entering Satyr’s Park from Fox Street.",
+        "D": "Parking in Garden Square and walking to the festival."
+      },
+      "answer": "A",
+      "quickExplanation": "由第二點資訊可知，主辦方提供免費的接駁車服務，故選 (A)。",
+      "explanation": "由第二點資訊可知，主辦方提供免費的接駁車服務，故選 (A)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": "recommend 推薦",
+      "status": "approved",
+      "answerVerification": {
+        "method": "provided teacher PPTX answer and explanation; native text and source visual cross-check",
+        "slide": 30,
+        "questionShapeId": 7,
+        "explanationShapeId": 3,
+        "evidence": "由第二點資訊可知，主辦方提供免費的接駁車服務，故選 (A)。",
+        "answerOverlay": [
+          "(A) Using the free festival bus service."
+        ]
+      }
+    },
+    {
+      "id": "CAP-113-27",
+      "year": 113,
+      "questionNumber": 27,
+      "groupId": "CAP-113-G26-27",
+      "question": "What can we learn about the farmers’ market from the map?",
+      "choices": {
+        "A": "The farmers’ market is next to the flower market.",
+        "B": "The farmers’ market and the festival are on the same block.",
+        "C": "You can go to the farmers’ market by taking Bus No. 157 to Puppy Street.",
+        "D": "The nearest metro station to the farmers’ market is the Koala Street Station."
+      },
+      "answer": "D",
+      "quickExplanation": "由地圖可知，(A) 農夫市集應是在 Faun’s 週末花市對面；(B) 農夫市集（花園廣場）和嘉年華（Satyr’s 公園）不在同一個街區；(C) 若搭乘 157 路公車前往農夫市集應是在無尾熊街與河馬路口下車；離農夫市集（花園廣場）最近的地鐵站為位在無尾熊街的無尾熊街站，故選 (D)。",
+      "explanation": "由地圖可知，(A) 農夫市集應是在 Faun’s 週末花市對面；(B) 農夫市集（花園廣場）和嘉年華（Satyr’s 公園）不在同一個街區；(C) 若搭乘 157 路公車前往農夫市集應是在無尾熊街與河馬路口下車；離農夫市集（花園廣場）最近的地鐵站為位在無尾熊街的無尾熊街站，故選 (D)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "provided teacher PPTX answer and explanation; native text and source visual cross-check",
+        "slide": 31,
+        "questionShapeId": 7,
+        "explanationShapeId": 3,
+        "evidence": "由地圖可知，(A) 農夫市集應是在 Faun’s 週末花市對面；(B) 農夫市集（花園廣場）和嘉年華（Satyr’s 公園）不在同一個街區；(C) 若搭乘 157 路公車前往農夫市集應是在無尾熊街與河馬路口下車；離農夫市集（花園廣場）最近的地鐵站為位在無尾熊街的無尾熊街站，故選 (D)。",
+        "answerOverlay": [
+          "(D) The nearest metro station to the farmers’ market is the Koala Street Station."
+        ]
+      }
+    },
+    {
+      "id": "CAP-113-28",
+      "year": 113,
+      "questionNumber": 28,
+      "groupId": "CAP-113-G28-29",
+      "question": "What kind of people do Yan’s and Chang’s friends most likely think Yan and Chang are?",
+      "choices": {
+        "A": "They enjoy good food.",
+        "B": "They don’t like to share.",
+        "C": "They like to make friends.",
+        "D": "They don’t like new things"
+      },
+      "answer": "B",
+      "quickExplanation": "由「Yan 住著大房子卻只招待朋友吃一條小魚」及「Chang 的農場有許多雞鴨卻不招待朋友吃午餐」，可知 Yan 和 Chang 為人吝嗇，應是「不喜歡分享」的人，故選 (B)。",
+      "explanation": "由「Yan 住著大房子卻只招待朋友吃一條小魚」及「Chang 的農場有許多雞鴨卻不招待朋友吃午餐」，可知 Yan 和 Chang 為人吝嗇，應是「不喜歡分享」的人，故選 (B)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": "likely 可能",
+      "status": "approved",
+      "answerVerification": {
+        "method": "provided teacher PPTX answer and explanation; native text and source visual cross-check",
+        "slide": 33,
+        "questionShapeId": 7,
+        "explanationShapeId": 3,
+        "evidence": "由「Yan 住著大房子卻只招待朋友吃一條小魚」及「Chang 的農場有許多雞鴨卻不招待朋友吃午餐」，可知 Yan 和 Chang 為人吝嗇，應是「不喜歡分享」的人，故選 (B)。",
+        "answerOverlay": [
+          "(B) They don’t like to share."
+        ]
+      }
+    },
+    {
+      "id": "CAP-113-29",
+      "year": 113,
+      "questionNumber": 29,
+      "groupId": "CAP-113-G28-29",
+      "question": "What is it in the second story?",
+      "choices": {
+        "A": "A big knife.",
+        "B": "The horse.",
+        "C": "Lunch.",
+        "D": "One of Chang’s ducks or chickens."
+      },
+      "answer": "B",
+      "quickExplanation": "由 Chang 問「但你沒有牠要怎麼回家呢？」，可知 it 指的是上一句朋友提到他騎來的「馬」，故選 (B)。",
+      "explanation": "由 Chang 問「但你沒有牠要怎麼回家呢？」，可知 it 指的是上一句朋友提到他騎來的「馬」，故選 (B)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "provided teacher PPTX answer and explanation; native text and source visual cross-check",
+        "slide": 34,
+        "questionShapeId": 7,
+        "explanationShapeId": 3,
+        "evidence": "由 Chang 問「但你沒有牠要怎麼回家呢？」，可知 it 指的是上一句朋友提到他騎來的「馬」，故選 (B)。",
+        "answerOverlay": [
+          "(B) The horse."
+        ]
+      }
+    },
+    {
+      "id": "CAP-113-30",
+      "year": 113,
+      "questionNumber": 30,
+      "groupId": "CAP-113-G30-32",
+      "question": "Why does the writer talk about doctors and a health center in the reading?",
+      "choices": {
+        "A": "To explain Chen’s services.",
+        "B": "To talk about Chen’s future plans.",
+        "C": "To explain Chen’s love for books.",
+        "D": "To show why bookstores are important."
+      },
+      "answer": "A",
+      "quickExplanation": "作者透過比喻大型圖書館和博物館是醫院，而 Chen 的書店是健康中心，來解釋 Chen 的服務，故選 (A)。",
+      "explanation": "作者透過比喻大型圖書館和博物館是醫院，而 Chen 的書店是健康中心，來解釋 Chen 的服務，故選 (A)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "provided teacher PPTX answer and explanation; native text and source visual cross-check",
+        "slide": 36,
+        "questionShapeId": 7,
+        "explanationShapeId": 3,
+        "evidence": "作者透過比喻大型圖書館和博物館是醫院，而 Chen 的書店是健康中心，來解釋 Chen 的服務，故選 (A)。",
+        "answerOverlay": [
+          "(A) To explain Chen’s services."
+        ]
+      }
+    },
+    {
+      "id": "CAP-113-31",
+      "year": 113,
+      "questionNumber": 31,
+      "groupId": "CAP-113-G30-32",
+      "question": "Why is Chen Bing-Hong’s job important in the example he gave?",
+      "choices": {
+        "A": "It allows people to get books as gifts.",
+        "B": "It saves people money on new books.",
+        "C": "It gives people hope to follow their dreams.",
+        "D": "It helps people think of special moments in the past."
+      },
+      "answer": "D",
+      "quickExplanation": "在他舉的例子中，這本書對於它的主人有特殊的意義，因為它讓他想起了和老師在一起的日子。",
+      "explanation": "在他舉的例子中，這本書對於它的主人有特殊的意義，因為它讓他想起了和老師在一起的日子。由此可知 Chen 的工作可以幫助人們回憶過去的特殊時刻，故選 (D)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "provided teacher PPTX answer and explanation; native text and source visual cross-check",
+        "slide": 37,
+        "questionShapeId": 7,
+        "explanationShapeId": 3,
+        "evidence": "在他舉的例子中，這本書對於它的主人有特殊的意義，因為它讓他想起了和老師在一起的日子。由此可知 Chen 的工作可以幫助人們回憶過去的特殊時刻，故選 (D)。",
+        "answerOverlay": [
+          "(D) It helps people think of special moments in the past."
+        ]
+      }
+    },
+    {
+      "id": "CAP-113-32",
+      "year": 113,
+      "questionNumber": 32,
+      "groupId": "CAP-113-G30-32",
+      "question": "What is his magic?",
+      "choices": {
+        "A": "Fixing books.",
+        "B": "Making book owners smile.",
+        "C": "Finding books that are long lost.",
+        "D": "Changing his bookstore into a library"
+      },
+      "answer": "A",
+      "quickExplanation": "由本段可知，「他的魔法」是 Chen 透過修復書籍，讓書的主人感到高興並回憶過去的時光，故選 (A)。",
+      "explanation": "由本段可知，「他的魔法」是 Chen 透過修復書籍，讓書的主人感到高興並回憶過去的時光，故選 (A)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "provided teacher PPTX answer and explanation; native text and source visual cross-check",
+        "slide": 38,
+        "questionShapeId": 7,
+        "explanationShapeId": 3,
+        "evidence": "由本段可知，「他的魔法」是 Chen 透過修復書籍，讓書的主人感到高興並回憶過去的時光，故選 (A)。",
+        "answerOverlay": [
+          "(A) Fixing books."
+        ]
+      }
+    },
+    {
+      "id": "CAP-113-33",
+      "year": 113,
+      "questionNumber": 33,
+      "groupId": "CAP-113-G33-35",
+      "question": "According to the reading, why did Rohla and Kreytenberg open Habibi & Hawara?",
+      "choices": {
+        "A": "To help refugees live better in Austria.",
+        "B": "To collect money to help Syria fight the war.",
+        "C": "To help Austrians learn about the war in Syria.",
+        "D": "To help refugees go back to their home countries."
+      },
+      "answer": "A",
+      "quickExplanation": "由第二段提到數以千計的難民來到奧地利，而 Rohla 和 Kreytenberg「想幫助他們開始新的生活」，可知開這間餐廳的用意是要「幫助難民在奧地利過上較好的生活」，故選 (A)。",
+      "explanation": "由第二段提到數以千計的難民來到奧地利，而 Rohla 和 Kreytenberg「想幫助他們開始新的生活」，可知開這間餐廳的用意是要「幫助難民在奧地利過上較好的生活」，故選 (A)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "provided teacher PPTX answer and explanation; native text and source visual cross-check",
+        "slide": 40,
+        "questionShapeId": 7,
+        "explanationShapeId": 3,
+        "evidence": "由第二段提到數以千計的難民來到奧地利，而 Rohla 和 Kreytenberg「想幫助他們開始新的生活」，可知開這間餐廳的用意是要「幫助難民在奧地利過上較好的生活」，故選 (A)。",
+        "answerOverlay": [
+          "(A) To help refugees live better in Austria."
+        ]
+      }
+    },
+    {
+      "id": "CAP-113-34",
+      "year": 113,
+      "questionNumber": 34,
+      "groupId": "CAP-113-G33-35",
+      "question": "What can we learn about Habibi & Hawara?",
+      "choices": {
+        "A": "It was moved from Syria to Austria.",
+        "B": "It may finally be sold to its workers.",
+        "C": "It has cooking classes in Syrian food.",
+        "D": "It is an important meeting place for Syrians."
+      },
+      "answer": "B",
+      "quickExplanation": "由第三段提到「他們希望他們最好的員工們最終買下這家餐廳。",
+      "explanation": "由第三段提到「他們希望他們最好的員工們最終買下這家餐廳。」，可知 Habibi & Hawara 最後可能會賣給員工，故選 (B)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "provided teacher PPTX answer and explanation; native text and source visual cross-check",
+        "slide": 41,
+        "questionShapeId": 7,
+        "explanationShapeId": 3,
+        "evidence": "由第三段提到「他們希望他們最好的員工們最終買下這家餐廳。」，可知 Habibi & Hawara 最後可能會賣給員工，故選 (B)。",
+        "answerOverlay": [
+          "(B) It may finally be sold to its workers."
+        ]
+      }
+    },
+    {
+      "id": "CAP-113-35",
+      "year": 113,
+      "questionNumber": 35,
+      "groupId": "CAP-113-G33-35",
+      "question": "What does it mean when people beg to differ?",
+      "choices": {
+        "A": "They do not agree.",
+        "B": "They look different.",
+        "C": "They cannot speak for others.",
+        "D": "They do not notice something."
+      },
+      "answer": "A",
+      "quickExplanation": "由第二段提到奧地利人認為難民是個問題，但 Rohla 和 Kreytenberg 卻認為「難民並不一定是個問題」，可推知 beg to differ 表「不認為；不認同」，故選 (A)。",
+      "explanation": "由第二段提到奧地利人認為難民是個問題，但 Rohla 和 Kreytenberg 卻認為「難民並不一定是個問題」，可推知 beg to differ 表「不認為；不認同」，故選 (A)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "provided teacher PPTX answer and explanation; native text and source visual cross-check",
+        "slide": 42,
+        "questionShapeId": 7,
+        "explanationShapeId": 3,
+        "evidence": "由第二段提到奧地利人認為難民是個問題，但 Rohla 和 Kreytenberg 卻認為「難民並不一定是個問題」，可推知 beg to differ 表「不認為；不認同」，故選 (A)。",
+        "answerOverlay": [
+          "(A) They do not agree."
+        ]
+      }
+    },
+    {
+      "id": "CAP-113-36",
+      "year": 113,
+      "questionNumber": 36,
+      "groupId": "CAP-113-G36-39",
+      "question": "What does it mean when someone is an advocate of something?",
+      "choices": {
+        "A": "They talk a lot but do little about it.",
+        "B": "They believe it is good and should be done.",
+        "C": "They have had some bad experiences with it.",
+        "D": "They are one of the first people who have done it"
+      },
+      "answer": "B",
+      "quickExplanation": "由後兩句提到 Smith 說「我們失去了許多動物」、「他還認為我們必須盡一切努力讓牠們回來」，可知某人是某事的 advocate（倡導者），意指某人相信這件事是好的並且應該去做，故選 (B)。",
+      "explanation": "由後兩句提到 Smith 說「我們失去了許多動物」、「他還認為我們必須盡一切努力讓牠們回來」，可知某人是某事的 advocate（倡導者），意指某人相信這件事是好的並且應該去做，故選 (B)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "provided teacher PPTX answer and explanation; native text and source visual cross-check",
+        "slide": 44,
+        "questionShapeId": 7,
+        "explanationShapeId": 3,
+        "evidence": "由後兩句提到 Smith 說「我們失去了許多動物」、「他還認為我們必須盡一切努力讓牠們回來」，可知某人是某事的 advocate（倡導者），意指某人相信這件事是好的並且應該去做，故選 (B)。",
+        "answerOverlay": [
+          "(B) They believe it is good and should be done."
+        ]
+      }
+    },
+    {
+      "id": "CAP-113-37",
+      "year": 113,
+      "questionNumber": 37,
+      "groupId": "CAP-113-G36-39",
+      "question": "What is special about the extinct frog in Smith’s book?",
+      "choices": {
+        "A": "It can live in a dirty living space.",
+        "B": "It might help fix a health problem.",
+        "C": "It eats its babies when it cannot find food.",
+        "D": "It is the first extinct animal that people studied."
+      },
+      "answer": "B",
+      "quickExplanation": "文章提到這種青蛙在其肚子裡孵化蝌蚪，Smith 認為研究這個過程也許能夠找到幫助這些女性成功保住嬰兒的新方法，故選 (B)。",
+      "explanation": "文章提到這種青蛙在其肚子裡孵化蝌蚪，Smith 認為研究這個過程也許能夠找到幫助這些女性成功保住嬰兒的新方法，故選 (B)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "provided teacher PPTX answer and explanation; native text and source visual cross-check",
+        "slide": 45,
+        "questionShapeId": 7,
+        "explanationShapeId": 3,
+        "evidence": "文章提到這種青蛙在其肚子裡孵化蝌蚪，Smith 認為研究這個過程也許能夠找到幫助這些女性成功保住嬰兒的新方法，故選 (B)。",
+        "answerOverlay": [
+          "(B) It might help fix a health problem."
+        ]
+      }
+    },
+    {
+      "id": "CAP-113-38",
+      "year": 113,
+      "questionNumber": 38,
+      "groupId": "CAP-113-G36-39",
+      "question": "Why does Ellen Zimmer use the words from Dr. Solomon Wang?",
+      "choices": {
+        "A": "To start a new topic.",
+        "B": "To share a big dream.",
+        "C": "To make her idea clearer.",
+        "D": "To invite people to take action."
+      },
+      "answer": "C",
+      "quickExplanation": "Ellen Zimmer 引用 Solomon Wang 博士的話，是為了讓他的觀點更清楚，即復活滅絕動物的研究是在浪費資源，故選 (C)。",
+      "explanation": "Ellen Zimmer 引用 Solomon Wang 博士的話，是為了讓他的觀點更清楚，即復活滅絕動物的研究是在浪費資源，故選 (C)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "provided teacher PPTX answer and explanation; native text and source visual cross-check",
+        "slide": 46,
+        "questionShapeId": 7,
+        "explanationShapeId": 3,
+        "evidence": "Ellen Zimmer 引用 Solomon Wang 博士的話，是為了讓他的觀點更清楚，即復活滅絕動物的研究是在浪費資源，故選 (C)。",
+        "answerOverlay": [
+          "(C) To make her idea clearer."
+        ]
+      }
+    },
+    {
+      "id": "CAP-113-39",
+      "year": 113,
+      "questionNumber": 39,
+      "groupId": "CAP-113-G36-39",
+      "question": "What does Ellen Zimmer most likely think about bringing back extinct animals?",
+      "choices": {
+        "A": "It is possible.",
+        "B": "It is dangerous.",
+        "C": "It is not possible.",
+        "D": "It is not dangerous."
+      },
+      "answer": "C",
+      "quickExplanation": "由第一段「我不能同意他所說的一切」、第二段「說實話，沒有人知道牠們是否真的可以回來」、和第三段引用 Solomon Wang 博士的話及之後的敘述，可知他認為復活滅絕動物是不可能的，故選 (C)。",
+      "explanation": "由第一段「我不能同意他所說的一切」、第二段「說實話，沒有人知道牠們是否真的可以回來」、和第三段引用 Solomon Wang 博士的話及之後的敘述，可知他認為復活滅絕動物是不可能的，故選 (C)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "provided teacher PPTX answer and explanation; native text and source visual cross-check",
+        "slide": 47,
+        "questionShapeId": 7,
+        "explanationShapeId": 3,
+        "evidence": "由第一段「我不能同意他所說的一切」、第二段「說實話，沒有人知道牠們是否真的可以回來」、和第三段引用 Solomon Wang 博士的話及之後的敘述，可知他認為復活滅絕動物是不可能的，故選 (C)。",
+        "answerOverlay": [
+          "(C) It is not possible."
+        ]
+      }
+    },
+    {
+      "id": "CAP-113-40",
+      "year": 113,
+      "questionNumber": 40,
+      "groupId": "CAP-113-G40-43",
+      "question": "",
+      "choices": {
+        "A": "is not a new idea",
+        "B": "has not been very useful",
+        "C": "may bring some problems",
+        "D": "is not welcomed by everyone"
+      },
+      "answer": "A",
+      "quickExplanation": "後句提到「在 1918 年的流感大流行中，美國就廣泛使用了社交距離」，推知「社交距離並不是一個新的概念」，故選 (A)。",
+      "explanation": "後句提到「在 1918 年的流感大流行中，美國就廣泛使用了社交距離」，推知「社交距離並不是一個新的概念」，故選 (A)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "provided teacher PPTX answer and explanation; native text and source visual cross-check",
+        "slide": 50,
+        "questionShapeId": 7,
+        "explanationShapeId": 3,
+        "evidence": "後句提到「在 1918 年的流感大流行中，美國就廣泛使用了社交距離」，推知「社交距離並不是一個新的概念」，故選 (A)。",
+        "answerOverlay": [
+          "(A) is not a new idea"
+        ]
+      }
+    },
+    {
+      "id": "CAP-113-41",
+      "year": 113,
+      "questionNumber": 41,
+      "groupId": "CAP-113-G40-43",
+      "question": "",
+      "choices": {
+        "A": "Portland",
+        "B": "New York",
+        "C": "Denver",
+        "D": "Pittsburgh"
+      },
+      "answer": "B",
+      "quickExplanation": "由圖表鋪灰底部分，可知四個城市中最早實施社交距離的城市是 New York，故選 (B)。",
+      "explanation": "由圖表鋪灰底部分，可知四個城市中最早實施社交距離的城市是 New York，故選 (B)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "provided teacher PPTX answer and explanation; native text and source visual cross-check",
+        "slide": 51,
+        "questionShapeId": 7,
+        "explanationShapeId": 3,
+        "evidence": "由圖表鋪灰底部分，可知四個城市中最早實施社交距離的城市是 New York，故選 (B)。",
+        "answerOverlay": [
+          "(B) New York"
+        ]
+      }
+    },
+    {
+      "id": "CAP-113-42",
+      "year": 113,
+      "questionNumber": 42,
+      "groupId": "CAP-113-G40-43",
+      "question": "",
+      "choices": {
+        "A": "had higher numbers of deaths",
+        "B": "stopped social distancing too soon",
+        "C": "began social distancing a second time",
+        "D": "had the most days of social distancing"
+      },
+      "answer": "B",
+      "quickExplanation": "圖表顯示實施社交距離和死亡人數的關係，空格後提到死亡人數再次攀升，推知應是「太快停止了社交距離」，故選 (B)。",
+      "explanation": "圖表顯示實施社交距離和死亡人數的關係，空格後提到死亡人數再次攀升，推知應是「太快停止了社交距離」，故選 (B)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "provided teacher PPTX answer and explanation; native text and source visual cross-check",
+        "slide": 52,
+        "questionShapeId": 7,
+        "explanationShapeId": 3,
+        "evidence": "圖表顯示實施社交距離和死亡人數的關係，空格後提到死亡人數再次攀升，推知應是「太快停止了社交距離」，故選 (B)。",
+        "answerOverlay": [
+          "(B) stopped social distancing too soon"
+        ]
+      }
+    },
+    {
+      "id": "CAP-113-43",
+      "year": 113,
+      "questionNumber": 43,
+      "groupId": "CAP-113-G40-43",
+      "question": "",
+      "choices": {
+        "A": "Also",
+        "B": "At first",
+        "C": "However",
+        "D": "For example"
+      },
+      "answer": "D",
+      "quickExplanation": "由後面可知都是如何採取不同的社交距離方式的例子，因此用 for example，故選 (D)。",
+      "explanation": "由後面可知都是如何採取不同的社交距離方式的例子，因此用 for example，故選 (D)。",
+      "images": [],
+      "optionImages": {},
+      "glossary": null,
+      "status": "approved",
+      "answerVerification": {
+        "method": "provided teacher PPTX answer and explanation; native text and source visual cross-check",
+        "slide": 53,
+        "questionShapeId": 7,
+        "explanationShapeId": 3,
+        "evidence": "由後面可知都是如何採取不同的社交距離方式的例子，因此用 for example，故選 (D)。",
+        "answerOverlay": [
+          "(D) For example"
+        ]
+      }
+    }
+  ],
+  "assetProvenance": [
+    {
+      "path": "assets/113/q01.png",
+      "sourceSlide": 2,
+      "sourceShapeId": 6,
+      "sourceImageSha256": "babd864b21d69ab35d12c81c07447c96031ec64e223c038ca779e5e0b2ec6627",
+      "crop": null,
+      "sha256": "2fb44484d52775b67a832be59f6432aa8a4ecc225fd7f1932b12e391d5f05c07"
+    },
+    {
+      "path": "assets/113/group-24-25.png",
+      "sourceSlide": 26,
+      "sourceShapeId": 8,
+      "sourceImageSha256": "384826636c128bddc1bbbf4cd5b8d21cc3ab2f352adb3aebd776fe64d5424017",
+      "crop": null,
+      "sha256": "425902303cbd738142e2cc92c264ad4c63f0a14843ad9eac86529f72babd321c"
+    },
+    {
+      "path": "assets/113/group-26-27.png",
+      "sourceSlide": 29,
+      "sourceShapeId": 5,
+      "sourceImageSha256": "328a68ac26ad619c09da1cfeb7b8f27acfe339daa7af3444b12deaf687e86b0a",
+      "crop": null,
+      "sha256": "93870e8c8ba6ce611c25c8b7d0810b2ecf6f852ca5d016402f80e6388a79e211"
+    },
+    {
+      "path": "assets/113/group-28-29.png",
+      "sourceSlide": 32,
+      "sourceShapeId": 5,
+      "sourceImageSha256": "d537585420d6538e5825b28140afbe3675c6b1fcab6e45e0cf9a793b10cb2283",
+      "crop": null,
+      "sha256": "7894981d9a8d3dcde5e2ee6509cfd82d7829cb312e30c8fcdf8713a5c9b5d4c3"
+    },
+    {
+      "path": "assets/113/group-30-32.png",
+      "sourceSlide": 35,
+      "sourceShapeId": 15,
+      "sourceImageSha256": "fe6fb7e964c900b8c296c51720ce12729441fd8587cfdec3333f5eef5b3e7fcc",
+      "crop": null,
+      "sha256": "9fdf0948319b556751e68c1193fb581269bfa04ef0e446761449bbc6738b297d"
+    },
+    {
+      "path": "assets/113/group-33-35.png",
+      "sourceSlide": 39,
+      "sourceShapeId": 8,
+      "sourceImageSha256": "7935f8f835d7c6572989de9c95c5502081131731afa95726360ec3feff966ec5",
+      "crop": null,
+      "sha256": "80d65c6704748924dd9e7b5e7c996c246ba45711343d3dd00548db143317dc1e"
+    },
+    {
+      "path": "assets/113/group-36-39.png",
+      "sourceSlide": 43,
+      "sourceShapeId": 13,
+      "sourceImageSha256": "14a8b703fbd20a625abab19c974cb00e3a6bfae6469a5d94dacf3991751eef13",
+      "crop": null,
+      "sha256": "8492d5b776bbfa3b6dddcd7b5dab8a194706a0eecbacb4028d3799a8e22c3247"
+    },
+    {
+      "path": "assets/113/group-22-23.png",
+      "sourceSlide": 23,
+      "sourceShapeId": null,
+      "sourceImageSha256": "37b3b44fe336f22ff8d527d6bfcfff32bd50a669df2aa121619742853afcd287",
+      "crop": [
+        35,
+        88,
+        1158,
+        1260
+      ],
+      "sha256": "271b8df8e58431c700c9517d54d742a21cb115caac810efc872b2c6545686f25"
+    },
+    {
+      "path": "assets/113/group-40-43.png",
+      "sourceSlide": 48,
+      "sourceShapeId": null,
+      "sourceImageSha256": "676f88fb5fcbd66314077decbd159ecc9c583319764407312c9d49306a574246",
+      "crop": [
+        35,
+        0,
+        1178,
+        1350
+      ],
+      "sha256": "eee6bf86d30dc976cb8d175813b5edc085edc38fd165a8d38e0383ef8dc3906a"
+    },
+    {
+      "path": "assets/113/group-40-43-cont.png",
+      "sourceSlide": 49,
+      "sourceShapeId": null,
+      "sourceImageSha256": "df250b69e4f100a72549d279e19b35bcb6b02372d565cbc89fbde19093adc176",
+      "crop": [
+        18,
+        256,
+        1200,
+        1094
+      ],
+      "sha256": "e30fb07ceaf637628867bc4ae9a4462272a9ff2cae1e787ba868e0f7d826f539"
+    },
+    {
+      "path": "assets/113/group-40-43-chart.png",
+      "sourceSlide": 48,
+      "sourceShapeId": 11,
+      "sourceImageSha256": "239429960bef3eddce089e5a09340d0e71cbaa5f776067367954c1e1cd649684",
+      "crop": null,
+      "sha256": "6e58d1170558e284be06d42358f300b25a2fca6dbe7d99ac37738e4e785147d3"
+    },
+    {
+      "path": "assets/113/group-33-35-map.png",
+      "sourceSlide": 39,
+      "sourceShapeId": 8,
+      "sourceImageSha256": "7935f8f835d7c6572989de9c95c5502081131731afa95726360ec3feff966ec5",
+      "crop": [
+        417,
+        153,
+        636,
+        344
+      ],
+      "sha256": "ed8b5b6e1448c1fdf4d994c355a05b11a3262ae85df05a49c6626c0984b5d7b0"
+    },
+    {
+      "path": "assets/113/group-30-32-shop.png",
+      "sourceSlide": 35,
+      "sourceShapeId": 17,
+      "sourceImageSha256": "92a0ac1eaad62bfdb454ebb07016a3ee7540f82919a526baccc2c4eae331b479",
+      "crop": null,
+      "sha256": "66bda24afc07229b63fcf361206ff80c090b4ff6a493bac86d1f3d5bd0b5785f"
+    }
+  ]
+}

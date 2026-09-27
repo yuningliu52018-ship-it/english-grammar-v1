@@ -1,0 +1,178 @@
+{
+  "version": 1,
+  "sourceType": "user-provided-teacher-pptx",
+  "years": [
+    {
+      "year": 111,
+      "raw": 43,
+      "approved": 43,
+      "review": 0,
+      "singleRaw": 20,
+      "singleApproved": 20,
+      "groups": 8,
+      "visualGroups": 7,
+      "groupRanges": [
+        [
+          21,
+          22
+        ],
+        [
+          23,
+          24
+        ],
+        [
+          25,
+          26
+        ],
+        [
+          27,
+          29
+        ],
+        [
+          30,
+          32
+        ],
+        [
+          33,
+          36
+        ],
+        [
+          37,
+          39
+        ],
+        [
+          40,
+          43
+        ]
+      ],
+      "source": {
+        "file": "111會考英語科【閱讀】試題解析PPT.pptx",
+        "sha256": "eb3ae74240515474a91f97f935ab7e833067881ed363a85d7a6e32ad6955fc78",
+        "slides": 51
+      }
+    },
+    {
+      "year": 112,
+      "raw": 43,
+      "approved": 42,
+      "review": 1,
+      "singleRaw": 23,
+      "singleApproved": 22,
+      "groups": 8,
+      "visualGroups": 3,
+      "groupRanges": [
+        [
+          24,
+          25
+        ],
+        [
+          26,
+          27
+        ],
+        [
+          28,
+          29
+        ],
+        [
+          30,
+          32
+        ],
+        [
+          33,
+          35
+        ],
+        [
+          36,
+          38
+        ],
+        [
+          39,
+          41
+        ],
+        [
+          42,
+          43
+        ]
+      ],
+      "source": {
+        "file": "112會考英語科【閱讀】試題解析PPT.pptx",
+        "sha256": "037ede0ef3e2299d52a4d75cb702957ca9522502a69836dc27d6a0d59aef8c21",
+        "slides": 52
+      }
+    },
+    {
+      "year": 113,
+      "raw": 43,
+      "approved": 42,
+      "review": 1,
+      "singleRaw": 21,
+      "singleApproved": 20,
+      "groups": 8,
+      "visualGroups": 4,
+      "groupRanges": [
+        [
+          22,
+          23
+        ],
+        [
+          24,
+          25
+        ],
+        [
+          26,
+          27
+        ],
+        [
+          28,
+          29
+        ],
+        [
+          30,
+          32
+        ],
+        [
+          33,
+          35
+        ],
+        [
+          36,
+          39
+        ],
+        [
+          40,
+          43
+        ]
+      ],
+      "source": {
+        "file": "113會考英語科【閱讀】試題解析PPT.pptx",
+        "sha256": "306027c7afdb934bbbd4b2f25d45cd99ab0d95da34c1a92ab7156731fe22599b",
+        "slides": 53
+      }
+    }
+  ],
+  "rawTotalAllYears": 213,
+  "approvedTotalAllYears": 211,
+  "reviewTotalAllYears": 2,
+  "groupsTotalAllYears": 41,
+  "htmlNewGroups": 15,
+  "newImageAssets": 41,
+  "reviewQuestions": [
+    {
+      "id": "CAP-112-01",
+      "reason": "source-universal-credit: teacher deck says this question receives credit for every answer; held out rather than altering existing single-answer scoring."
+    },
+    {
+      "id": "CAP-113-05",
+      "reason": "source-answer-conflict: answer overlay (A) colors conflicts with explanation (D) weather; excluded without correction."
+    }
+  ],
+  "notes": [
+    "Only the three PPTX supplied by the user are used for 111/112/113. No other edition is used to fill source conflicts.",
+    "PPT auto-numbered A labels are expanded from XML; background-colored invisible spacer in 112 Q23 is not visible question text. All checked against PowerPoint render.",
+    "Blank underline runs become visible underscores; only layout whitespace is normalized. No wording or grammar is corrected.",
+    "111 Q33 option order is verified by position: A shape 29, B shape 31, C shape 35, D shape 33.",
+    "Visual passage crops exclude teacher answer overlays and explanation annotation lines.",
+    "112 Q1 retains the source answer B and universal-credit note as review; scoring is not changed.",
+    "113 Q5 retains source explanation D and conflicting overlay A colors in answerVerification; excluded as review."
+  ]
+}
