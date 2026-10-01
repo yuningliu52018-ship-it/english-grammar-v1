@@ -1,6 +1,24 @@
-import {KEYS,read,escapeHTML as h} from './store.mjs';
-const recent=document.querySelector('#recent'),last=read(KEYS.last),current=read(KEYS.current);
-if (last || current) {
- recent.hidden=false;
- recent.innerHTML='<h2>最近一局</h2>' + (current && !current.finished ? '<p><a class="secondary" href="exam/play.html?resume=1">繼續上次作答</a></p>' : '') + (last ? `<p>答對 ${h(last.score)} / ${h(last.total)} 題</p>${last.wrongQuestionIds?.length ? '<a class="secondary" href="exam/play.html?mode=retry">再刷剛才錯的</a><p class="note">包含同組其他題，保留完整題組。</p>' : '<p>這一局全對！</p>'}` : '');
-}
+import {loadPool,loadProgress,saveProgress,allCompleted,restartCycle} from './quick-round.mjs';
+const button=document.querySelector('#start'),progressText=document.querySelector('#progress'),notice=document.querySelector('#notice');
+const bubble=document.querySelector('#home-bubble');
+const encouragements=['今天一起做 5 題吧！','先做一點點，就很厲害！','做完今天 5 題就休息～','我陪你一起讀！','從 5 題開始最輕鬆！'];
+const greeting=encouragements[Math.floor(Math.random()*encouragements.length)];
+bubble.textContent=greeting;
+button.addEventListener('pointerenter',()=>{if(!button.disabled&&matchMedia('(hover: hover)').matches){bubble.textContent='走吧！5 題很快就完成！';document.body.classList.add('buddy-ready');}});
+button.addEventListener('pointerleave',()=>{bubble.textContent=greeting;document.body.classList.remove('buddy-ready');});
+button.addEventListener('click',()=>{bubble.textContent='出發！我陪你～';},{capture:true});
+try {
+ const {ids}=await loadPool();let progress=loadProgress(ids);
+ function render(){
+  const complete=allCompleted(ids,progress);
+  progressText.textContent=complete?'這一輪已全部完成！':`這一輪 ${progress.completedQuestionIds.length} / ${ids.length}`;
+  button.textContent=complete?'重新開始新一輪':'開始 5 題';button.disabled=false;
+  button.onclick=()=>{
+   if(complete){const next=restartCycle(ids,progress);if(!saveProgress(next)){notice.textContent='進度暫時無法保存，請稍後再試。';return;}progress=next;}
+   if(progress.current?.finished){const next={...progress,current:null};if(!saveProgress(next)){notice.textContent='進度暫時無法保存，請稍後再試。';return;}}
+   location.href='exam/play.html';
+  };
+ }
+ if(!saveProgress(progress))notice.textContent='進度暫時無法保存，請確認瀏覽器允許儲存。';
+ render();
+}catch{notice.textContent='題目暫時無法載入，請重新整理。';}
