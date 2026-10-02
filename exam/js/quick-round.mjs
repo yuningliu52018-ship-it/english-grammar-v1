@@ -27,9 +27,19 @@ export function loadProgress(ids) {
 export const saveProgress = progress => write(PROGRESS_KEY,progress);
 export function createRound(units, completedIds, random=Math.random) {
  const done=new Set(completedIds), candidates=shuffle(units.filter(u=>u.questionIds.some(id=>!done.has(id))),random);
- const selected=[];let count=0;
- for(const unit of candidates){if(count>=5)break;selected.push(unit);count+=unit.questionIds.filter(id=>!done.has(id)).length;}
- if(!selected.length)return null;
+ // Keep each unit whole. Find an exact five when possible, rather than
+ // greedily using a group that would leave an unfillable remainder.
+ const combinations=Array(6).fill(null);combinations[0]=[];
+ for(const unit of candidates){
+  const size=unit.questionIds.filter(id=>!done.has(id)).length;
+  if(size>5)continue;
+  for(let count=5;count>=size;count--){
+   if(!combinations[count]&&combinations[count-size])combinations[count]=[...combinations[count-size],unit];
+  }
+  if(combinations[5])break;
+ }
+ const selected=combinations[5]||combinations[4]||combinations[3]||combinations[2]||combinations[1];
+ if(!selected)return null;
  const questionIds=flattenUnits(selected),completedBefore=questionIds.filter(id=>done.has(id));
  return {questionIds,completedBefore,answers:{},index:questionIds.findIndex(id=>!done.has(id)),finished:false};
 }
